@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <h1>Blog của tôi</h1>
+  {{ range (where .Site.RegularPages "Type" "posts") }}
+    <article>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Date.Format "02/01/2006" }}</p>
+    </article>
+  {{ end }}
+{{ end }}
