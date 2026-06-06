@@ -2,6 +2,7 @@ backend:
   name: github
   repo: hoangjustinseo-ctrl/conmeobayvaodutru
   branch: main
+  base_url: https://hidden-queen-825a.hoangjustinseo.workers.dev
 
 media_folder: static/images
 public_folder: /images
