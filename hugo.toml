@@ -1,3 +1,4 @@
 baseURL = "https://conmeobayvaodutru.com/"
 languageCode = "vi"
 title = "Con Mèo Bay Vào Dũ Trụ"
+buildDrafts = true
