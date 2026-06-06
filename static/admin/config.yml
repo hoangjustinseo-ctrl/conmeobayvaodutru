@@ -1,4 +1,4 @@
-backend:
+﻿backend:
   name: github
   repo: hoangjustinseo-ctrl/conmeobayvaodutru
   branch: main
@@ -9,40 +9,38 @@ public_folder: "/images"
 
 collections:
   - name: "posts"
-    label: "Bài viết"
+    label: "Bai viet"
     folder: "content/posts"
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Tiêu đề", name: "title", widget: "string" }
-      - { label: "Ngày đăng", name: "date", widget: "datetime" }
-      - { label: "Mô tả ngắn", name: "description", widget: "text", required: false }
-      - label: "Chủ đề"
+      - { label: "Tieu de", name: "title", widget: "string" }
+      - { label: "Ngay dang", name: "date", widget: "datetime" }
+      - { label: "Mo ta ngan", name: "description", widget: "text", required: false }
+      - label: "Chu de / Tag"
         name: "categories"
         widget: "list"
         required: false
-        options:
-          - "Tâm linh"
-          - "Thiên văn"
-          - "Ngoài hành tinh"
-          - "Atlantis"
-          - "Lịch sử bí ẩn"
-      - label: "Series / Album sách"
+        field:
+          label: Tag
+          name: tag
+          widget: string
+      - label: "Series / Album sach"
         name: "series"
         widget: "select"
         required: false
         options:
           - "Keepers of the Garden"
-          - "Sách của bà Dolores Cannon"
-          - "Nhật ký ngoài hành tinh"
-          - "Cuộc đời giữa các kiếp sống"
-      - label: "Số thứ tự trong series"
+          - "Sach cua ba Dolores Cannon"
+          - "Nhat ky ngoai hanh tinh"
+          - "Cuoc doi giua cac kiep song"
+      - label: "So thu tu trong series"
         name: "series_order"
         widget: "number"
         required: false
         value_type: "int"
         min: 1
-      - label: "Ảnh thumbnail"
+      - label: "Anh thumbnail"
         name: "image"
         widget: "image"
         required: false
@@ -50,4 +48,4 @@ collections:
         public_folder: "/images"
       - { label: "YouTube ID", name: "youtube", widget: "string", required: false }
       - { label: "TikTok URL", name: "tiktok", widget: "string", required: false }
-      - { label: "Nội dung", name: "body", widget: "markdown" }
+      - { label: "Noi dung", name: "body", widget: "markdown" }
