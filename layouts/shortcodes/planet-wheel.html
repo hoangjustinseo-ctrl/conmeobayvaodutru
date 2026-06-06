@@ -1,0 +1,102 @@
+<style>
+.cosmos-wheel{background:#08101a;min-height:580px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem 1rem;font-family:'Inter',sans-serif;position:relative;overflow:hidden;border-radius:12px;margin:2rem 0;}
+.cosmos-wheel .star-field{position:absolute;inset:0;pointer-events:none;}
+.cosmos-wheel .wtitle{font-family:'Amatic SC',cursive;font-size:32px;font-weight:700;color:#f7f3ee;letter-spacing:0.05em;margin-bottom:0.25rem;text-align:center;position:relative;z-index:1;}
+.cosmos-wheel .wsubtitle{font-size:11px;letter-spacing:0.2em;text-transform:uppercase;color:rgba(197,168,120,0.7);margin-bottom:2rem;text-align:center;position:relative;z-index:1;}
+.cosmos-wheel .wheel-wrap{position:relative;width:320px;height:320px;margin:0 auto 1.5rem;z-index:1;}
+.cosmos-wheel .center-btn{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:60px;height:60px;border-radius:50%;background:#ff6b35;border:3px solid #fff;cursor:pointer;font-family:'Amatic SC',cursive;font-size:15px;font-weight:700;color:#fff;letter-spacing:0.05em;transition:transform 0.15s;z-index:2;}
+.cosmos-wheel .center-btn:hover{transform:translate(-50%,-50%) scale(1.08);}
+.cosmos-wheel .pointer-arrow{position:absolute;top:-16px;left:50%;transform:translateX(-50%);width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:26px solid #f59e0b;z-index:2;}
+.cosmos-wheel .result-box{min-height:110px;text-align:center;padding:1.25rem 1.5rem;background:rgba(255,255,255,0.04);border:0.5px solid rgba(197,168,120,0.25);border-radius:12px;width:100%;max-width:360px;position:relative;z-index:1;}
+.cosmos-wheel .result-planet{font-family:'Amatic SC',cursive;font-size:34px;font-weight:700;color:#f59e0b;margin-bottom:0.4rem;}
+.cosmos-wheel .result-desc{font-size:13px;color:rgba(247,243,238,0.65);line-height:1.7;font-weight:300;}
+.cosmos-wheel .result-tag{display:inline-block;font-size:9px;letter-spacing:0.2em;text-transform:uppercase;padding:3px 10px;border-radius:20px;border:0.5px solid rgba(10,124,110,0.6);color:#5dcaa5;margin-bottom:0.5rem;}
+</style>
+
+<div class="cosmos-wheel">
+  <canvas class="star-field" id="wStars" width="700" height="600"></canvas>
+  <p class="wtitle">Hành Tinh Định Mệnh</p>
+  <p class="wsubtitle">✦ Bạn sẽ du lịch đến đâu trong vũ trụ? ✦</p>
+  <div class="wheel-wrap">
+    <div class="pointer-arrow"></div>
+    <canvas id="wWheel" width="320" height="320"></canvas>
+    <button class="center-btn" id="wSpinBtn">QUAY</button>
+  </div>
+  <div class="result-box" id="wResult">
+    <p class="result-desc" style="color:rgba(247,243,238,0.3);font-size:12px;letter-spacing:0.1em;">Bấm QUAY để khám phá hành tinh định mệnh của bạn</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  const planets=[
+    {name:"Pleiades",tag:"Cụm sao",color:"#1a3a6a",desc:"Bạn có nguồn gốc từ cụm sao Pleiades — nơi các linh hồn ánh sáng xuất phát để giúp đỡ Trái Đất thức tỉnh."},
+    {name:"Nibiru",tag:"Hành tinh X",color:"#4a1a0a",desc:"Hành tinh bí ẩn quỹ đạo 3600 năm. Người Anunnaki từ đây đã đặt nền móng cho nền văn minh Sumer."},
+    {name:"Sirius B",tag:"Sao đôi",color:"#0a2a3a",desc:"Người Dogon ở châu Phi biết về Sirius B từ hàng nghìn năm trước khi kính thiên văn được phát minh."},
+    {name:"Andromeda",tag:"Thiên hà",color:"#1a0a3a",desc:"Thiên hà gần nhất — 2.5 triệu năm ánh sáng. Nơi có những nền văn minh đã tồn tại hàng tỷ năm."},
+    {name:"Arcturus",tag:"Sao khổng lồ",color:"#2a1a00",desc:"Sao sáng nhất Bắc bán cầu. Dolores Cannon nhắc đến như một trung tâm chữa lành vũ trụ."},
+    {name:"Lyra",tag:"Cung Thiên Cầm",color:"#0a2a1a",desc:"Chòm sao cổ — nơi được cho là cội nguồn của nhân loại theo các tài liệu ngoài hành tinh cổ đại."},
+    {name:"Proxima b",tag:"Hành tinh gần nhất",color:"#1a0a2a",desc:"Hành tinh ở vùng sống được gần Trái Đất nhất — chỉ 4.2 năm ánh sáng. Có thể có sự sống?"},
+    {name:"Zeta Reticuli",tag:"Hệ sao đôi",color:"#002a20",desc:"Nơi được cho là quê hương của Greys — chủng ngoài hành tinh được báo cáo nhiều nhất trong lịch sử."},
+    {name:"Vega",tag:"Sao sáng",color:"#2a1500",desc:"Ngôi sao trong phim Contact. Người Hopi bản địa Mỹ gọi Vega là sao Tổ tiên của họ."},
+    {name:"Aldebaran",tag:"Mắt Kim Ngưu",color:"#2a0a0a",desc:"Sao đỏ khổng lồ, 65 năm ánh sáng. Xuất hiện trong nhiều truyền thuyết về nền văn minh tiền sử."},
+  ];
+
+  const sc=document.getElementById('wStars'),sctx=sc.getContext('2d');
+  for(let i=0;i<180;i++){
+    sctx.beginPath();
+    sctx.arc(Math.random()*700,Math.random()*600,Math.random()*1.5+0.3,0,Math.PI*2);
+    sctx.fillStyle=`rgba(247,243,238,${Math.random()*0.8+0.2})`;
+    sctx.fill();
+  }
+
+  const wc=document.getElementById('wWheel'),wctx=wc.getContext('2d');
+  const cx=160,cy=160,R=150;
+  let curAngle=0,spinning=false;
+
+  function drawWheel(rot){
+    wctx.clearRect(0,0,320,320);
+    const sa=(Math.PI*2)/planets.length;
+    planets.forEach((p,i)=>{
+      const s=rot+i*sa,e=s+sa;
+      wctx.beginPath();wctx.moveTo(cx,cy);wctx.arc(cx,cy,R,s,e);wctx.closePath();
+      wctx.fillStyle=p.color;wctx.fill();
+      wctx.strokeStyle='rgba(247,243,238,0.15)';wctx.lineWidth=1;wctx.stroke();
+      wctx.save();wctx.translate(cx,cy);wctx.rotate(s+sa/2);
+      wctx.textAlign='right';wctx.fillStyle='#f7f3ee';
+      wctx.font="bold 13px 'Amatic SC',cursive";
+      wctx.fillText(p.name,R-8,5);wctx.restore();
+    });
+    wctx.beginPath();wctx.arc(cx,cy,26,0,Math.PI*2);
+    wctx.fillStyle='#08101a';wctx.fill();
+    wctx.strokeStyle='rgba(247,243,238,0.2)';wctx.lineWidth=1.5;wctx.stroke();
+  }
+  drawWheel(0);
+
+  document.getElementById('wSpinBtn').addEventListener('click',function(){
+    if(spinning)return;
+    spinning=true;this.disabled=true;
+    document.getElementById('wResult').innerHTML='<p class="result-desc" style="color:rgba(247,243,238,0.4);font-size:12px;letter-spacing:0.1em;margin-top:1.5rem;">Đang quay...</p>';
+    const extra=(5+Math.random()*5)*Math.PI*2;
+    const target=curAngle+extra;
+    const dur=4000+Math.random()*2000;
+    const t0=performance.now(),a0=curAngle;
+    const btn=this;
+    function ease(t){return t<0.5?4*t*t*t:(t-1)*(2*t-2)*(2*t-2)+1;}
+    function frame(now){
+      const el=now-t0,t=Math.min(el/dur,1);
+      curAngle=a0+(target-a0)*ease(t);
+      drawWheel(curAngle);
+      if(t<1){requestAnimationFrame(frame);}
+      else{
+        spinning=false;btn.disabled=false;
+        const sa=(Math.PI*2)/planets.length;
+        const norm=((-curAngle%(Math.PI*2))+(Math.PI*2))%(Math.PI*2);
+        const p=planets[Math.floor(norm/sa)%planets.length];
+        document.getElementById('wResult').innerHTML=`<span class="result-tag">${p.tag}</span><p class="result-planet">${p.name}</p><p class="result-desc">${p.desc}</p>`;
+      }
+    }
+    requestAnimationFrame(frame);
+  });
+})();
+</script>
