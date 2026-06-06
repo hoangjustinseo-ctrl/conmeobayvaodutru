@@ -2,3 +2,7 @@ baseURL = "https://conmeobayvaodutru.com/"
 languageCode = "vi"
 title = "Con Mèo Bay Vào Dũ Trụ"
 buildDrafts = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
