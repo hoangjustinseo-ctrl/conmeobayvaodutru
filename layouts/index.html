@@ -41,7 +41,6 @@
     </div>
   </div>
 </section>
-
 <section class="posts-section">
   <div class="section-header">
     <div class="section-title">Bài viết mới nhất</div>
@@ -73,23 +72,8 @@
   <p class="drag-hint">← Kéo trái phải để xem thêm →</p>
 </section>
 
-{{ if .Site.RegularPages }}
-{{ with (where .Site.RegularPages "Type" "posts") }}
-{{ with index . 0 }}
-<section class="featured-strip">
-  <div class="strip-inner">
-    <div class="strip-num">01</div>
-    <div class="strip-content">
-      <p class="strip-label">Bài viết nổi bật</p>
-      <h2 class="strip-title">{{ .Title }}</h2>
-      <p class="strip-desc">{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | truncate 120 }}{{ end }}</p>
-      <a href="{{ .Permalink }}" class="strip-link">Đọc ngay →</a>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-{{ end }}
+{{ partial "planet-wheel.html" . }}
+
 
 <script>
   const scroll = document.getElementById('cardScroll');
