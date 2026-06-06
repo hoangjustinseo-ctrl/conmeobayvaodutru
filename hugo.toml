@@ -6,3 +6,6 @@ buildDrafts = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[taxonomies]
+  category = "categories"
+  series = "series"
