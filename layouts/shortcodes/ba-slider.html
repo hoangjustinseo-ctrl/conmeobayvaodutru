@@ -1,0 +1,45 @@
+<div class="ba-slider" id="ba-{{ .Get "id" | default "1" }}">
+  <div class="ba-before">
+    <img src="{{ .Get "before" }}" alt="{{ .Get "before_label" | default "Trước" }}" draggable="false" />
+    <span class="ba-label-before">{{ .Get "before_label" | default "Trước" }}</span>
+  </div>
+  <div class="ba-after">
+    <img src="{{ .Get "after" }}" alt="{{ .Get "after_label" | default "Sau" }}" draggable="false" />
+    <span class="ba-label-after">{{ .Get "after_label" | default "Sau" }}</span>
+  </div>
+  <div class="ba-handle"></div>
+</div>
+
+<style>
+#ba-{{ .Get "id" | default "1" }} {
+  height: {{ .Get "height" | default "420px" }};
+}
+</style>
+
+<script>
+(function() {
+  const slider = document.getElementById('ba-{{ .Get "id" | default "1" }}');
+  if (!slider) return;
+  const after = slider.querySelector('.ba-after');
+  const handle = slider.querySelector('.ba-handle');
+  let active = false;
+
+  function setPos(x) {
+    const rect = slider.getBoundingClientRect();
+    let pct = ((x - rect.left) / rect.width) * 100;
+    pct = Math.min(Math.max(pct, 2), 98);
+    after.style.clipPath = `inset(0 ${100 - pct}% 0 0)`;
+    handle.style.left = pct + '%';
+  }
+
+  handle.addEventListener('mousedown', () => active = true);
+  window.addEventListener('mouseup', () => active = false);
+  window.addEventListener('mousemove', e => { if (active) setPos(e.clientX); });
+
+  slider.addEventListener('touchstart', e => { active = true; setPos(e.touches[0].clientX); }, { passive: true });
+  window.addEventListener('touchend', () => active = false);
+  window.addEventListener('touchmove', e => { if (active) setPos(e.touches[0].clientX); }, { passive: true });
+
+  slider.addEventListener('click', e => setPos(e.clientX));
+})();
+</script>
