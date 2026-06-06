@@ -1,9 +1,73 @@
 {{ define "main" }}
-  <h1>Blog của tôi</h1>
-  {{ range (where .Site.RegularPages "Type" "posts") }}
-    <article>
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      <p>{{ .Date.Format "02/01/2006" }}</p>
+
+<section class="hero">
+  <p class="hero-tag">✦ Hành trình vũ trụ ✦</p>
+  <h1>Những bí ẩn <em>ngoài dải</em><br>ngân hà</h1>
+  <p class="hero-desc">Khám phá vũ trụ qua góc nhìn tâm linh — nơi khoa học và huyền bí giao thoa giữa muôn vàn vì sao.</p>
+  <div class="scroll-hint">
+    <div class="scroll-line"></div>
+    Kéo để khám phá
+    <div class="scroll-line"></div>
+  </div>
+</section>
+
+<section class="featured-section">
+  <div class="section-label">Bài viết mới nhất</div>
+  <div class="cards-scroll" id="cardScroll">
+    {{ range (where .Site.RegularPages "Type" "posts") }}
+    <article class="card">
+      <div class="card-img">
+        {{ if .Params.image }}
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+        {{ else }}
+        <div class="card-nebula"></div>
+        {{ end }}
+        {{ if .Params.category }}
+        <span class="card-category">{{ .Params.category }}</span>
+        {{ end }}
+      </div>
+      <div class="card-body">
+        <h3>{{ .Title }}</h3>
+        {{ if .Description }}
+        <p>{{ .Description }}</p>
+        {{ else }}
+        <p>{{ .Summary | truncate 100 }}</p>
+        {{ end }}
+        <div class="card-meta">
+          <span>{{ .Date.Format "02/01/2006" }}</span>
+          <a href="{{ .Permalink }}" class="read-more">Đọc tiếp →</a>
+        </div>
+      </div>
     </article>
-  {{ end }}
+    {{ end }}
+  </div>
+  <div class="drag-hint">← Kéo trái phải để xem thêm →</div>
+</section>
+
+<script>
+  const scroll = document.getElementById('cardScroll');
+  let isDown = false, startX, scrollLeft;
+
+  scroll.addEventListener('mousedown', e => {
+    isDown = true;
+    scroll.classList.add('grabbing');
+    startX = e.pageX - scroll.offsetLeft;
+    scrollLeft = scroll.scrollLeft;
+  });
+  scroll.addEventListener('mouseleave', () => { isDown = false; scroll.classList.remove('grabbing'); });
+  scroll.addEventListener('mouseup', () => { isDown = false; scroll.classList.remove('grabbing'); });
+  scroll.addEventListener('mousemove', e => {
+    if (!isDown) return;
+    e.preventDefault();
+    scroll.scrollLeft = scrollLeft - (e.pageX - scroll.offsetLeft - startX) * 1.5;
+  });
+  scroll.addEventListener('touchstart', e => {
+    startX = e.touches[0].pageX;
+    scrollLeft = scroll.scrollLeft;
+  }, { passive: true });
+  scroll.addEventListener('touchmove', e => {
+    scroll.scrollLeft = scrollLeft - (e.touches[0].pageX - startX);
+  }, { passive: true });
+</script>
+
 {{ end }}

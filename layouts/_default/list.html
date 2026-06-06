@@ -1,9 +1,35 @@
 {{ define "main" }}
+
+<section class="page-header">
+  <p class="hero-tag">✦ Khám phá ✦</p>
   <h1>{{ .Title }}</h1>
+</section>
+
+<section class="posts-grid">
   {{ range .Pages }}
-    <article>
+  <article class="post-card">
+    {{ if .Params.image }}
+    <div class="post-card-img">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+      {{ if .Params.category }}<span class="card-category">{{ .Params.category }}</span>{{ end }}
+    </div>
+    {{ else }}
+    <div class="post-card-img post-card-nebula">
+      {{ if .Params.category }}<span class="card-category">{{ .Params.category }}</span>{{ end }}
+    </div>
+    {{ end }}
+    <div class="post-card-body">
+      <p class="post-date">{{ .Date.Format "02/01/2006" }}</p>
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      <p>{{ .Date.Format "02/01/2006" }}</p>
-    </article>
+      {{ if .Description }}
+      <p class="post-excerpt">{{ .Description }}</p>
+      {{ else }}
+      <p class="post-excerpt">{{ .Summary | truncate 120 }}</p>
+      {{ end }}
+      <a href="{{ .Permalink }}" class="read-more">Đọc tiếp →</a>
+    </div>
+  </article>
   {{ end }}
+</section>
+
 {{ end }}

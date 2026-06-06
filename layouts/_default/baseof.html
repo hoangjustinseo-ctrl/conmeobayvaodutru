@@ -1,11 +1,56 @@
 <!DOCTYPE html>
 <html lang="vi">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ .Title }}</title>
-  </head>
-  <body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ if .IsHome }}Con Mèo Bay Vào Dũ Trụ{{ else }}{{ .Title }} — Con Mèo Bay Vào Dũ Trụ{{ end }}</title>
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}Khám phá vũ trụ qua góc nhìn tâm linh{{ end }}" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+  <div class="stars" id="stars"></div>
+
+  <nav>
+    <a href="/" class="logo">
+      <img src="/images/logo.jpg" alt="Logo" class="logo-img" />
+      <span>Con Mèo Bay Vào Dũ Trụ</span>
+    </a>
+    <ul>
+      <li><a href="/">Trang chủ</a></li>
+      <li><a href="/posts/">Bài viết</a></li>
+      <li><a href="/about/">Về tôi</a></li>
+    </ul>
+    <button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>
+  </nav>
+
+  <main>
     {{ block "main" . }}{{ end }}
-  </body>
+  </main>
+
+  <footer>
+    <p>✦ Con Mèo Bay Vào Dũ Trụ ✦</p>
+    <p class="footer-sub">Mọi thứ đều có kết nối</p>
+  </footer>
+
+  <script>
+    const starsEl = document.getElementById('stars');
+    for (let i = 0; i < 120; i++) {
+      const s = document.createElement('div');
+      s.className = 'star';
+      const size = Math.random() * 2 + 0.5;
+      s.style.cssText = `width:${size}px;height:${size}px;left:${Math.random()*100}%;top:${Math.random()*100}%;--d:${2+Math.random()*4}s;--o:${0.3+Math.random()*0.7};animation-delay:${Math.random()*4}s`;
+      starsEl.appendChild(s);
+    }
+
+    const toggle = document.getElementById('navToggle');
+    const navUl = document.querySelector('nav ul');
+    toggle.addEventListener('click', () => navUl.classList.toggle('open'));
+  </script>
+
+</body>
 </html>

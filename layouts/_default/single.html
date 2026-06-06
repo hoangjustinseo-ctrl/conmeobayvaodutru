@@ -1,5 +1,37 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  <p>{{ .Date.Format "02/01/2006" }}</p>
-  {{ .Content }}
+
+<article class="single-post">
+
+  <header class="single-header">
+    {{ if .Params.category }}
+    <span class="post-cat-tag">{{ .Params.category }}</span>
+    {{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ if .Description }}
+    <p class="single-desc">{{ .Description }}</p>
+    {{ end }}
+    <div class="single-meta">
+      <span>{{ .Date.Format "02 tháng 01, 2006" }}</span>
+      {{ if .ReadingTime }}
+      <span>· {{ .ReadingTime }} phút đọc</span>
+      {{ end }}
+    </div>
+  </header>
+
+  {{ if .Params.image }}
+  <div class="single-cover">
+    <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+  </div>
+  {{ end }}
+
+  <div class="single-content">
+    {{ .Content }}
+  </div>
+
+  <footer class="single-footer">
+    <a href="/posts/" class="back-link">← Quay lại danh sách bài viết</a>
+  </footer>
+
+</article>
+
 {{ end }}
