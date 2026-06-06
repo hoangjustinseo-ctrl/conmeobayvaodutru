@@ -141,6 +141,7 @@ nav ul a:hover { color: var(--teal); }
   transition: opacity 0.2s;
 }
 .hero-btn:hover { opacity: 0.85; }
+.hero-right { padding: 0 !important; }
 
 .hero-right {
   background: #ddd8cf;

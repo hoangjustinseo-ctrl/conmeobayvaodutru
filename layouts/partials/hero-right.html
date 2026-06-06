@@ -1,0 +1,95 @@
+<style>
+.ba-hero{position:relative;width:100%;height:100%;overflow:hidden;cursor:col-resize;user-select:none;background:#0a1614;}
+.ba-hero canvas{position:absolute;inset:0;width:100%;height:100%;}
+.ba-before{position:absolute;inset:0;z-index:1;}
+.ba-after{position:absolute;inset:0;z-index:2;clip-path:inset(0 50% 0 0);}
+.ba-handle{position:absolute;top:0;left:50%;width:3px;height:100%;background:#f59e0b;z-index:10;transform:translateX(-50%);}
+.ba-handle-btn{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:44px;height:44px;border-radius:50%;background:#f59e0b;border:2px solid #fff;display:flex;align-items:center;justify-content:center;cursor:col-resize;}
+.ba-handle-btn::before{content:'◀';font-size:10px;color:#fff;margin-right:2px;}
+.ba-handle-btn::after{content:'▶';font-size:10px;color:#fff;margin-left:2px;}
+.ba-label{position:absolute;bottom:16px;font-size:9px;letter-spacing:0.2em;text-transform:uppercase;padding:4px 10px;border-radius:20px;background:rgba(8,14,18,0.7);z-index:15;}
+.ba-label-left{left:16px;color:#5dcaa5;border:0.5px solid rgba(93,202,165,0.4);}
+.ba-label-right{right:16px;color:rgba(197,168,120,0.8);border:0.5px solid rgba(197,168,120,0.3);}
+.ba-cat{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1;}
+.ba-cat-circle{width:140px;height:140px;border-radius:50%;background:#fff;overflow:hidden;border:3px solid rgba(10,124,110,0.5);margin-bottom:1rem;}
+.ba-cat-name{font-family:'Amatic SC',cursive;font-size:22px;font-weight:700;color:#f7f3ee;letter-spacing:0.05em;text-align:center;}
+.ba-cat-sub{font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:rgba(197,168,120,0.7);text-align:center;margin-top:0.3rem;}
+</style>
+
+<div class="ba-hero" id="baHero">
+  <canvas id="baBg"></canvas>
+
+  <div class="ba-before">
+    <canvas id="baBeforeCanvas"></canvas>
+    <div class="ba-cat">
+      <div class="ba-cat-circle">
+        <img src="/images/logo.jpg" alt="Logo" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.parentElement.innerHTML='<svg viewBox=\'0 0 140 140\' xmlns=\'http://www.w3.org/2000/svg\' style=\'width:100%;height:100%;background:#f0ebe3;\'><path d=\'M35 68 Q70 48 105 68 Q100 93 70 103 Q40 93 35 68Z\' fill=\'#2a2a2a\'/><path d=\'M35 68 L23 45 L43 61Z\' fill=\'#2a2a2a\'/><path d=\'M105 68 L117 45 L97 61Z\' fill=\'#2a2a2a\'/><ellipse cx=\'55\' cy=\'78\' rx=\'8\' ry=\'9\' fill=\'#f7f3ee\'/><ellipse cx=\'85\' cy=\'78\' rx=\'8\' ry=\'9\' fill=\'#f7f3ee\'/><circle cx=\'55\' cy=\'79\' r=\'4\' fill=\'#1a1a1a\'/><circle cx=\'85\' cy=\'79\' r=\'4\' fill=\'#1a1a1a\'/><circle cx=\'56\' cy=\'77\' r=\'1.5\' fill=\'#fff\'/><circle cx=\'86\' cy=\'77\' r=\'1.5\' fill=\'#fff\'/><ellipse cx=\'70\' cy=\'87\' rx=\'5\' ry=\'4\' fill=\'#e8a0a0\'/><line x1=\'50\' y1=\'85\' x2=\'28\' y2=\'80\' stroke=\'#2a2a2a\' stroke-width=\'1.2\'/><line x1=\'50\' y1=\'87\' x2=\'28\' y2=\'87\' stroke=\'#2a2a2a\' stroke-width=\'1.2\'/><line x1=\'90\' y1=\'85\' x2=\'112\' y2=\'80\' stroke=\'#2a2a2a\' stroke-width=\'1.2\'/><line x1=\'90\' y1=\'87\' x2=\'112\' y2=\'87\' stroke=\'#2a2a2a\' stroke-width=\'1.2\'/><path d=\'M65 91 Q70 95 75 91\' fill=\'none\' stroke=\'#1a1a1a\' stroke-width=\'1.5\'/></svg>'"/>
+      </div>
+      <p class="ba-cat-name">Con Mèo Bay Vào Dũ Trụ</p>
+      <p class="ba-cat-sub">✦ Mọi thứ đều có kết nối ✦</p>
+    </div>
+  </div>
+
+  <div class="ba-after" id="baAfter">
+    <canvas id="baAfterCanvas"></canvas>
+  </div>
+
+  <div class="ba-handle" id="baHandle">
+    <div class="ba-handle-btn"></div>
+  </div>
+
+  <span class="ba-label ba-label-left">Vũ trụ</span>
+  <span class="ba-label ba-label-right">Tinh vân</span>
+</div>
+
+<script>
+(function(){
+  const hero = document.getElementById('baHero');
+  const after = document.getElementById('baAfter');
+  const handle = document.getElementById('baHandle');
+
+  function drawCanvas(id, glows, bg){
+    const c = document.getElementById(id);
+    if(!c) return;
+    c.width = hero.offsetWidth || 340;
+    c.height = hero.offsetHeight || 520;
+    const ctx = c.getContext('2d');
+    ctx.fillStyle = bg;
+    ctx.fillRect(0,0,c.width,c.height);
+    glows.forEach(g => {
+      const gr = ctx.createRadialGradient(g.x*c.width,g.y*c.height,0,g.x*c.width,g.y*c.height,g.r);
+      gr.addColorStop(0,g.c); gr.addColorStop(1,'transparent');
+      ctx.fillStyle=gr; ctx.fillRect(0,0,c.width,c.height);
+    });
+    for(let i=0;i<150;i++){
+      ctx.beginPath();
+      ctx.arc(Math.random()*c.width,Math.random()*c.height,Math.random()*1.5+0.3,0,Math.PI*2);
+      ctx.fillStyle=`rgba(247,243,238,${Math.random()*0.8+0.2})`;
+      ctx.fill();
+    }
+  }
+
+  setTimeout(()=>{
+    drawCanvas('baBg',  [{x:0.3,y:0.35,r:180,c:'rgba(10,124,110,0.35)'},{x:0.7,y:0.65,r:130,c:'rgba(83,74,183,0.2)'}],'#080e12');
+    drawCanvas('baBeforeCanvas', [{x:0.4,y:0.4,r:200,c:'rgba(10,124,110,0.25)'},{x:0.6,y:0.6,r:150,c:'rgba(83,74,183,0.2)'}],'#080e12');
+    drawCanvas('baAfterCanvas', [{x:0.5,y:0.45,r:220,c:'rgba(83,74,183,0.55)'},{x:0.3,y:0.7,r:140,c:'rgba(245,158,11,0.2)'},{x:0.75,y:0.3,r:100,c:'rgba(255,107,53,0.25)'}],'#0e0a1a');
+  },100);
+
+  function setPos(x){
+    const rect = hero.getBoundingClientRect();
+    let pct = ((x - rect.left)/rect.width)*100;
+    pct = Math.min(Math.max(pct,2),98);
+    after.style.clipPath = `inset(0 ${100-pct}% 0 0)`;
+    handle.style.left = pct+'%';
+  }
+
+  let active = false;
+  handle.addEventListener('mousedown', ()=>active=true);
+  hero.addEventListener('click', e=>setPos(e.clientX));
+  window.addEventListener('mouseup', ()=>active=false);
+  window.addEventListener('mousemove', e=>{if(active) setPos(e.clientX);});
+  hero.addEventListener('touchstart', e=>{active=true; setPos(e.touches[0].clientX);},{passive:true});
+  window.addEventListener('touchend', ()=>active=false);
+  window.addEventListener('touchmove', e=>{if(active) setPos(e.touches[0].clientX);},{passive:true});
+})();
+</script>
