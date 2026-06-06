@@ -1,4 +1,14 @@
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
 
 :root {
   --orange:      #ff6b35;
