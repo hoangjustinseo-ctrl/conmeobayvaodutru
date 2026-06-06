@@ -1,18 +1,53 @@
 {{ define "main" }}
 
-<section class="hero">
-  <p class="hero-tag">✦ Hành trình vũ trụ ✦</p>
-  <h1>Những bí ẩn <em>ngoài dải</em><br>ngân hà</h1>
-  <p class="hero-desc">Khám phá vũ trụ qua góc nhìn tâm linh — nơi khoa học và huyền bí giao thoa giữa muôn vàn vì sao.</p>
-  <div class="scroll-hint">
-    <div class="scroll-line"></div>
-    Kéo để khám phá
-    <div class="scroll-line"></div>
+<section class="hero-split">
+  <div class="hero-left">
+    <p class="hero-tag">✦ Hành trình vũ trụ ✦</p>
+    <h1>Những bí ẩn<br><em>ngoài dải</em><br>ngân hà</h1>
+    <p class="hero-quote">Khám phá vũ trụ qua góc nhìn tâm linh — nơi khoa học và huyền bí giao thoa giữa muôn vàn vì sao.</p>
+    <a href="/posts/" class="hero-btn">Khám phá ngay →</a>
+  </div>
+  <div class="hero-right">
+    <div class="hero-nebula">
+      <svg width="100%" height="100%" viewBox="0 0 500 520" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+        <defs>
+          <radialGradient id="g1" cx="45%" cy="45%">
+            <stop offset="0%" stop-color="#0a7c6e" stop-opacity="0.55"/>
+            <stop offset="55%" stop-color="#f59e0b" stop-opacity="0.12"/>
+            <stop offset="100%" stop-color="#0a1a14" stop-opacity="0"/>
+          </radialGradient>
+          <radialGradient id="g2" cx="68%" cy="65%">
+            <stop offset="0%" stop-color="#ff6b35" stop-opacity="0.28"/>
+            <stop offset="100%" stop-color="#0a1a14" stop-opacity="0"/>
+          </radialGradient>
+        </defs>
+        <rect width="500" height="520" fill="#0a1614"/>
+        <ellipse cx="225" cy="234" rx="200" ry="155" fill="url(#g1)"/>
+        <ellipse cx="340" cy="340" rx="140" ry="105" fill="url(#g2)"/>
+        <circle cx="60" cy="80" r="1.5" fill="#f7f3ee" opacity="0.9"/>
+        <circle cx="130" cy="42" r="1" fill="#f7f3ee" opacity="0.7"/>
+        <circle cx="400" cy="55" r="2" fill="#f59e0b" opacity="0.8"/>
+        <circle cx="460" cy="145" r="1" fill="#f7f3ee" opacity="0.6"/>
+        <circle cx="75" cy="310" r="1.5" fill="#f7f3ee" opacity="0.5"/>
+        <circle cx="430" cy="390" r="1" fill="#0a7c6e" opacity="0.9"/>
+        <circle cx="210" cy="460" r="1.5" fill="#f7f3ee" opacity="0.4"/>
+        <circle cx="170" cy="168" r="1" fill="#f59e0b" opacity="0.7"/>
+        <circle cx="310" cy="205" r="2" fill="#f7f3ee" opacity="0.5"/>
+        <circle cx="38" cy="435" r="1" fill="#ff6b35" opacity="0.6"/>
+        <circle cx="480" cy="280" r="1.5" fill="#f7f3ee" opacity="0.55"/>
+        <circle cx="290" cy="100" r="1" fill="#f7f3ee" opacity="0.65"/>
+        <text x="250" y="262" text-anchor="middle" font-family="Amatic SC, cursive" font-size="18" fill="rgba(247,243,238,0.3)" letter-spacing="4">con mèo bay vào dũ trụ</text>
+      </svg>
+    </div>
   </div>
 </section>
 
-<section class="featured-section">
-  <div class="section-label">Bài viết mới nhất</div>
+<section class="posts-section">
+  <div class="section-header">
+    <div class="section-title">Bài viết mới nhất</div>
+    <a href="/posts/" class="see-all">Xem tất cả →</a>
+  </div>
+
   <div class="cards-scroll" id="cardScroll">
     {{ range (where .Site.RegularPages "Type" "posts") }}
     <article class="card">
@@ -23,51 +58,50 @@
         <div class="card-nebula"></div>
         {{ end }}
         {{ if .Params.category }}
-        <span class="card-category">{{ .Params.category }}</span>
+        <span class="card-cat">{{ .Params.category }}</span>
         {{ end }}
       </div>
       <div class="card-body">
+        <p class="card-date">{{ .Date.Format "02/01/2006" }}</p>
         <h3>{{ .Title }}</h3>
-        {{ if .Description }}
-        <p>{{ .Description }}</p>
-        {{ else }}
-        <p>{{ .Summary | truncate 100 }}</p>
-        {{ end }}
-        <div class="card-meta">
-          <span>{{ .Date.Format "02/01/2006" }}</span>
-          <a href="{{ .Permalink }}" class="read-more">Đọc tiếp →</a>
-        </div>
+        <p>{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | truncate 90 }}{{ end }}</p>
+        <a href="{{ .Permalink }}" class="card-read">Đọc tiếp →</a>
       </div>
     </article>
     {{ end }}
   </div>
-  <div class="drag-hint">← Kéo trái phải để xem thêm →</div>
+  <p class="drag-hint">← Kéo trái phải để xem thêm →</p>
 </section>
+
+{{ if .Site.RegularPages }}
+{{ with (where .Site.RegularPages "Type" "posts") }}
+{{ with index . 0 }}
+<section class="featured-strip">
+  <div class="strip-inner">
+    <div class="strip-num">01</div>
+    <div class="strip-content">
+      <p class="strip-label">Bài viết nổi bật</p>
+      <h2 class="strip-title">{{ .Title }}</h2>
+      <p class="strip-desc">{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | truncate 120 }}{{ end }}</p>
+      <a href="{{ .Permalink }}" class="strip-link">Đọc ngay →</a>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
 
 <script>
   const scroll = document.getElementById('cardScroll');
-  let isDown = false, startX, scrollLeft;
-
-  scroll.addEventListener('mousedown', e => {
-    isDown = true;
-    scroll.classList.add('grabbing');
-    startX = e.pageX - scroll.offsetLeft;
-    scrollLeft = scroll.scrollLeft;
-  });
-  scroll.addEventListener('mouseleave', () => { isDown = false; scroll.classList.remove('grabbing'); });
-  scroll.addEventListener('mouseup', () => { isDown = false; scroll.classList.remove('grabbing'); });
-  scroll.addEventListener('mousemove', e => {
-    if (!isDown) return;
-    e.preventDefault();
-    scroll.scrollLeft = scrollLeft - (e.pageX - scroll.offsetLeft - startX) * 1.5;
-  });
-  scroll.addEventListener('touchstart', e => {
-    startX = e.touches[0].pageX;
-    scrollLeft = scroll.scrollLeft;
-  }, { passive: true });
-  scroll.addEventListener('touchmove', e => {
-    scroll.scrollLeft = scrollLeft - (e.touches[0].pageX - startX);
-  }, { passive: true });
+  if (scroll) {
+    let isDown = false, startX, scrollLeft;
+    scroll.addEventListener('mousedown', e => { isDown = true; scroll.classList.add('grabbing'); startX = e.pageX - scroll.offsetLeft; scrollLeft = scroll.scrollLeft; });
+    scroll.addEventListener('mouseleave', () => { isDown = false; scroll.classList.remove('grabbing'); });
+    scroll.addEventListener('mouseup', () => { isDown = false; scroll.classList.remove('grabbing'); });
+    scroll.addEventListener('mousemove', e => { if (!isDown) return; e.preventDefault(); scroll.scrollLeft = scrollLeft - (e.pageX - scroll.offsetLeft - startX) * 1.5; });
+    scroll.addEventListener('touchstart', e => { startX = e.touches[0].pageX; scrollLeft = scroll.scrollLeft; }, { passive: true });
+    scroll.addEventListener('touchmove', e => { scroll.scrollLeft = scrollLeft - (e.touches[0].pageX - startX); }, { passive: true });
+  }
 </script>
 
 {{ end }}

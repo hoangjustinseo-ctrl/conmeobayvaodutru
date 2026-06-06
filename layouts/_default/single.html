@@ -1,7 +1,6 @@
 {{ define "main" }}
 
 <article class="single-post">
-
   <header class="single-header">
     {{ if .Params.category }}
     <span class="post-cat-tag">{{ .Params.category }}</span>
@@ -12,9 +11,7 @@
     {{ end }}
     <div class="single-meta">
       <span>{{ .Date.Format "02 tháng 01, 2006" }}</span>
-      {{ if .ReadingTime }}
-      <span>· {{ .ReadingTime }} phút đọc</span>
-      {{ end }}
+      {{ if .ReadingTime }}<span>· {{ .ReadingTime }} phút đọc</span>{{ end }}
     </div>
   </header>
 
@@ -28,10 +25,9 @@
     {{ .Content }}
   </div>
 
-  <footer class="single-footer">
+  <div class="single-footer">
     <a href="/posts/" class="back-link">← Quay lại danh sách bài viết</a>
-  </footer>
-
+  </div>
 </article>
 
 {{ end }}

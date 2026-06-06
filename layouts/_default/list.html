@@ -1,35 +1,31 @@
 {{ define "main" }}
 
-<section class="page-header">
+<div class="page-header">
   <p class="hero-tag">✦ Khám phá ✦</p>
-  <h1>{{ .Title }}</h1>
-</section>
+  <h1>Bài viết</h1>
+</div>
 
-<section class="posts-grid">
+<div class="posts-grid">
   {{ range .Pages }}
   <article class="post-card">
-    {{ if .Params.image }}
     <div class="post-card-img">
+      {{ if .Params.image }}
       <img src="{{ .Params.image }}" alt="{{ .Title }}" />
-      {{ if .Params.category }}<span class="card-category">{{ .Params.category }}</span>{{ end }}
-    </div>
-    {{ else }}
-    <div class="post-card-img post-card-nebula">
-      {{ if .Params.category }}<span class="card-category">{{ .Params.category }}</span>{{ end }}
-    </div>
-    {{ end }}
-    <div class="post-card-body">
-      <p class="post-date">{{ .Date.Format "02/01/2006" }}</p>
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      {{ if .Description }}
-      <p class="post-excerpt">{{ .Description }}</p>
       {{ else }}
-      <p class="post-excerpt">{{ .Summary | truncate 120 }}</p>
+      <div class="card-nebula"></div>
       {{ end }}
-      <a href="{{ .Permalink }}" class="read-more">Đọc tiếp →</a>
+      {{ if .Params.category }}
+      <span class="card-cat">{{ .Params.category }}</span>
+      {{ end }}
+    </div>
+    <div class="post-card-body">
+      <p class="card-date">{{ .Date.Format "02/01/2006" }}</p>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <p>{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | truncate 110 }}{{ end }}</p>
+      <a href="{{ .Permalink }}" class="card-read">Đọc tiếp →</a>
     </div>
   </article>
   {{ end }}
-</section>
+</div>
 
 {{ end }}
