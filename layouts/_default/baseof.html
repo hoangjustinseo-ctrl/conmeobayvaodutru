@@ -3,8 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{{ if .IsHome }}Con Mèo Bay Vào Dũ Trụ{{ else }}{{ .Title }} — Con Mèo Bay Vào Dũ Trụ{{ end }}</title>
-  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}Khám phá vũ trụ qua góc nhìn tâm linh{{ end }}" />
+  <title>{{ if .IsHome }}Con Mèo Bay Vào Dũ Trụ — Khám Phá Vũ Trụ Qua Góc Nhìn Tâm Linh{{ else }}{{ .Title }} — Con Mèo Bay Vào Dũ Trụ{{ end }}</title>
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}Khám phá vũ trụ, người ngoài hành tinh và những bí ẩn tâm linh qua góc nhìn của Dolores Cannon, Atlantis và thiên văn học{{ end }}" />
+  {{ if not .IsHome }}
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
+  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" />
+  {{ end }}
+  <meta property="og:title" content="{{ if .IsHome }}Con Mèo Bay Vào Dũ Trụ{{ else }}{{ .Title }}{{ end }}" />
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}Khám phá vũ trụ, người ngoài hành tinh và những bí ẩn tâm linh{{ end }}" />
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  {{ if .Params.image }}<meta property="og:image" content="{{ .Params.image | absURL }}" />{{ end }}
+  <link rel="canonical" href="{{ .Permalink }}" />
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
