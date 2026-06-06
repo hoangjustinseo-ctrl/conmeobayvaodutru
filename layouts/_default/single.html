@@ -22,6 +22,19 @@
   {{ end }}
 
   <div class="single-content">
+
+{{ if .Params.youtube }}
+<div class="video-wrap">
+  <iframe src="https://www.youtube.com/embed/{{ .Params.youtube }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{{ end }}
+
+{{ if .Params.tiktok }}
+<div class="tiktok-wrap">
+  <blockquote class="tiktok-embed" cite="{{ .Params.tiktok }}" data-video-id="{{ .Params.tiktok | replaceRE `.*video/(\d+).*` `$1` }}"></blockquote>
+  <script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+{{ end }}
     {{ .Content }}
   </div>
 
