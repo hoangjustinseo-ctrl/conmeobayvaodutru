@@ -13,7 +13,7 @@ collections:
     folder: content/posts
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-   fields:
+    fields:
       - { label: Tiêu đề, name: title, widget: string }
       - { label: Ngày đăng, name: date, widget: datetime }
       - { label: Mô tả, name: description, widget: string, required: false }
