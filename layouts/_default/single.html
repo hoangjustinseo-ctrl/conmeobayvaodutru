@@ -1,46 +1,93 @@
 {{ define "main" }}
+<article class="post-wrap">
 
-<article class="single-post">
-  <header class="single-header">
-    {{ if .Params.category }}
-    <span class="post-cat-tag">{{ .Params.category }}</span>
+  {{/* Header bài viết */}}
+  <header class="post-header">
+    {{ if .Params.categories }}
+    <div class="post-cats">
+      {{ range .Params.categories }}
+      <a href="/categories/{{ . | urlize }}/" class="cat-badge">{{ . }}</a>
+      {{ end }}
+    </div>
     {{ end }}
-    <h1>{{ .Title }}</h1>
-    {{ if .Description }}
-    <p class="single-desc">{{ .Description }}</p>
-    {{ end }}
-    <div class="single-meta">
-      <span>{{ .Date.Format "02 tháng 01, 2006" }}</span>
-      {{ if .ReadingTime }}<span>· {{ .ReadingTime }} phút đọc</span>{{ end }}
+
+    <h1 class="post-title">{{ .Title }}</h1>
+
+    <div class="post-meta">
+      <time>{{ .Date.Format "02 tháng 01, 2006" }}</time>
+      <span class="dot">·</span>
+      <span>{{ math.Round (div (countwords .Content) 200.0) }} phút đọc</span>
     </div>
   </header>
 
+  {{/* Ảnh thumbnail */}}
   {{ if .Params.image }}
-  <div class="single-cover">
-    <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+  <div class="post-hero-img">
+    <img src="{{ .Params.image }}" alt="{{ .Title }}">
   </div>
   {{ end }}
 
-  <div class="single-content">
+  {{/* Series badge */}}
+  {{ if .Params.series }}
+  {{ $seriesSlug := .Params.series | urlize }}
+  {{ $allInSeries := where (where .Site.RegularPages "Type" "posts") ".Params.series" .Params.series }}
+  {{ $allInSeries = sort $allInSeries ".Params.series_order" }}
+  <div class="series-banner">
+    <div class="series-icon">✦</div>
+    <div class="series-info">
+      <span class="series-label">Series</span>
+      <a class="series-name" href="/series/{{ $seriesSlug }}/">{{ .Params.series }}</a>
+      {{ if .Params.series_order }}
+      <span class="series-part">· Phần {{ .Params.series_order }} / {{ len $allInSeries }}</span>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
 
-{{ if .Params.youtube }}
-<div class="video-wrap">
-  <iframe src="https://www.youtube.com/embed/{{ .Params.youtube }}" frameborder="0" allowfullscreen></iframe>
-</div>
-{{ end }}
+  {{/* YouTube embed */}}
+  {{ if .Params.youtube }}
+  <div class="video-wrap">
+    <iframe src="https://www.youtube.com/embed/{{ .Params.youtube }}"
+      frameborder="0" allowfullscreen loading="lazy"></iframe>
+  </div>
+  {{ end }}
 
-{{ if .Params.tiktok }}
-<div class="tiktok-wrap">
-  <blockquote class="tiktok-embed" cite="{{ .Params.tiktok }}" data-video-id="{{ .Params.tiktok | replaceRE `.*video/(\d+).*` `$1` }}"></blockquote>
-  <script async src="https://www.tiktok.com/embed.js"></script>
-</div>
-{{ end }}
+  {{/* Nội dung */}}
+  <div class="post-content">
     {{ .Content }}
   </div>
 
-  <div class="single-footer">
-    <a href="/posts/" class="back-link">← Quay lại danh sách bài viết</a>
+  {{/* TikTok embed */}}
+  {{ if .Params.tiktok }}
+  <div class="tiktok-wrap">
+    <blockquote class="tiktok-embed" cite="{{ .Params.tiktok }}"
+      data-video-id="{{ .Params.tiktok | replaceRE `.*video/(\d+).*` `$1` }}">
+    </blockquote>
+    <script async src="https://www.tiktok.com/embed.js"></script>
   </div>
-</article>
+  {{ end }}
 
+  {{/* Series navigation */}}
+  {{ if .Params.series }}
+  {{ $seriesSlug := .Params.series | urlize }}
+  {{ $allInSeries := where (where .Site.RegularPages "Type" "posts") ".Params.series" .Params.series }}
+  {{ $allInSeries = sort $allInSeries ".Params.series_order" }}
+  {{ if gt (len $allInSeries) 1 }}
+  <div class="series-nav">
+    <h3>Các phần trong series "{{ .Params.series }}"</h3>
+    <ul class="series-list">
+      {{ range $allInSeries }}
+      <li class="{{ if eq .Permalink $.Permalink }}active{{ end }}">
+        {{ if .Params.series_order }}<span class="part-num">{{ .Params.series_order }}</span>{{ end }}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ if eq .Permalink $.Permalink }}<span class="reading-now">← đang đọc</span>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    <a class="see-all-series" href="/series/{{ $seriesSlug }}/">Xem toàn bộ series →</a>
+  </div>
+  {{ end }}
+  {{ end }}
+
+</article>
 {{ end }}

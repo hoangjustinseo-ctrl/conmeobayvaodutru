@@ -4,21 +4,50 @@ backend:
   branch: main
   base_url: https://hidden-queen-825a.hoangjustinseo.workers.dev
 
-media_folder: static/images
-public_folder: /images
+media_folder: "static/images"
+public_folder: "/images"
 
 collections:
-  - name: posts
-    label: Bài viết
-    folder: content/posts
+  - name: "posts"
+    label: "Bài viết"
+    folder: "content/posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
-      - { label: Tiêu đề, name: title, widget: string }
-      - { label: Ngày đăng, name: date, widget: datetime }
-      - { label: Mô tả, name: description, widget: string, required: false }
-      - { label: Danh mục, name: category, widget: select, options: ["Tâm linh", "Thiên văn", "Ngoài hành tinh", "Atlantis", "Lịch sử bí ẩn"], required: false }
-      - { label: Ảnh thumbnail, name: image, widget: image, required: false }
-      - { label: Video YouTube, name: youtube, widget: string, required: false, hint: "Chỉ paste ID video, ví dụ: dQw4w9WgXcQ" }
-      - { label: Video TikTok, name: tiktok, widget: string, required: false, hint: "Paste link TikTok đầy đủ" }
-      - { label: Nội dung, name: body, widget: markdown }
+      - { label: "Tiêu đề", name: "title", widget: "string" }
+      - { label: "Ngày đăng", name: "date", widget: "datetime" }
+      - { label: "Mô tả ngắn", name: "description", widget: "text", required: false }
+      - label: "Chủ đề"
+        name: "categories"
+        widget: "select"
+        required: false
+        options:
+          - "Tâm linh"
+          - "Thiên văn"
+          - "Ngoài hành tinh"
+          - "Atlantis"
+          - "Lịch sử bí ẩn"
+      - label: "Series / Album sách"
+        name: "series"
+        widget: "select"
+        required: false
+        options:
+          - "Keepers of the Garden"
+          - "Sách của bà Dolores Cannon"
+          - "Nhật ký ngoài hành tinh"
+          - "Cuộc đời giữa các kiếp sống"
+      - label: "Số thứ tự trong series"
+        name: "series_order"
+        widget: "number"
+        required: false
+        value_type: "int"
+        min: 1
+      - label: "Ảnh thumbnail"
+        name: "image"
+        widget: "image"
+        required: false
+        media_folder: "/static/images"
+        public_folder: "/images"
+      - { label: "YouTube ID", name: "youtube", widget: "string", required: false }
+      - { label: "TikTok URL", name: "tiktok", widget: "string", required: false }
+      - { label: "Nội dung", name: "body", widget: "markdown" }
