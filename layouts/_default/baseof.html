@@ -1,54 +1,75 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{{ if .IsHome }}Con Mèo Bay Vào Dũ Trụ — Khám Phá Vũ Trụ Qua Góc Nhìn Tâm Linh{{ else }}{{ .Title }} — Con Mèo Bay Vào Dũ Trụ{{ end }}</title>
-  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}Khám phá vũ trụ, người ngoài hành tinh và những bí ẩn tâm linh qua góc nhìn của Dolores Cannon, Atlantis và thiên văn học{{ end }}" />
+
+  <!-- SEO -->
+  <title>{{ if .IsHome }}Con Meo Bay Vao Du Tru &mdash; Kham Pha Vu Tru Qua Goc Nhin Tam Linh{{ else }}{{ .Title }} &mdash; Con Meo Bay Vao Du Tru{{ end }}</title>
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}Kham pha vu tru, nguoi ngoai hanh tinh va nhung bi an tam linh qua goc nhin cua Dolores Cannon, Atlantis va thien van hoc{{ end }}" />
+  <meta name="robots" content="{{ if .IsHome }}index, follow{{ else if .Params.noindex }}noindex, nofollow{{ else }}index, follow{{ end }}" />
+  <link rel="canonical" href="{{ .Permalink }}" />
+
+  <!-- Google Search Console -->
+  <meta name="google-site-verification" content="9h_dxfcRnApUaYFuvSuQiuzme2A3LNhCAds6bepaFH8" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ if .IsHome }}Con Meo Bay Vao Du Tru{{ else }}{{ .Title }}{{ end }}" />
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}Kham pha vu tru, nguoi ngoai hanh tinh va nhung bi an tam linh{{ end }}" />
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  {{ if .Params.image }}<meta property="og:image" content="{{ .Params.image | absURL }}" />{{ end }}
+
+  <!-- Article meta -->
   {{ if not .IsHome }}
   <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
   <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" />
   {{ end }}
-  <meta property="og:title" content="{{ if .IsHome }}Con Mèo Bay Vào Dũ Trụ{{ else }}{{ .Title }}{{ end }}" />
-  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}Khám phá vũ trụ, người ngoài hành tinh và những bí ẩn tâm linh{{ end }}" />
-  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
-  <meta property="og:url" content="{{ .Permalink }}" />
-  {{ if .Params.image }}<meta property="og:image" content="{{ .Params.image | absURL }}" />{{ end }}
-  <link rel="canonical" href="{{ .Permalink }}" />
+
+  <!-- Favicon & Fonts -->
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/css/style.css" />
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K2VLT6HEWL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-K2VLT6HEWL');
+  </script>
 </head>
 <body>
 
-  <nav>
-    <a href="/" class="logo">
-      <img src="/images/logo.jpg" alt="Logo" class="logo-img" />
-      <span>Con Mèo Bay Vào Dũ Trụ</span>
-    </a>
-    <button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>
-    <ul id="navMenu">
-      <li><a href="/">Trang chủ</a></li>
-      <li><a href="/posts/">Bài viết</a></li>
-    </ul>
-  </nav>
+<nav>
+  <a href="/" class="logo">
+    <img src="/images/logo.jpg" alt="Logo" class="logo-img" />
+    <span>Con Meo Bay Vao Du Tru</span>
+  </a>
+  <button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>
+  <ul id="navMenu">
+    <li><a href="/">Trang chu</a></li>
+    <li><a href="/posts/">Bai viet</a></li>
+  </ul>
+</nav>
 
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
+<main>
+  {{ block "main" . }}{{ end }}
+</main>
 
-  <footer>
-    <p class="footer-title">Con Mèo Bay Vào Dũ Trụ</p>
-    <p class="footer-sub">✦ Mọi thứ đều có kết nối ✦</p>
-  </footer>
+<footer>
+  <p class="footer-title">Con Meo Bay Vao Du Tru</p>
+  <p class="footer-sub">&#10022; Moi thu deu co ket noi &#10022;</p>
+</footer>
 
-  <script>
-    const toggle = document.getElementById('navToggle');
-    const menu = document.getElementById('navMenu');
-    toggle.addEventListener('click', () => menu.classList.toggle('open'));
-  </script>
+<script>
+  const toggle = document.getElementById('navToggle');
+  const menu = document.getElementById('navMenu');
+  toggle.addEventListener('click', () => menu.classList.toggle('open'));
+</script>
 
 </body>
 </html>
