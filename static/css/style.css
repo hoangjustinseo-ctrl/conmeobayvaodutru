@@ -89,22 +89,15 @@ nav ul a:hover { color: var(--teal); }
   display: grid;
   grid-template-columns: 1fr 1fr;
   min-height: 520px;
+  background: #ede8e0;
 }
 
 .hero-left {
-  background: var(--orange);
+  background: #ede8e0;
   padding: 3.5rem 3rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-}
-
-.hero-tag {
-  font-size: 10px;
-  letter-spacing: 0.3em;
-  text-transform: uppercase;
-  color: rgba(255,255,255,0.65);
-  margin-bottom: 1.25rem;
 }
 
 .hero-left h1 {
@@ -112,32 +105,31 @@ nav ul a:hover { color: var(--teal); }
   font-size: clamp(48px, 5.5vw, 68px);
   font-weight: 700;
   line-height: 1.1;
-  color: #fff;
+  color: #1a1a1a;
   margin-bottom: 1.5rem;
   letter-spacing: 0.02em;
 }
 
 .hero-left h1 em {
   font-style: italic;
-  color: #fff3c4;
+  color: #0a7c6e;
 }
 
 .hero-quote {
-  font-size: 14px;
-  color: rgba(255,255,255,0.8);
+  font-size: 16px;
+  color: #666;
   line-height: 1.85;
-  border-left: 2px solid rgba(255,255,255,0.35);
+  border-left: 2px solid #0a7c6e;
   padding-left: 1rem;
   font-style: italic;
   margin-bottom: 2.5rem;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 16px;
 }
 
 .hero-btn {
   display: inline-block;
-  background: #fff;
-  color: var(--orange);
+  background: #0a7c6e;
+  color: #fff;
   font-size: 11px;
   letter-spacing: 0.15em;
   text-transform: uppercase;
@@ -148,14 +140,13 @@ nav ul a:hover { color: var(--teal); }
   width: fit-content;
   transition: opacity 0.2s;
 }
-.hero-btn:hover { opacity: 0.88; }
+.hero-btn:hover { opacity: 0.85; }
 
 .hero-right {
+  background: #ddd8cf;
   position: relative;
   overflow: hidden;
-  background: #0a1614;
 }
-
 .hero-nebula {
   width: 100%;
   height: 100%;
