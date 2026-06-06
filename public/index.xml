@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Project</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content on My New Hugo Project</description>
+		<title>Con Mèo Bay Vào Dũ Trụ</title>
+		<link>https://conmeobayvaodutru.com/</link>
+		<description>Recent content on Con Mèo Bay Vào Dũ Trụ</description>
 		<generator>Hugo</generator>
-		<language>en-us</language>
+		<language>vi</language>
 		
 		
 		
 		
-			<lastBuildDate>Sat, 06 Jun 2026 12:44:26 +0700</lastBuildDate>
+			<lastBuildDate>Sun, 07 Jun 2026 00:32:00 +0700</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://conmeobayvaodutru.com/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Bai Viet Dau Tien</title>
-				<link>http://localhost:1313/posts/bai-viet-dau-tien/</link>
-				<pubDate>Sat, 06 Jun 2026 12:44:26 +0700</pubDate>
-				<guid>http://localhost:1313/posts/bai-viet-dau-tien/</guid>
-				<description></description>
+				<title>Chương 1: Đứa trẻ của các vì sao</title>
+				<link>https://conmeobayvaodutru.com/posts/2026-06-06-ch%C6%B0%C6%A1ng-1-%C4%91%E1%BB%A9a-tr%E1%BA%BB-c%E1%BB%A7a-c%C3%A1c-v%C3%AC-sao/</link>
+				<pubDate>Sun, 07 Jun 2026 00:32:00 +0700</pubDate>
+				<guid>https://conmeobayvaodutru.com/posts/2026-06-06-ch%C6%B0%C6%A1ng-1-%C4%91%E1%BB%A9a-tr%E1%BA%BB-c%E1%BB%A7a-c%C3%A1c-v%C3%AC-sao/</guid>
+				<description>&lt;p&gt;NGƯỜI NGOÀI HÀNH TINH HIỆN ĐANG SỐNG TRÊN TRÁI ĐẤT. Họ không còn bị xem như những kẻ ngoại lai chỉ tồn tại trên những vì sao xa xôi hay bay lượn vòng quanh trong các phi thuyền không gian nữa. Họ ở khắp mọi nơi, giữa những người bạn, hàng xóm và ngay cả những người họ hàng của chúng ta. Tất cả chúng ta (loài người và người ngoài hành tinh) đều có mối liên hệ với nhau, bởi vì họ chính là tổ tiên của chúng ta. Dòng máu của họ đang chảy trong chính huyết quản của chúng ta. Chúng ta là anh em với những sinh mệnh đến từ các vì sao cũng giống như cách chúng ta là anh em với các loài động vật trên Trái Đất.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

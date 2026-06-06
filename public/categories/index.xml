@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Categories on My New Hugo Project</title>
-		<link>http://localhost:1313/categories/</link>
-		<description>Recent content in Categories on My New Hugo Project</description>
+		<title>Categories on Con Mèo Bay Vào Dũ Trụ</title>
+		<link>https://conmeobayvaodutru.com/categories/</link>
+		<description>Recent content in Categories on Con Mèo Bay Vào Dũ Trụ</description>
 		<generator>Hugo</generator>
-		<language>en-us</language>
+		<language>vi</language>
 		
 		
 		
 		
-			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Sun, 07 Jun 2026 00:32:00 +0700</lastBuildDate>
+		
+			<atom:link href="https://conmeobayvaodutru.com/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ngoài Hành Tinh</title>
+				<link>https://conmeobayvaodutru.com/categories/ngo%C3%A0i-h%C3%A0nh-tinh/</link>
+				<pubDate>Sun, 07 Jun 2026 00:32:00 +0700</pubDate>
+				<guid>https://conmeobayvaodutru.com/categories/ngo%C3%A0i-h%C3%A0nh-tinh/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>

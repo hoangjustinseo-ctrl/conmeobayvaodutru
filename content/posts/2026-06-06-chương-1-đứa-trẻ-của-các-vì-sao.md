@@ -1,7 +1,6 @@
 ---
 title: "Chương 1: Đứa trẻ của các vì sao"
 date: 2026-06-07T00:32:00.000+07:00
-category: Tâm linh
 categories:
   - Ngoài hành tinh
 image: /images/keepers-of-the-garden.jpg
