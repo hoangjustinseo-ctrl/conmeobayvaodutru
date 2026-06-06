@@ -2,7 +2,7 @@
 title: "Chương 1: Đứa trẻ của các vì sao"
 date: 2026-06-07T00:32:00.000+07:00
 category: Tâm linh
-image: /images/keepers-of-the-garden.jpg
+image: /images/keepers-of-the-garden-1-.jpg
 ---
 NGƯỜI NGOÀI HÀNH TINH HIỆN ĐANG SỐNG TRÊN TRÁI ĐẤT. Họ không còn bị xem như những kẻ ngoại lai chỉ tồn tại trên những vì sao xa xôi hay bay lượn vòng quanh trong các phi thuyền không gian nữa. Họ ở khắp mọi nơi, giữa những người bạn, hàng xóm và ngay cả những người họ hàng của chúng ta. Tất cả chúng ta (loài người và người ngoài hành tinh) đều có mối liên hệ với nhau, bởi vì họ chính là tổ tiên của chúng ta. Dòng máu của họ đang chảy trong chính huyết quản của chúng ta. Chúng ta là anh em với những sinh mệnh đến từ các vì sao cũng giống như cách chúng ta là anh em với các loài động vật trên Trái Đất.
 
