@@ -7,8 +7,6 @@ image: /images/keepers-of-the-garden-1-.jpg
 ---
 SỰ TÒ MÒ TRONG TÔI LẠI TRỖI DẬY. Tôi đã luôn ao ước có một ca thôi miên mà khách hàng hồi quy về một kiếp sống trên hành tinh khác và chắc chắn tôi sẽ không thể nào bỏ lỡ cơ hội ngàn năm có một này để tìm hiểu về những sinh mệnh ngoài không gian. Vì vậy, để kéo sự chú ý của anh ấy ra khỏi những ký ức đau buồn, tôi bắt đầu hỏi về chiếc phi thuyền.
 
-![](/images/unnamed.png)
-
 **P:** Nó có hình tròn và mang sắc bạc. Có một mái vòm nằm tít trên cùng, ngay chính giữa. Nó không dùng để điều hướng; mái vòm đó chỉ dùng để quan sát và nhìn ngắm xung quanh. Phía bên trái là một ô cửa sổ và một bảng điều khiển. Ngay phía trước cửa sập có vài đường ống. Con tàu được chia làm hai tầng. Khu vực tầng trên chỉ là một căn phòng duy nhất dùng làm nơi đặt các thiết bị dẫn đường. Ở tầng dưới có bốn phòng ngủ và một phòng thí nghiệm khoa học.
 
 Không gian chính là một căn phòng hình tròn có đường kính chừng 30 feet (khoảng hơn 9 mét). Người ta dùng một chiếc thang leo hoặc một đường ống hẹp để di chuyển giữa hai tầng.
@@ -44,6 +42,8 @@ Rõ ràng là Phil đang viện đến những kiến thức về sửa chữa T
 **P:** Các mặt bên đều được vát đa giác. Và ở ngay phần chóp tận cùng của phễu thì được làm phẳng.
 
 Khi Phil bừng tỉnh sau đó, tôi đã nhờ anh vẽ lại hình dáng của khối tinh thể để có thể xác định cấu trúc của nó một cách chuẩn xác hơn. Hóa ra các chóp của hai kim tự tháp không hề nhọn hoắt, mà đã được vát phẳng. (Xem hình minh họa.)
+
+![](/images/unnamed.png)
 
 **P:** Đây là những khối tinh thể tự nhiên được đẽo gọt để phục vụ cho từng công năng chuyên biệt. Chúng được tạo hình hoặc cắt vát dành riêng cho mục đích này. Mỗi chức năng khác nhau sẽ đòi hỏi một hình dáng khác nhau. Thực ra, trên chính Trái Đất hiện tại, con người cũng đang bắt đầu thực hiện điều này ở một quy mô nhỏ. Nguồn tri thức này từng bị thất truyền, nhưng giờ đây nó đang quay trở lại.
 
