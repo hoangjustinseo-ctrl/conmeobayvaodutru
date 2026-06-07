@@ -1,5 +1,5 @@
 ---
-title: "Chương 1: Đứa trẻ của các vì sao"
+title: "Keepers of the Garden - Chương 1: Đứa trẻ của các vì sao"
 date: 2026-06-07T00:32:00.000+07:00
 categories: []
 series: Keepers of the Garden
