@@ -1,5 +1,5 @@
 ---
-title: "Keepers of the Garden: Chương 2: Thuộc địa thất lạc "
+title: "Keepers of the Garden - Chương 2: Thuộc địa thất lạc "
 date: 2026-06-07T23:33:00.000+07:00
 series: Keepers of the Garden
 series_order: 2
