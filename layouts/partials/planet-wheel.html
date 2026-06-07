@@ -1,10 +1,10 @@
 ﻿<style>
-.cosmos-wheel{background:#06101e;min-height:620px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem 1rem;font-family:'Inter',sans-serif;position:relative;overflow:hidden;border-radius:16px;margin:2rem 0;}
+.cosmos-wheel{background:#06101e;min-height:620px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem 1rem;font-family:Inter,sans-serif;position:relative;overflow:hidden;border-radius:16px;margin:2rem 0;}
 .cosmos-wheel .star-field{position:absolute;inset:0;pointer-events:none;}
 .cosmos-wheel .wtitle{font-family:'Amatic SC',cursive;font-size:34px;font-weight:700;color:#f7f3ee;letter-spacing:0.05em;margin-bottom:0.2rem;text-align:center;position:relative;z-index:1;}
 .cosmos-wheel .wsubtitle{font-size:11px;letter-spacing:0.2em;text-transform:uppercase;color:rgba(197,168,120,0.7);margin-bottom:2rem;text-align:center;position:relative;z-index:1;}
 .cosmos-wheel .wheel-wrap{position:relative;width:360px;height:360px;margin:0 auto 1.5rem;z-index:1;}
-.cosmos-wheel .center-btn{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:64px;height:64px;border-radius:50%;background:linear-gradient(135deg,#ff6b35,#f59e0b);border:3px solid rgba(255,255,255,0.3);cursor:pointer;font-family:'Amatic SC',cursive;font-size:16px;font-weight:700;color:#fff;letter-spacing:0.05em;transition:transform 0.15s,box-shadow 0.15s;box-shadow:0 0 20px rgba(255,107,53,0.4);z-index:2;}
+.cosmos-wheel .center-btn{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:64px;height:64px;border-radius:50%;background:linear-gradient(135deg,#ff6b35,#f59e0b);border:3px solid rgba(255,255,255,0.3);cursor:pointer;font-family:'Amatic SC',cursive;font-size:16px;font-weight:700;color:#fff;transition:transform 0.15s,box-shadow 0.15s;box-shadow:0 0 20px rgba(255,107,53,0.4);z-index:2;}
 .cosmos-wheel .center-btn:hover{transform:translate(-50%,-50%) scale(1.08);box-shadow:0 0 30px rgba(255,107,53,0.6);}
 .cosmos-wheel .center-btn:disabled{opacity:0.7;cursor:not-allowed;}
 .cosmos-wheel .pointer-arrow{position:absolute;top:-14px;left:50%;transform:translateX(-50%);width:0;height:0;border-left:12px solid transparent;border-right:12px solid transparent;border-top:24px solid #f59e0b;z-index:3;filter:drop-shadow(0 0 6px rgba(245,158,11,0.8));}
@@ -12,15 +12,14 @@
 .cosmos-wheel .result-planet{font-family:'Amatic SC',cursive;font-size:36px;font-weight:700;color:#f59e0b;margin:0.3rem 0 0.4rem;}
 .cosmos-wheel .result-desc{font-size:13px;color:rgba(247,243,238,0.72);line-height:1.75;font-weight:300;margin:0;}
 .cosmos-wheel .result-tag{display:inline-block;font-size:9px;letter-spacing:0.2em;text-transform:uppercase;padding:3px 12px;border-radius:20px;border:0.5px solid rgba(10,124,110,0.7);color:#5dcaa5;margin-bottom:0.5rem;}
-.cosmos-wheel .result-hint{font-size:12px;letter-spacing:0.1em;color:rgba(247,243,238,0.3);margin:2.5rem 0;}
 .cosmos-wheel .spin-glow{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:360px;height:360px;border-radius:50%;background:radial-gradient(circle,rgba(255,107,53,0.18) 0%,transparent 70%);pointer-events:none;opacity:0;transition:opacity 0.4s;z-index:0;}
 .cosmos-wheel .spin-glow.active{opacity:1;}
 </style>
 
 <div class="cosmos-wheel">
   <canvas class="star-field" id="wStars" width="700" height="620"></canvas>
-  <p class="wtitle">Hanh Tinh Anh Minh</p>
-  <p class="wsubtitle">&#10022; Ban den tu vi sao nao trong vu tru? &#10022;</p>
+  <p class="wtitle">Hành Tinh Ánh Minh</p>
+  <p class="wsubtitle">✦ Bạn đến từ vì sao nào trong vũ trụ? ✦</p>
   <div class="wheel-wrap">
     <div class="pointer-arrow"></div>
     <canvas id="wWheel" width="360" height="360"></canvas>
@@ -28,72 +27,68 @@
     <button class="center-btn" id="wSpinBtn">QUAY</button>
   </div>
   <div class="result-box" id="wResult">
-    <p class="result-hint">Bam QUAY de kham pha hanh tinh anh minh cua ban</p>
+    <p style="font-size:12px;letter-spacing:0.1em;color:rgba(247,243,238,0.3);margin:2rem 0;">Bấm QUAY để khám phá hành tinh ánh minh của bạn</p>
   </div>
 </div>
 
 <script>
 (function(){
-  const planets=[
-    {name:"Pleiades",tag:"Cum Sao",color:"#1a3a6a",desc:"Linh hon Pleiades den Trai Dat de thuc day tien hoa tam linh. Ho mang nang luong yeu thuong va kha nang ket noi voi nguon cam hung vu tru."},
-    {name:"Sirius",tag:"Sao Thien Lang",color:"#0a2a3a",desc:"Nguoi Dogon chau Phi biet ve Sirius B tu hang nghin nam truoc khoa hoc hien dai. Sirius la cong vao cua nhieu linh hon cao cap."},
-    {name:"Nibiru",tag:"Hanh Tinh X",color:"#3a1a0a",desc:"Hanh tinh bi an co chu ky 3600 nam. Nguoi Anunnaki tu Nibiru tung den Trai Dat va de lai dau an trong van minh Sumer."},
-    {name:"Andromeda",tag:"Thien Ha",color:"#1a0a3a",desc:"Thien ha ban canh nhat, cach 2.5 trieu nam anh sang. Noi cua nhung nen van minh da dat den trang thai thuan thien hoan toan."},
-    {name:"Arcturus",tag:"Sao Khong Lo",color:"#2a1a00",desc:"Dolores Cannon xac nhan Arcturus la mot trung tam chua lanh va phat trien tam linh bac cao nhat trong dai ngan ha cua chung ta."},
-    {name:"Lyra",tag:"Cung Thien Cam",color:"#0a2a1a",desc:"To tien cua nhieu chung loai nguoi ngoai hanh tinh xuat phat tu Lyra. Day la mot trong nhung noi co nguon goc van minh nguoi lau doi nhat."},
-    {name:"Orion",tag:"Tho San",color:"#0a1530",desc:"Dai Kim Tu Thap Giza xay theo vi tri dai Orion. Nhieu linh hon chon Orion lam diem dung chan giua cac kiep song vu tru."},
-    {name:"Proxima b",tag:"Hanh Tinh Gan",color:"#1a0a2a",desc:"Hanh tinh gan Trai Dat nhat - 4.2 nam anh sang. Cac cuoc tiep xuc dau tien co the den tu noi day, noi dang quan sat su tien hoa cua chung ta."},
-    {name:"Zeta Reticuli",tag:"Hai Ngoi Sao",color:"#002a1a",desc:"Que huong duoc ghi nhan cua chung Grey trong nhieu tai lieu tiep xuc. Cac linh hon tu day thuong mang nhiem vu nghien cuu sinh hoc."},
-    {name:"Vega",tag:"Sao Sang",color:"#2a1500",desc:"Ngoi sao trong phim Contact. Nguoi Hopi co truyen thuyet ve to tien tu Vega. Mot diem den quan trong trong hanh trinh cua nhieu linh hon."},
-    {name:"Cassiopeia",tag:"Nu Hoang",color:"#1a0a1a",desc:"Chom sao hinh chu W. Trong nhieu cuoc hoi quy tien kiep, Cassiopeia la que huong cua nhung linh hon mang nang luong chua lanh dac biet."},
-    {name:"Aldebaran",tag:"Mat Kim Nguu",color:"#2a0808",desc:"Sao do khong lo, 65 nam anh sang. Xuat hien trong nhieu truyen thuyet Tra co. Mot trung tam van minh tien tien it duoc biet den."}
+  var planets=[
+    {name:"Pleiades",tag:"Cụm Sao",color:"#1a3a6a",desc:"Linh hồn Pleiades đến Trái Đất để thúc đẩy tiến hóa tâm linh. Họ mang năng lượng yêu thương và kết nối với nguồn cảm hứng vũ trụ."},
+    {name:"Sirius",tag:"Sao Thiên Lang",color:"#0a2a3a",desc:"Người Dogon châu Phi biết về Sirius B từ hàng nghìn năm trước khoa học hiện đại. Sirius là cổng vào của nhiều linh hồn cao cấp."},
+    {name:"Nibiru",tag:"Hành Tinh X",color:"#3a1a0a",desc:"Hành tinh bí ẩn có chu kỳ 3600 năm. Người Anunnaki từ Nibiru từng đến Trái Đất và để lại dấu ấn trong văn minh Sumer."},
+    {name:"Andromeda",tag:"Thiên Hà",color:"#1a0a3a",desc:"Thiên hà bạn cận nhất, cách 2.5 triệu năm ánh sáng. Nơi của những nền văn minh đã đạt đến trạng thái thuần thiện hoàn toàn."},
+    {name:"Arcturus",tag:"Sao Khổng Lồ",color:"#2a1a00",desc:"Dolores Cannon xác nhận Arcturus là trung tâm chữa lành và phát triển tâm linh bậc cao nhất trong dải ngân hà của chúng ta."},
+    {name:"Lyra",tag:"Cung Thiên Cầm",color:"#0a2a1a",desc:"Tổ tiên của nhiều chủng loài người ngoài hành tinh xuất phát từ Lyra. Một trong những nơi có nguồn gốc văn minh người lâu đời nhất."},
+    {name:"Orion",tag:"Thợ Săn",color:"#0a1530",desc:"Đại Kim Tự Tháp Giza xây theo vị trí đai Orion. Nhiều linh hồn chọn Orion làm điểm dừng chân giữa các kiếp sống vũ trụ."},
+    {name:"Proxima b",tag:"Hành Tinh Gần",color:"#1a0a2a",desc:"Hành tinh gần Trái Đất nhất - 4.2 năm ánh sáng. Đang quan sát sự tiến hóa của chúng ta và có thể là nguồn gốc tiếp xúc đầu tiên."},
+    {name:"Zeta Reticuli",tag:"Hai Ngôi Sao",color:"#002a1a",desc:"Quê hương được ghi nhận của chủng Grey. Các linh hồn từ đây thường mang nhiệm vụ nghiên cứu và bảo tồn sinh học vũ trụ."},
+    {name:"Vega",tag:"Sao Sáng",color:"#2a1500",desc:"Ngôi sao trong phim Contact. Người Hopi có truyền thuyết về tổ tiên từ Vega - một điểm đến quan trọng trong hành trình linh hồn."},
+    {name:"Cassiopeia",tag:"Nữ Hoàng",color:"#1a0a1a",desc:"Chòm sao hình chữ W huyền bí. Trong nhiều cuộc hồi quy tiền kiếp, Cassiopeia là quê hương của linh hồn mang năng lượng chữa lành."},
+    {name:"Aldebaran",tag:"Mắt Kim Ngưu",color:"#2a0808",desc:"Sao đỏ khổng lồ, 65 năm ánh sáng. Xuất hiện trong nhiều truyền thuyết Trái cổ. Một trung tâm văn minh tiên tiến ít được biết đến."}
   ];
 
-  const sc=document.getElementById('wStars'),sctx=sc.getContext('2d');
-  const stars=Array.from({length:220},()=>({x:Math.random()*700,y:Math.random()*620,r:Math.random()*1.4+0.2,a:Math.random(),s:Math.random()*0.015+0.004}));
+  var sc=document.getElementById('wStars'),sctx=sc.getContext('2d');
+  var stars=[];
+  for(var i=0;i<220;i++){
+    stars.push({x:Math.random()*700,y:Math.random()*620,r:Math.random()*1.4+0.2,a:Math.random(),s:Math.random()*0.015+0.004});
+  }
   function animStars(){
     sctx.clearRect(0,0,700,620);
-    stars.forEach(s=>{
+    for(var i=0;i<stars.length;i++){
+      var s=stars[i];
       s.a+=s.s;if(s.a>1||s.a<0.05)s.s=-s.s;
       sctx.beginPath();sctx.arc(s.x,s.y,s.r,0,Math.PI*2);
-      sctx.fillStyle=`rgba(247,243,238,${Math.min(s.a,0.9)})`;sctx.fill();
-    });
+      sctx.fillStyle='rgba(247,243,238,'+Math.min(s.a,0.9)+')';sctx.fill();
+    }
     requestAnimationFrame(animStars);
   }
   animStars();
 
-  const wc=document.getElementById('wWheel'),wctx=wc.getContext('2d');
-  const cx=180,cy=180,R=168;
-  let curAngle=0,spinning=false;
+  var wc=document.getElementById('wWheel'),wctx=wc.getContext('2d');
+  var cx=180,cy=180,R=168;
+  var curAngle=0,spinning=false;
 
   function drawWheel(rot){
     wctx.clearRect(0,0,360,360);
-    const sa=(Math.PI*2)/planets.length;
-    planets.forEach((p,i)=>{
-      const s=rot+i*sa,e=s+sa;
+    var sa=(Math.PI*2)/planets.length;
+    for(var i=0;i<planets.length;i++){
+      var p=planets[i];
+      var s=rot+i*sa,e=s+sa;
       wctx.beginPath();wctx.moveTo(cx,cy);wctx.arc(cx,cy,R,s,e);wctx.closePath();
       wctx.fillStyle=p.color;wctx.fill();
       wctx.strokeStyle='rgba(247,243,238,0.13)';wctx.lineWidth=1;wctx.stroke();
-      const mid=s+sa/2;
-      const gx=cx+Math.cos(mid)*R*0.55,gy=cy+Math.sin(mid)*R*0.55;
-      const sg=wctx.createRadialGradient(gx,gy,0,gx,gy,R*0.55);
-      sg.addColorStop(0,'rgba(255,255,255,0.07)');sg.addColorStop(1,'transparent');
-      wctx.beginPath();wctx.moveTo(cx,cy);wctx.arc(cx,cy,R,s,e);wctx.closePath();
-      wctx.fillStyle=sg;wctx.fill();
+      var mid=s+sa/2;
       wctx.save();
       wctx.translate(cx+Math.cos(mid)*R*0.66,cy+Math.sin(mid)*R*0.66);
       wctx.rotate(mid+Math.PI/2);wctx.textAlign='center';
       wctx.fillStyle='rgba(247,243,238,0.92)';
-      wctx.font="bold 12px 'Amatic SC',cursive";
+      wctx.font='bold 11px Arial';
       wctx.fillText(p.name,0,0);wctx.restore();
-    });
-    const cg=wctx.createRadialGradient(cx,cy,0,cx,cy,26);
-    cg.addColorStop(0,'#1e3050');cg.addColorStop(1,'#06101e');
+    }
     wctx.beginPath();wctx.arc(cx,cy,26,0,Math.PI*2);
-    wctx.fillStyle=cg;wctx.fill();
-    wctx.strokeStyle='rgba(245,158,11,0.5)';wctx.lineWidth=1.5;wctx.stroke();
-    wctx.beginPath();wctx.arc(cx,cy,5,0,Math.PI*2);
-    wctx.fillStyle='rgba(245,158,11,0.8)';wctx.fill();
+    wctx.fillStyle='#06101e';wctx.fill();
+    wctx.strokeStyle='rgba(245,158,11,0.6)';wctx.lineWidth=1.5;wctx.stroke();
   }
   drawWheel(0);
 
@@ -101,22 +96,22 @@
     if(spinning)return;
     spinning=true;this.disabled=true;
     document.getElementById('wGlow').classList.add('active');
-    document.getElementById('wResult').innerHTML='<p class="result-hint" style="opacity:0.5;letter-spacing:0.2em;">&#10022; dang quay &#10022;</p>';
-    const extra=(6+Math.random()*6)*Math.PI*2;
-    const target=curAngle+extra,dur=4500+Math.random()*2000;
-    const t0=performance.now(),a0=curAngle,btn=this;
+    document.getElementById('wResult').innerHTML='<p style="font-size:12px;color:rgba(247,243,238,0.4);">✦ đang quay ✦</p>';
+    var extra=(6+Math.random()*6)*Math.PI*2;
+    var target=curAngle+extra,dur=4500+Math.random()*2000;
+    var t0=performance.now(),a0=curAngle,btn=this;
     function ease(t){return t<0.5?4*t*t*t:(t-1)*(2*t-2)*(2*t-2)+1;}
     function frame(now){
-      const el=now-t0,t=Math.min(el/dur,1);
+      var el=now-t0,t=Math.min(el/dur,1);
       curAngle=a0+(target-a0)*ease(t);drawWheel(curAngle);
       if(t<1){requestAnimationFrame(frame);}
       else{
         spinning=false;btn.disabled=false;
         document.getElementById('wGlow').classList.remove('active');
-        const sa=(Math.PI*2)/planets.length;
-        const norm=((-Math.PI/2-curAngle%(Math.PI*2))%(Math.PI*2)+Math.PI*2)%(Math.PI*2);
-        const p=planets[Math.floor(norm/sa)%planets.length];
-        document.getElementById('wResult').innerHTML=`<span class="result-tag">${p.tag}</span><p class="result-planet">${p.name}</p><p class="result-desc">${p.desc}</p>`;
+        var sa=(Math.PI*2)/planets.length;
+        var norm=((-Math.PI/2-curAngle%(Math.PI*2))%(Math.PI*2)+Math.PI*2)%(Math.PI*2);
+        var p=planets[Math.floor(norm/sa)%planets.length];
+        document.getElementById('wResult').innerHTML='<span class="result-tag">'+p.tag+'</span><p class="result-planet">'+p.name+'</p><p class="result-desc">'+p.desc+'</p>';
       }
     }
     requestAnimationFrame(frame);
