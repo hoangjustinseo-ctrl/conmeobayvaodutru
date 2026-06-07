@@ -48,4 +48,8 @@ collections:
         public_folder: "/images"
       - { label: "YouTube ID", name: "youtube", widget: "string", required: false }
       - { label: "TikTok URL", name: "tiktok", widget: "string", required: false }
-      - { label: "Noi dung", name: "body", widget: "markdown" }
+      - label: "Noi dung"
+        name: "body"
+        widget: "markdown"
+        media_folder: "/static/images"
+        public_folder: "/images"

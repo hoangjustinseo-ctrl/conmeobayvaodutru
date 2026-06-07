@@ -1,4 +1,4 @@
-*, *::before, *::after { box-sizing: border-box; }
+﻿*, *::before, *::after { box-sizing: border-box; }
 html, body { overflow-x: hidden; max-width: 100%; }
 
 
@@ -136,7 +136,7 @@ nav ul a:hover { color: var(--teal); }
   padding-left: 1rem;
   font-style: italic;
   margin-bottom: 2.5rem;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
 }
 
 .hero-btn {
@@ -274,7 +274,7 @@ nav ul a:hover { color: var(--teal); }
 }
 
 .card-body h3 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 18px;
   font-weight: 400;
   color: var(--text);
@@ -421,7 +421,7 @@ nav ul a:hover { color: var(--teal); }
 .post-card-body { padding: 1.4rem; }
 
 .post-card-body h2 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 20px;
   font-weight: 400;
   margin-bottom: 0.6rem;
@@ -478,7 +478,7 @@ nav ul a:hover { color: var(--teal); }
 }
 
 .single-desc {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 18px;
   color: #555;
   line-height: 1.8;
@@ -520,7 +520,7 @@ nav ul a:hover { color: var(--teal); }
 }
 
 .single-content h3 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 22px;
   font-weight: 400;
   color: var(--teal);
@@ -541,7 +541,7 @@ nav ul a:hover { color: var(--teal); }
   margin: 2rem 0;
   color: #555;
   font-style: italic;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 19px;
   background: #fdf8f3;
   border-radius: 0 4px 4px 0;
@@ -696,7 +696,7 @@ footer {
 }
 .dot { opacity: .4; }
 
-/* Ảnh thumbnail đầu bài */
+/* áº¢nh thumbnail Ä‘áº§u bÃ i */
 .post-hero-img {
   margin: 0 -1.5rem 2.5rem;
 }
@@ -728,7 +728,7 @@ footer {
   display: block;
 }
 .series-name {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.1rem;
   font-weight: 600;
   color: #1a1a1a;
@@ -741,9 +741,9 @@ footer {
   color: #999;
 }
 
-/* ===== NỘI DUNG BÀI VIẾT ===== */
+/* ===== Ná»˜I DUNG BÃ€I VIáº¾T ===== */
 .post-content {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.15rem;
   line-height: 1.85;
   color: #2a2a2a;
@@ -933,7 +933,7 @@ footer {
 .series-card:hover { border-color: #ff6b35; background: #fff8f0; }
 .series-card-icon { font-size: 1.5rem; }
 .series-card-name {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.1rem;
   color: #1a1a1a;
   font-weight: 600;
