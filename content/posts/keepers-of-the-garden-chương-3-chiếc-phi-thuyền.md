@@ -43,7 +43,7 @@ Rõ ràng là Phil đang viện đến những kiến thức về sửa chữa T
 
 Khi Phil bừng tỉnh sau đó, tôi đã nhờ anh vẽ lại hình dáng của khối tinh thể để có thể xác định cấu trúc của nó một cách chuẩn xác hơn. Hóa ra các chóp của hai kim tự tháp không hề nhọn hoắt, mà đã được vát phẳng. (Xem hình minh họa.)
 
-![](/images/unnamed.png "Hình ảnh UFO được Phil vẽ lại ")
+![](/images/keepers-of-the-garden-2-.jpg)
 
 **P:** Đây là những khối tinh thể tự nhiên được đẽo gọt để phục vụ cho từng công năng chuyên biệt. Chúng được tạo hình hoặc cắt vát dành riêng cho mục đích này. Mỗi chức năng khác nhau sẽ đòi hỏi một hình dáng khác nhau. Thực ra, trên chính Trái Đất hiện tại, con người cũng đang bắt đầu thực hiện điều này ở một quy mô nhỏ. Nguồn tri thức này từng bị thất truyền, nhưng giờ đây nó đang quay trở lại.
 
