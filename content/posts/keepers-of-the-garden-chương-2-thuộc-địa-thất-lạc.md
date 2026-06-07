@@ -7,8 +7,6 @@ image: /images/keepers-of-the-garden-1-.jpg
 ---
 VÀI TUẦN SAU, khi cánh cửa "thang máy" mở ra, Phil lại bắt gặp khung cảnh đó một lần nữa. Anh nhìn thấy một đường chân trời lởm chởm, hoang tàn và mang một vẻ gì đó đầy đe dọa in hằn trên nền trời đỏ rực. Rõ ràng là tiềm thức của Phil cho rằng đã đến lúc anh phải đối mặt với kiếp sống ấy, nên nó cứ liên tục để những mảnh ký ức này len lỏi vào các buổi thôi miên. Lần này, anh quyết định bước ra khỏi thang máy và tiến sâu vào khung cảnh đó để tự mình khám phá và tìm hiểu xem rốt cuộc nơi này có điều gì lại khiến anh bứt rứt đến vậy.
 
-![](/images/keepers-of-the-garden.jpg)
-
 Qua những lần trước, anh đã nhận ra rằng nếu anh cảm thấy không thoải mái với bất cứ thứ gì mình thấy, tôi luôn cho phép anh được quyền lùi bước. Điều này mang lại cho anh một cảm giác an toàn tuyệt đối, ngay cả khi phải chôn chân giữa một môi trường vô cùng xa lạ. Nhờ thế, anh đã cho phép bản thân dấn bước vào phân cảnh ấy và ngay lập tức bị nhấn chìm bởi một nỗi buồn thương da diết. Anh bắt đầu miêu tả những gì hiện ra trước mắt:
 
 **P:** Gió rít từng cơn…ngập tràn cát bụi. Tôi có thể nhìn thấy và cảm nhận được nó. Bầu trời nhuốm một dải màu đỏ cam. Tôi đang đứng bên ngoài một chiếc phi thuyền không gian. Có một khoảng đất trống ngay chỗ chúng tôi đáp xuống. Tôi đang nhìn về phía ngọn tháp. Nó nằm ở bên phải tôi.
