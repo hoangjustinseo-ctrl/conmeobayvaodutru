@@ -3,6 +3,7 @@ title: "Keepers of the Garden - Chương 8: Dấu ấn (Imprinting)"
 date: 2026-06-10T20:43:00.000+07:00
 series: Keepers of the Garden
 series_order: 8
+image: /images/keepers-of-the-garden-1-.jpg
 ---
 Việc thảo luận về các chiều kích khác khiến tôi bối rối và gây khó khăn cho việc đặt câu hỏi. Tôi hy vọng có một quãng nghỉ để thu xếp lại suy nghĩ của mình bằng cách dẫn dắt anh ấy quay trở lại với những kiếp sống tại Trái Đất. Ở đó, tôi sẽ một lần nữa được đứng trên mảnh đất quen thuộc. Nhưng tôi sớm nhận ra rằng một khi cánh cửa dẫn đến những thế giới khác và những sự tồn tại kỳ lạ đã mở ra, chúng tôi sẽ không thể quay lại thế giới quen thuộc, an toàn và tầm thường được nữa. Lý do cho việc này là điều sửng sốt nhất mà tôi từng gặp phải, nó tạm thời làm lung lay nền tảng và niềm tin của tôi vào những gì mình đang làm. Có lẽ đúng là chẳng có gì thực sự giống như vẻ ngoài của nó cả.
 
