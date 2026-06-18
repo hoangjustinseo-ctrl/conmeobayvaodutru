@@ -1,5 +1,5 @@
 ---
-title: "Chương 11: Chiến dịch giải cứu Trái Đất"
+title: "Keepers of the Garden - Chương 11: Chiến dịch giải cứu Trái Đất"
 date: 2026-06-18T20:09:00.000+07:00
 series: Keepers of the Garden
 series_order: 11
