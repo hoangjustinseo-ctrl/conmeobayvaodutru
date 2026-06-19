@@ -2,7 +2,7 @@
 title: "Keepers of the Garden - Chương 17: Khu đón tiếp Nghị viên "
 date: 2026-06-19T23:38:00.000+07:00
 series: Keepers of the Garden
-series_order: 16
+series_order: 17
 image: /images/keepers-of-the-garden-1-.jpg
 ---
 Thường thì khi cửa thang máy mở ra,Phil sẽ không nhìn thấy Ba Ngọn Tháp như mọi khi. Thay vào đó là những khungcảnh hoàn toàn xa lạ. Chẳng ai có thể đoán trước được điều gì sẽ xảy ra tiếptheo cả. Buổi thôi miên dưới đây là một ví dụ điển hình:
