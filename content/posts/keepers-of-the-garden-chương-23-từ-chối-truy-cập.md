@@ -1,424 +1,226 @@
 ---
-title: "Keepers of the Garden - Chương 23: Từ chối truy cập "
-date: 2026-06-20T21:39:00.000+07:00
+title: "Keepers of the Garden - Chương 24: Chiếc hộp đen bí ẩn "
+date: 2026-06-20T21:40:00.000+07:00
 series: Keepers of the Garden
-series_order: 23
+series_order: 24
 image: /images/keepers-of-the-garden-1-.jpg
 ---
-Sau cuộc trò chuyện đó, chúng tôi bắt đầu bước vào buổi thôi miên. Tôi đã lên kế hoạch khám phá giấc mơ về chiếc que dò bằng thép đâm vào ngực anh ấy. Tôi cũng muốn tìm lại dấu vết của chiếc hộp đen, ngược về thời điểm mà dường như anh đã chế tạo ra nó rồi để lại trên tàu vũ trụ, nhằm mục đích cho chính kiếp sống tương lai của mình — là Phil bây giờ — tìm thấy. Đó là những mục tiêu tôi đề ra, nhưng dù bản thân Phil rất sẵn lòng (hoặc ít nhất là anh ấy nghĩ mình sẵn lòng) để khám phá những điều này, thì tiềm thức của anh lần này lại không hề có ý định hợp tác.
+Nhiều tháng trôi qua, vì bận rộn với nhiều dự án khác, tôi tạm gác lại những trải nghiệm của Phil. Tôi tự nhủ rằng chúng tôi đã đi xa nhất có thể trong khả năng cho phép. Phil có vẻ đã ổn định và bắt đầu hòa nhập những thông tin kỳ lạ về cuộc sống hiện tại của mình, vì anh ấy không còn gọi điện cho tôi nữa. Tuy nhiên, câu hỏi về chiếc hộp đen vẫn luôn ám ảnh và khơi gợi sự tò mò trong tôi. Tôi khao khát muốn biết làm thế nào để mở nó và bên trong chứa đựng những gì. Nhưng tôi buộc phải coi dự án này tạm thời khép lại, bởi dường như đó là những thông tin chúng tôi chưa được phép tiếp cận.
 
-Khi Phil chìm vào trạng thái xuất thần quen thuộc, anh đã vấp phải một rào cản. Các thực thể — hoặc bất cứ thế lực nào đang điều phối các buổi thôi miên này — tuyên bố rằng họ sẽ không cho phép Phil khám phá bất kỳ sự kiện nào liên quan đến kiếp sống hiện tại của anh nữa. Họ biết rất rõ những sóng gió mà tâm trí tỉnh táo của anh đang phải trải qua khi cố gượng ép những tiết lộ này vào thế giới quan thực tại của mình, cũng như những rắc rối mà anh gặp phải khi cố tích hợp đống thông tin đó vào cuộc sống thường nhật. Họ quyết định rằng chừng nào xung đột tâm lý này chưa được giải quyết, chúng tôi sẽ không được phép tìm hiểu sâu hơn về những sự kiện đó nữa. Vì vậy, quyền truy cập hoàn toàn bị từ chối. Dù vậy, họ vẫn đồng ý trả lời các câu hỏi khác, miễn là tôi không chạm vào những trải nghiệm mang tính cá nhân này.
+Trong phương pháp làm việc của mình, tôi luôn đặt sự an toàn của người đối diện lên hàng đầu. Tôi sẽ không bao giờ mạo hiểm sức khỏe tinh thần hay thể chất của họ chỉ để thỏa mãn sự tò mò cá nhân. Câu chuyện không bao giờ đáng giá đến mức tôi phải ép buộc họ vào những tình huống mà họ cảm thấy không thoải mái. Vì vậy, nếu câu trả lời phải đến, nó sẽ chỉ xuất hiện khi chính Phil quyết định rằng anh ấy đã sẵn sàng để tiếp tục khám phá.
 
-**P:** Chúng tôi cũng có cùng mối bận tâm với bà về sự an nguy của "vật chủ" (thể xác của Phil), bởi vì anh ấy là một người trong chúng tôi. Chúng tôi sẽ không cho phép anh ấy phải trải qua những điều có thể gây hủy hoại cho một người đã dũng cảm lựa chọn một sứ mệnh đầy mạo hiểm như vậy. Chúng tôi vẫn luôn dõi theo anh ấy với sự quan tâm đặc biệt. Dưới góc nhìn của chúng tôi, anh ấy đã chọn một trong những sứ mệnh nguy hiểm nhất mà một linh hồn có thể chọn, và cho đến nay anh ấy đã làm rất tốt. Anh ấy đã thực sự đối mặt với rủi ro có thể bị mất kiểm soát hoàn toàn. Lúc này đây, có thể nói là anh ấy đang phải tự lực cánh sinh. Anh ấy tự cắt đứt mối liên kết với những điều mà nhiều linh hồn khác thường bám vào để được dẫn dắt và bảo vệ. Anh ấy chọn cách đi một mình để chứng minh lòng tận tụy và lòng trung thành tuyệt đối của mình đối với lý tưởng, đối với mục đích chung. Chính vì thế, chúng tôi sẽ bảo vệ anh ấy hết mực, không để anh ấy tự làm tổn thương mình, cũng như không để người khác làm tổn hại đến anh ấy.
+Rồi nhiều tháng sau, Phil bất ngờ gọi điện cho tôi. Anh ấy vừa trải qua một giấc mơ kỳ lạ gợi mở khả năng cao về một cuộc chạm trán với người ngoài hành tinh khác. Không ngoài dự đoán, anh cảm thấy giấc mơ đó có liên quan đến chiếc hộp đen. Phil muốn thực hiện một phiên làm việc khác vì anh chỉ nhớ được vài mảnh vụn của giấc mơ, nhưng lại có cảm giác mạnh mẽ rằng mình đã nhận được rất nhiều thông tin quan trọng mà ý thức hiện tại chưa thể nắm bắt. Anh cảm nhận được những ký ức đó vẫn đang nằm đâu đó ngay dưới bề mặt tiềm thức và cần được khơi dậy. Sự thôi thúc muốn biết câu trả lời trở nên cấp bách đến mức anh không thể thư giãn cho đến khi vén màn bí ẩn này.
 
-**D: Vâng, và các vị biết đấy, tôi cũng luôn làm việc vì mục tiêu đó mà.**
+Chúng tôi hẹn gặp nhau vào ngày hôm sau vì Phil sợ rằng nếu để lâu, sự lo âu sẽ càng tăng lên. Khi gặp nhau, anh bắt đầu kể về những gì mình thấy trong mơ. Anh lại thấy mình đang ở trên con tàu, vây quanh là những sinh vật nhỏ bé màu xám, đôi bàn tay nhỏ nhắn của chúng âu yếm chạm vào cơ thể anh. Đứng trước mặt anh là phi công có mái tóc vàng đang cầm chiếc hộp đen. Lần này, Phil cảm nhận được sự quan tâm và lo lắng từ phía họ. Đôi mắt của vị phi công lộ rõ vẻ khẩn trương, như thể một thời điểm quyết định quan trọng đã đến. Anh cảm thấy họ đang “cổ vũ” mình, mong chờ anh nhận ra tầm quan trọng của chiếc hộp và cuối cùng có thể giải mã được thông điệp bên trong.
 
-**P:** Điều đó hoàn toàn chính xác. Đó là lý do tại sao chúng tôi đã hỗ trợ cho nỗ lực này của bà, với điều kiện bà phải là người làm việc trực tiếp với anh ấy, bởi vì sự quan tâm của bà là chân thành và đúng đắn.
+Phil cũng hiểu rằng, nếu thời điểm chưa chín muồi và anh không thể làm được, chiếc hộp sẽ chỉ đơn giản là được trả lại chỗ cũ trên tàu để chờ đợi một dịp khác. Anh nhớ mình đã cảm thấy vô cùng hồi hộp và lo âu khi đưa tay đón lấy chiếc hộp. Kể từ đó, giấc mơ trở nên mơ hồ. Tất cả những gì anh nhớ là một tia sáng trắng chói lòa. Sau khoảnh khắc đó, mọi thứ đều bị xóa nhòa, chỉ còn đọng lại cảm giác yêu thương và mãn nguyện tỏa ra từ những sinh vật kia. Dù chuyện gì đã xảy ra, họ có vẻ rất hạnh phúc thay cho anh.
 
-**D: Có một điều tôi chưa hiểu rõ. Các vị nói rằng anh ấy đang cô độc một mình. Tôi cứ nghĩ chúng ta luôn có những vị hộ mệnh và những đấng dẫn dắt luôn ở bên cạnh để hỗ trợ chứ? Rằng chúng ta sẽ không đầu thai trở lại Trái Đất nếu thiếu đi sự trợ giúp đó.**
+Phil tỉnh dậy với sự vui sướng trong ý thức, nhưng lại kèm theo cảm giác bứt rứt về một thứ gì đó đang âm ỉ ngay bên dưới tâm trí. Sau khi nghe anh kể, cả hai chúng tôi đều đi đến kết luận rằng có vẻ như cuối cùng anh đã tiếp cận được chiếc hộp bí ẩn. Thông tin đã được giải phóng nhưng chưa hiển hiện trong ý thức của anh. Đó sẽ là nhiệm vụ của tôi: thâm nhập và mang những ký ức đó ra ngoài nếu rào cản không tiếp tục ngăn cản chúng tôi.
 
-**P:** Sẽ luôn có những trải nghiệm được sắp đặt để định hướng cho cuộc đời của một con người. Đó là những trải nghiệm giúp đưa linh hồn quay trở về với mục đích ban đầu của nó, khéo léo đưa nó trở lại đúng lộ trình mỗi khi có nguy cơ lạc lối. Hiện tại, vật chủ này đang trải qua những bước chuẩn bị cho cái mà chúng tôi gọi là một sự "dịch chuyển" trong tâm thức. Anh ấy đang nâng cấp lên một tầng nhận thức cao hơn, tinh tế hơn để giao tiếp với các thực thể và các nguồn năng lượng mà anh đã từng hợp tác cùng qua nhiều thời kỳ, nhằm mang lại sự trợ giúp cho hành tinh này. Đã có rất nhiều, rất nhiều sự chuẩn bị được thực hiện để sự trao đổi nhận thức này có thể diễn ra. Bởi vì đây không đơn thuần là sự ban phát hay đón nhận một chiều. Đây là một sự dịch chuyển song phương về mặt nhận thức và tâm thức. Một sự hoán đổi vị trí, đến mức người này sẽ hòa vào làm một với người kia. Cuộc hành trình này vừa mang tính biểu tượng, vừa mang tính thực tế, bởi vì sẽ có một sự hoán đổi vị trí nhất định được diễn ra để thúc đẩy sự thay đổi trong nhận thức này. Cuộc hành trình tâm linh này là một sự mở rộng tối đa năng lực của con người để chạm tới một cảnh giới mà, ít nhất là dưới góc nhìn vật lý, từ trước đến nay chưa có ai đạt được. Tất nhiên, cũng sẽ có rất nhiều chiều không gian khác không được đề cập ở đây chịu tác động từ việc này. Tuy nhiên, có thể nói một cách chính xác rằng cuộc hành trình này giống như một lễ tốt nghiệp cho tất cả những gì đã được chuẩn bị từ trước đến nay. Và đồng thời, hiển nhiên nó cũng là một khởi đầu mới. Một chương hoàn toàn mới.
+Phil nằm thoải mái trên giường và phiên làm việc bắt đầu. Khi cánh cửa "thang máy" mở ra, anh lập tức bị đẩy vào đúng khung cảnh mà mình vừa mô tả. Các sinh vật bao quanh anh, đôi mắt chúng tràn đầy vẻ mong chờ. Vị phi công đưa cho anh chiếc hộp. Phil quan sát nó và mô tả đó là một chiếc hộp nhỏ, màu đen, hình chữ nhật hoặc trông như một chiếc quan tài tí hon. Anh biết nó được làm từ một loại đá không tồn tại trên Trái đất.
 
-**D: Liệu điều này có ảnh hưởng gì đến cuộc sống vật lý của anh ấy không?**
+Chiếc hộp chỉ có thể được mở bằng đúng tần số rung động tâm trí của riêng anh. Nó được khóa chặt vào tần số đó, nên cho đến khi đạt được mức độ phát triển phù hợp, mọi sự cố gắng tập trung đều vô ích. Vì vậy, chiếc hộp không thể bị làm giả và cũng không ai khác có thể mở được vì chính Phil là người đã lập trình nó. Bỗng nhiên, một luồng suy nghĩ ập đến trong tâm trí anh: chiếc hộp chứa đựng lượng thông tin khổng lồ đến mức không thể nào tiếp nhận hết trong hình hài vật lý này. Sự thấu hiểu trọn vẹn về nó quá bao la và sâu sắc so với khả năng chịu đựng của tâm trí con người. Nhận ra điều đó, anh biết mình chỉ có thể tiếp cận một phần nhỏ, đủ để giúp anh thấu hiểu cuộc sống hiện tại của mình. Thế là đủ cho hiện tại.
 
-**P:** Đúng vậy. Về mặt cảm xúc, sẽ có một sự thay đổi lớn trong nhận thức — không chỉ là nhận thức về chính bản thân anh ấy, mà còn cả cách anh ấy nhìn nhận những người xung quanh.
+Khi Phil đạt được sự thấu hiểu này, một điều kỳ lạ đã xảy ra. Như thể có một cái chốt vừa được gạt, một ngăn nhỏ trượt ra từ đầu hộp. Anh thấy trong ngăn đó có một viên đá tròn trịa, tỏa ra ánh sáng màu xanh ngọc. Cuối cùng, anh đã tìm ra cách mở chiếc hộp. Nhưng tất cả những điều này có liên quan gì đến viên đá phát sáng? Anh nhận được thông điệp tâm linh rằng, nếu nhìn chằm chằm vào bề mặt mờ đục của viên đá, phần tiềm thức tương ứng sẽ được giải mã. Ký ức của anh sẽ được kích hoạt và những thông tin cần thiết sẽ được đưa lên ý thức.
 
-**D: Tôi đang thắc mắc không biết điều này sẽ ảnh hưởng như thế nào đến cuộc sống thường nhật của anh ấy?**
+Tôi thấy rùng mình vì sự hồi hộp. Liệu cuối cùng chúng tôi có tiếp cận được những thông tin ẩn giấu đó? Đó sẽ là loại thông tin gì? Sự tò mò trong tôi dâng cao và tôi hy vọng rằng rào cản cuối cùng đã được gỡ bỏ. Khi Phil nhìn sâu vào viên đá, khung cảnh căn phòng trên con tàu dần mờ đi và được thay thế bằng một điều gì đó khác.
 
-**P:** Chúng tôi có thể khẳng định rằng cuộc sống của anh ấy sẽ chuyển biến theo hướng tốt đẹp hơn rất nhiều.
+**P:** Tôi nhìn thấy một luồng sáng trắng vô cùng dữ dội. Đó là thứ ánh sáng trắng thuần khiết, rạng rỡ, mang sức mạnh ở một cấp độ cực cao, trắng như bản chất của điện năng vậy. Năng lượng này chính là thứ thường được gọi là "Ánh Sáng Trắng Bảo Vệ". Năng lượng này không có danh tính, vì ở cấp độ này, danh tính chẳng còn ý nghĩa gì cả. Tuy nhiên, nó có cái mà ở cấp độ của các bạn gọi là "ý thức", hay một sự nhận biết xác định. Nó thuộc về trật tự hay tầm vóc tối cao của các nguồn năng lượng trong vũ trụ.
 
-**D: Trong một trải nghiệm của Phil — thực ra là cả hai lần — anh ấy có kể là mình được cho xem một chiếc hộp đen nhỏ khi ở trên tàu vũ trụ. Các vị có thể cho tôi biết thêm thông tin gì về chiếc hộp đen đó không?**
+**D: Có phải tôi đang thực sự trò chuyện với thứ được coi là "ánh sáng trắng" không? Tôi đã rất quen thuộc với khái niệm về ánh sáng trắng; tôi luôn dùng tâm trí để bao bọc các đối tượng của mình bằng sự bảo vệ đó khi chúng tôi làm việc. Theo cách này, bất kỳ ảnh hưởng tiêu cực nào cũng có thể được giữ tránh xa khỏi các phiên làm việc của tôi.**
 
-**P:** Có thể. Ở thời điểm đó, chiếc hộp được cho anh ấy xem như một tín hiệu nhắc nhở: nó vừa đại diện cho nguồn gốc tâm linh (gốc gác linh hồn) của anh, vừa định hình cho con đường mà anh ấy sắp sửa dấn thân vào. Lúc bấy giờ, cuộc đời anh ấy đang đứng trước một bước ngoặt, một sự lựa chọn giữa nhiều ngã rẽ khác nhau. Anh ấy được trải nghiệm điều đó để ở các tầng tâm thức sâu kín bên trong, anh có thể tiếp cận và hấp thụ những thông tin sẵn có dành cho mình. Từ đó, thông qua nhận thức bậc cao của chính mình, anh ấy sẽ đưa ra lựa chọn sáng suốt nhất, phù hợp nhất với sứ mệnh và trách nhiệm mà anh đã cam kết trong kiếp sống này. Đây là cột mốc kết nối giữa những gì anh đã hoàn thành trong quá khứ với những mục tiêu anh cần phải đạt được trong tương lai. Trải nghiệm với chiếc hộp đen đơn thuần là một chất xúc tác để thúc đẩy quá trình hấp thụ và định hình này. Nó chính là sợi dây liên kết giữa Quá khứ, Hiện tại và Tương lai.
+**P:** Sẽ chính xác hơn nếu nói rằng các năng lượng của ánh sáng trắng đang trong trạng thái giao tiếp. Năng lượng này bây giờ sẽ nói chuyện với Philip, vì ở đây có một thông điệp rất cụ thể cần được truyền đạt vào thời điểm này. Chúng tôi sẽ đóng vai trò phiên dịch, vì sự khác biệt về năng lượng từ cấp độ đó đến cấp độ mà chúng tôi đang nói chuyện hiện tại không thuận lợi cho việc giao tiếp trực tiếp. Thông tin như sau: Chúng tôi muốn nói rằng con đã học tốt bài học của mình, con trai của chúng tôi. Tại thời điểm này trong quá trình tiến hóa của con, một kênh nhận thức đang được mở ra để cho phép con tiếp cận trực tiếp hơn với những lĩnh vực mà con dường như cảm thấy bị cô lập nhất. Con đã bị từ chối quyền tiếp cận điều này là có lý do. Đã có một khoảng thời gian trong một tiền kiếp—nếu con chọn cách dùng thuật ngữ đó—nơi mà con đã lạm dụng đặc quyền này. Lĩnh vực nhận thức này của con đã bị đóng lại vào thời điểm đó, để con có thể trải nghiệm sự thiếu hụt, một cảm giác bị chối bỏ thật sự rõ ràng. Điều này được thực hiện để con có thể trân trọng hơn cách sử dụng nhận thức và quyền năng này. Trải nghiệm đó đã gây cho con nhiều đau khổ và lo âu trong kiếp sống này. Đến mức con thường cảm thấy khao khát được trở về với cõi linh hồn và được đắm mình một lần nữa trong những nguồn năng lượng này. *(Điều này dường như ám chỉ đến những khuynh hướng tự sát trong thời kỳ đầu đời của Phil).* Ở giai đoạn đó trong tiền kiếp của con trên một hành tinh khác, đã có một trải nghiệm mà tại đó những nguồn năng lượng này trở nên mất cân bằng do bị sử dụng sai mục đích. Trải nghiệm này khiến con tự quyết định cách thức phù hợp nhất để tái cân bằng chúng.
 
-**D: Nghĩa là những lúc anh ấy nhìn thấy chiếc hộp đó đều là những cột mốc quan trọng trong cuộc đời anh ấy?**
+**D: Trong tiền kiếp đó, có phải anh ấy đã sử dụng những năng lượng này theo cách tiêu cực không? Đó có phải lý do tại sao nó bị tước bỏ khỏi anh ấy?**
 
-**P:** Xét theo một góc nhìn nhất định thì đúng là như vậy. Tuy nhiên, không nên hiểu theo nghĩa đen hay các sự kiện vật lý thông thường.
+**P:** Đúng là như vậy. Nó có thể được ví như một sự sa ngã.
 
-**D:** Phil có nói là anh ấy thấy chiếc hộp đó trông rất quen thuộc.
+**D: Bạn luôn nói rằng không có cái gọi là thời gian, nhưng tôi tự hỏi sự việc đó xảy ra khi nào?**
 
-**P:** Đúng vậy, bởi vì nguồn gốc của chiếc hộp đó gắn liền với nguồn gốc của chính linh hồn anh ấy.
+**P:** Chúng tôi sẽ chuyển đổi theo thuật ngữ của các bạn... đại khái là vài triệu năm theo cách tính của các bạn, mặc dù sự tương đương này chỉ là ước chừng.
 
-**D:** Bên trong chiếc hộp đó có chứa gì không các vị?
+**D: Nhưng anh ấy đã phải chờ đợi lâu như vậy, trải qua rất nhiều, rất nhiều kiếp sống để giành lại quyền được sử dụng năng lượng đó một lần nữa sao?**
 
-**P:** Có, chứa đựng cả nghĩa đen lẫn nghĩa bóng. Có những thông tin vô hình được lưu trữ và truyền tải từ bên trong chiếc hộp, đồng thời cũng có cả những thông tin hữu hình được khắc trực tiếp ở mặt trong và mặt ngoài của nó.
+**P:** Đúng là như vậy. Chúng tôi sẽ nói một cách cởi mở về sự việc này vào lúc này, vì đây là một trải nghiệm cần thiết cho sự phát triển của... chúng tôi ngần ngại khi dùng thuật ngữ "Phương tiện" (Vehicle), vì đó không phải là một cách nói chính xác. Những trải nghiệm tổng hợp của nguồn năng lượng này (Phil) nên được mô tả chính xác hơn là một "giai đoạn". Vì vậy, điều quan trọng là giai đoạn này phải trải nghiệm những gì được tạo ra từ việc sử dụng sai và bị tước bỏ các nguồn năng lượng đó. Điều này xảy ra vì anh ấy đã tiết lộ những điều lẽ ra không được phép chia sẻ. Đã có một tình huống trong giai đoạn đó, khi anh ấy mong muốn hỗ trợ việc nâng cao nhận thức cho những người thuộc sự phụ trách của mình. Có những quy tắc nghiêm ngặt trong vũ trụ về những gì có thể được trao đi và những gì không được phép. Những quy tắc này là tuyệt đối và không được phép vi phạm.
 
-**D:** Nhưng anh ấy đã cố mà không tài nào tìm được cách mở nó ra.
+Trong nỗ lực hỗ trợ của mình, các quy tắc này đã bị phá vỡ và trong quá trình đó, quyền sử dụng các năng lượng này đã bị tước bỏ. Những năng lượng mà chúng tôi đang nói đến là năng lượng của tri thức, thông tin và sự thấu thị trực giác. Chúng buộc phải bị tước bỏ để cho phép anh ấy hiểu tại sao các quy tắc này lại cần thiết. Các nguồn năng lượng đơn giản là bị đóng lại, và vì thế một quá trình dài của các kiếp luân hồi đã bắt đầu, đỉnh điểm là kiếp sống vật lý mà "phương tiện" này đang hiện hữu. Những năng lượng này hiện đang được trả lại và cách sử dụng chúng đang được học lại. Bởi vì qua bao kiếp luân hồi, ký ức về cách sử dụng các nguồn năng lượng này đã dần bị lãng quên. Và vì vậy, bây giờ việc rèn luyện lại ý thức của anh ấy trong việc sử dụng đúng đắn các năng lượng này là điều quan trọng và cần thiết. Trải nghiệm này đã đi trọn một vòng và đưa "phương tiện" trở lại đúng điểm mà tại đó anh ấy có thể sử dụng những năng lượng đó một cách phù hợp nhất.
 
-**P:** Đúng thế. Đó là một cơ chế bảo mật tự động được thiết lập sẵn. Chìa khóa để mở nó nằm ngay trong tâm trí của anh ấy. Đó là một chiếc chìa khóa bằng tâm thức, và những thông tin bên trong chiếc hộp sẽ không thể được truy cập hay đưa vào nhận thức thực tại của anh cho đến khi anh đạt đến độ chín muồi về mặt tâm lý cũng như sự tiến hóa về mặt tâm linh.
+**D: Điều này có xảy ra trên một hành tinh khác không?**
 
-**D:** Liệu sau này có lúc nào anh ấy mở được chiếc hộp đó không?
+**P:** Sự việc này xảy ra ở một chiều không gian khác. Không phải trong vũ trụ này, mà ở một phần vật lý của một vũ trụ tương tự.
 
-**P:** Có, đó là định mệnh của anh ấy. Hoặc có thể nói, đó là một phần trong tiến trình định mệnh mà anh đã tự lựa chọn. Khi những trải nghiệm cuộc sống của anh ấy đạt đến một tầng bậc đủ để anh không chỉ hiểu, mà còn hoàn toàn làm chủ và vận dụng được những thông tin từ chiếc hộp, thì thời điểm đó sẽ tới. Xin nhắc lại, trải nghiệm này đóng vai trò như một chất xúc tác, xuất hiện để chứng thực cho những gì đã từng tồn tại trong quá khứ và minh chứng cho những gì có thể tái hiện một lần nữa trong tương lai.
+**D: Lúc đó anh ấy giữ vị trí gì? Bạn nói rằng anh ấy có những trách nhiệm phải đảm đương.**
 
-**D: Có lần anh ấy từng buột miệng nói rằng anh ấy nghĩ chính mình là người đã làm ra chiếc hộp đó.**
+**P:** Có hàng triệu sinh linh hoặc những cá nhân hữu hình nằm dưới sự quản lý của anh ấy. Có thể coi anh ấy như một "người đứng đầu hệ thống" (system sovereign) vào thời điểm đó.
 
-**P:** Điều đó hoàn toàn chính xác.
+**D: Tôi đang cố gắng hiểu. Bạn đã nói trước đó rằng có những hội đồng cai quản các vũ trụ khác nhau. Có phải là kiểu tổ chức đó không?**
 
-**D: Vậy chúng ta có thể quay ngược thời gian về thời điểm chiếc hộp đó lần đầu tiên được chế tạo ra không?**
+**P:** Không hẳn ở cấp độ vũ trụ, mà ở cấp độ hệ thống. Một hệ thống là một đơn vị con của vũ trụ.
 
-**P:** Thông tin này không được phép tiết lộ.
+**D: Giống như một thiên hà hay một hệ mặt trời?**
 
-**D: Nghĩa là chúng tôi không được phép quay về khoảng thời gian đó?**
+**P:** Cách hiểu đó chính xác. Đó là một tập hợp các hành tinh có sự sống.
 
-**P:** Đúng vậy.
+**D: Lúc đó anh ấy có ở trong hình hài vật lý không?**
 
-**D: Được rồi, tôi tôn trọng quyết định này. Tôi thắc mắc về nó là vì chiếc hộp đó thực sự là một câu đố lớn đối với tôi.**
+**P:** Không chính xác. Một người đứng đầu hệ thống không thể thực hiện trách nhiệm của mình nếu ở trong hình hài vật lý. Vì cần phải bao quát toàn bộ hệ thống, hoặc hiện diện khắp nơi trong hệ thống cùng một lúc, để có thể nhận biết tất cả những gì đang xảy ra. Ý thức khi đó phải bao la và đa dạng, lan tỏa khắp hệ thống để mọi thành phần trong hệ thống đều có thể kết nối với người đứng đầu.
 
-**P:** Bản chất nó cũng là một câu đố vô cùng hóc búa đối với chính Phil nữa. Theo nghĩa là ngay tại thời điểm nhìn thấy nó, anh ấy hoàn toàn không thể hiểu nổi ý nghĩa của nó là gì. Anh ấy cần có thời gian để xây dựng một hệ quy chiếu nhận thức, và anh bắt buộc phải trải qua những trải nghiệm thực tế ngoài đời thực — những trải nghiệm sẽ giúp anh thấu hiểu trọn vẹn tất cả những gì đã qua và những gì sắp tới.
+**D: Điều đó có nghĩa là anh ấy đã tiến hóa đến một cấp độ rất cao, đúng không?**
 
-**D: Và khi thời khắc đó đến, anh ấy sẽ hoàn toàn sẵn sàng đón nhận nó.**
+**P:** Nhận định đó hoàn toàn chính xác.
 
-**P:** Điều đó hoàn toàn chính xác. Chúng tôi có thể mô tả rằng về mặt vật lý, nó trông giống như một vật thể nhỏ, có dạng hình hộp chữ nhật và có màu gần như đen tuyền. Nó được chế tác từ một nguyên tố tự nhiên, một loại đá được tìm thấy ở một vùng đất mà anh ấy vốn rất quen thuộc.
+**D: Tôi đang cố gắng nắm bắt, nên câu hỏi của tôi có vẻ hơi ngây ngô. Có các hội đồng cai quản các vũ trụ, rồi những hội đồng này được chia nhỏ thành các vị đứng đầu các hệ thống khác nhau?**
 
-**D: Loại đá đó có nguồn gốc từ Trái Đất không?**
+**P:** Có những cấp bậc hệ thống phân cấp mà bạn có thể so sánh với các cấp chính quyền trên bình diện của các bạn. Hãy bắt đầu từ cấp thấp nhất có thể là người đứng đầu một gia đình. Sau đó là người chịu trách nhiệm cho một khu phố—nếu có tồn tại đơn vị đó—giống như trong nhiều sự tồn tại tương tự. Mỗi khu phố sẽ có một người chịu trách nhiệm về sự an toàn và phúc lợi cho những người ở đó. Người này đến lượt mình sẽ chịu trách nhiệm trước thị trưởng hoặc hội đồng quản trị của thành phố. Rồi lại đến chính quyền cấp quận, cấp bang và cấp liên bang. Và sau đó là cấp hành tinh, nếu bạn muốn dùng thuật ngữ đó.
 
-**P:** Thông tin này không được phép tiết lộ. Đó là tất cả những gì bà có thể biết về chiếc hộp vào lúc này.
+**D: Và sau đó sẽ là người cai quản nhiều hành tinh hoặc một hệ thống?**
 
-Cánh cửa dẫn đến chủ đề đó đã chính thức khép lại. Nhận thấy hướng tiếp cận này đã bị chặn đứng, tôi quyết định chuyển sang hỏi về những chủ đề khác.
+**P:** Đúng là như vậy.
 
-**D: Vậy tôi có được phép khai thác các thông tin chung về những thực thể ngoài Trái Đất này không?**
+**D: Vậy anh ấy có chịu trách nhiệm trực tiếp trước hội đồng không, hay còn có ai đó đứng ở giữa?**
 
-**P:** Điều đó được phép, miễn là bà không chạm vào vùng nhạy cảm là những trải nghiệm cá nhân của anh ấy. Đã đến lúc những thông tin này cần được đưa ra ánh sáng một cách đầy đủ hơn để người khác có thể nghiên cứu và thấu hiểu.
+**P:** Có rất nhiều hội đồng ở nhiều cấp độ khác nhau. Hệ thống sẽ chịu trách nhiệm trước những gì ở cấp cao hơn và cứ thế tiếp tục. Những người ở dưới sẽ chịu trách nhiệm trước hệ thống. Đây không phải là vị trí cao nhất cũng không phải là thấp nhất.
 
-Tôi bắt đầu cuộc vấn tin với hai chủ đề mà tôi vốn rất quan tâm, và chúng cũng được gợi mở từ chính những trải nghiệm trước đó của Phil.
+**D: Nói cách khác, lúc đó anh ấy có rất nhiều trách nhiệm và tri thức. Và vì sử dụng sai mục đích, anh ấy đã tiết lộ những điều bị cấm. Có phải vậy không?**
 
-**D: Đâu là chủng tộc phổ biến nhất đang ghé thăm Trái Đất của chúng ta vào thời điểm này, tôi đang muốn nói đến các thực thể bằng xương bằng thịt, đến từ các hành tinh khác?**
+**P:** Anh ấy đã trao thông tin và năng lượng cho một chủng tộc đang cố gắng nâng cao nhận thức trên hành tinh của họ. Người đứng đầu hệ thống khi đó cảm thấy rằng việc trao đi thông tin này là phù hợp nhất. Đó là một tình huống vô cùng độc đáo, không được quy định chung bởi các quy tắc trong những trường hợp tương tự.
 
-*(Tôi cố ý hỏi vậy vì không muốn cuộc trò chuyện bị dẫn dắt vào các cuộc thảo luận về các thực thể dạng năng lượng hay các thể linh hồn).*
+**D: Có vẻ như anh ấy đã có động cơ tốt.**
 
-**P:** Chúng tôi muốn nói đến phân nhóm mang hình người (humanoid) của… chúng tôi không tìm thấy thuật ngữ tương đương nào trong ngôn ngữ của bà để dịch nghĩa; tuy nhiên, có rất nhiều phân nhóm thuộc chủng người này. Có nhiều thực thể sở hữu cơ thể vật lý giống hệt như các bạn. Quá trình gieo mầm sự sống trước đây trên hành tinh của các bạn cũng được thực hiện theo cơ chế này. Ngoài ra, lại có những chủng tộc mang mối quan hệ họ hàng xa, nhưng ngoại hình của họ lại rất kỳ dị so với tiêu chuẩn của loài người. Chủng tộc "họ hàng xa" này lại chính là nhóm xuất hiện phổ biến nhất trong các chuyến viếng thăm. Còn những người mà các bạn gọi là "người máy sinh học" (androids) thực chất chỉ là những người thợ tình nguyện tham gia vào sứ mệnh này. Họ tạm rời khỏi môi trường và chương trình định sẵn của mình để cống hiến năng lực cho việc hoàn thành đại cuộc này. Chúng tôi hơi đắn đo khi dùng từ "thử nghiệm" (experiment), bởi vì kết quả cuối cùng vốn đã được dự đoán và định đoạt sẵn rồi. Tuy nhiên, chúng tôi cũng không muốn gọi đây là một "sứ mệnh" (mission), bởi vì phần lớn công việc… Chúng tôi thấy mình phải dừng mạch thảo luận này lại ở đây, vì đang có một sự hiểu lầm phát sinh về mục đích của hướng đi này. Những thông tin vừa đưa ra đang bị diễn dịch sai lệch theo hướng xâm lược chứ không mang tính giúp đỡ. Chúng tôi hoàn toàn không muốn tạo ra ấn tượng rằng mình đến đây như những kẻ chinh phạt — trái lại, chúng tôi đến đây với tư cách là những người trợ giúp.
+**P:** Đúng là như vậy, không hề có ác ý. Tuy nhiên, các quy tắc đã bị phá vỡ trong sự kinh ngạc tột độ của chính người đứng đầu hệ thống đó. Thông tin đã bị lạm dụng và làm trì trệ chính sự tiến bộ mà anh ấy tìm cách hỗ trợ.
 
-**Dolores: Các vị vừa nhắc đến việc kết quả cuối cùng vốn đã được định đoạt sẵn. Ý các vị là gì?**
+**D: Vậy là anh ấy đã tiết lộ cho họ thông tin mà anh ấy nghĩ rằng sẽ giúp ích cho sự tiến bộ và tiến hóa của họ.**
 
-**Phil:** Đó là kết quả chung cuộc mang tính tổng thể, chứ không phải là những kết quả mang tính cá nhân mà mỗi người trong các bạn phải tự định đoạt và kiến tạo theo cách riêng của mình.
+**P:** Chúng tôi muốn nói rằng không hẳn là thông tin, mà là các năng lượng. Có rất nhiều loại năng lượng. Những năng lượng đặc biệt đã được trao đi, nếu được sử dụng đúng cách, chắc chắn sẽ giúp chủng tộc đó phát triển vượt bậc. Tuy nhiên, họ đã không hiểu đúng và sử dụng sai mục đích. Điều đó đã gây ra sự thụt lùi cho cả dân tộc đó.
 
-**Dolores: Vậy kết quả chung cuộc đó là gì?**
+**D: Bạn có thể nói rõ hơn về loại năng lượng đó là gì được không?**
 
-**Phil:** Đó là việc nâng tầm nhân loại lên một tầng bậc nhận thức mang tính vũ trụ. Để loài người trở thành những người anh em bình đẳng với các cư dân tinh tú, chứ không phải là những kẻ bị nô dịch hay phục tùng.
+**P:** Không thể diễn tả được vì không có khái niệm tương đương trong phạm vi trải nghiệm của cõi này.
 
-**Dolores: Những sinh vật đó — các thực thể hình người hay người máy sinh học này — trông ngoại hình họ như thế nào?**
+**D: Tôi rất tò mò về cách họ đã sử dụng sai nó.**
 
-**Phil:** Những sinh vật mà các bạn thường mô tả là có làn da màu xám và vóc dáng nhỏ bé chính là hình mẫu điển hình. Lẽ tự nhiên, đôi mắt là đặc điểm nổi bật nhất trên khuôn mặt của họ, đơn giản vì đó chính là cơ quan tiếp nhận thông tin và giao tiếp.
+**P:** Nó giống như bất kỳ loại năng lượng nào có thể bị sử dụng sai mục đích.
 
-**Dolores: Đôi mắt của họ có chức năng hoạt động giống như mắt người không?**
+**D: Tôi đoán rằng mỗi năng lượng đều có hai mặt. Và họ đã dùng nó theo hướng tiêu cực?**
 
-**Phil:** Xét theo một góc độ nào đó thì có. Họ cũng nhìn, tuy nhiên, mắt của họ thu nhận được nhiều hơn những gì nằm trong dải quang phổ ánh sáng nhìn thấy của các bạn — bao gồm cả vùng tia hồng ngoại và tia tử ngoại.
+**P:** Chính xác.
 
-**Dolores: Mắt của họ có con ngươi và hoạt động theo cơ chế co giãn để tiếp nhận ánh sáng giống như mắt chúng tôi không?**
+**D: Vậy là khi trao cho họ quyền sử dụng những năng lượng đó, anh ấy đã không trao cho họ sự thấu hiểu cần thiết đi kèm với nó.**
 
-**Phil:** Không giống theo kiểu tập trung tiêu cự và bắt sáng như vậy. Về điểm đó thì họ khác biệt. Họ có tiếp nhận ánh sáng, nhưng phương thức tiếp nhận của họ dựa trên một nguyên lý hoàn toàn khác.
+**P:** Trình độ tiến hóa của họ chưa đủ để cho phép họ thấu hiểu những năng lượng này. Đó là một sự mạo hiểm có tính toán.
 
-**Dolores: Đôi mắt của họ có mí mắt không các vị?**
+**D: Điều này có từng xảy ra với hành tinh của chúng ta không? Họ đôi khi cũng chấp nhận rủi ro và tiết lộ những thứ cho chúng ta, và chính ý chí tự do của chúng ta quyết định cách sử dụng chúng?**
 
-**Phil:** Không phải theo nghĩa che phủ hay đóng mở như mí mắt của các bạn đâu.
+**P:** Đúng vậy, vì có những quy tắc áp dụng cho việc loại năng lượng nào có thể được trao cho những cá nhân cụ thể vào những thời điểm cụ thể.
 
-**Dolores: Vậy họ có hệ hô hấp tương tự như chúng ta không?**
+**D: Đây cũng là một trường hợp tương tự, nhưng ý chí tự do của họ đã biến nó thành điều tiêu cực.**
 
-**Phil:** Chúng tôi chỉ có thể nói là có điểm tương đồng ở chỗ: cơ quan đó được dùng để phân tích các thành phần, chứ không phải để tiêu hóa hay thông khí (hít thở).
+**P:** Đúng là như vậy.
 
-**Dolores: Những sinh vật này có hấp thụ bất kỳ dạng năng lượng hay thức ăn nào để duy trì sự sống không?**
+**D: Vậy thì tôi không thấy đó là lỗi của anh ấy.**
 
-**Phil:** Họ không cần đến vật chất vật lý để duy trì cơ thể. Họ là những thực thể năng lượng và có thể tồn tại hoàn toàn dựa vào nguồn năng lượng tinh thần thuần túy. Như vậy là quá đủ rồi.
+**P:** Các quy tắc đã bị phá vỡ. Quy tắc nêu rõ rằng cho đến khi sự tiến hóa của người dân đạt đến mức xứng đáng để sử dụng những năng lượng này, chúng phải được giữ kín. Chúng không thể được trao đi cho đến khi con người có thể hiểu được toàn bộ tiềm năng của những năng lượng đó. Điều đó đã chưa xảy ra.
 
-**Dolores: Nghĩa là họ không hề tiêu thụ bất cứ thứ gì giống như con người vẫn làm?**
+**D: Nhưng rõ ràng là sớm muộn gì thì họ cũng sẽ được trao cho nó ở một thời điểm tương lai nào đó.**
 
-**Phil:** Không theo cái cách hấp thụ vật chất thô kệch đó.
+**P:** Điều đó rất có khả năng.
 
-**Dolores: Liệu họ có hấp thụ theo cơ chế thẩm thấu không?**
+**D: Nhưng từ những câu chuyện bạn kể cho tôi, điều đó cũng đã từng xảy ra trong quá khứ của Trái đất. Những thứ được trao đi vào thời điểm không thích hợp.**
 
-**Phil:** Có quá trình hấp thụ diễn ra. Có sự phân tích các hợp chất, và có thể là cả việc điều chỉnh, sửa chữa một số bất thường nếu có đột biến xuất hiện. Tuy nhiên, nếu nói về nguồn nuôi dưỡng, họ rút năng lượng từ các nguồn phát năng lượng trực tiếp hơn là thông qua các chức năng tiêu hóa hay hô hấp.
+**P:** Chúng tôi sẽ không tranh cãi về điều này, vì ai cũng biết trong vũ trụ rằng những sai lầm là điều khó tránh khỏi.
 
-**Dolores: Họ sống nhờ vào loại năng lượng nào vậy các vị? Ý các vị là các nguyên tố có sẵn trong bầu khí quyển sao?**
+**D: Nhưng trong trường hợp này, việc anh ấy bị tước bỏ vị trí đó ít nhiều giống như một hình phạt?**
 
-**Phil:** Nguồn nuôi dưỡng của họ chính là năng lượng tinh thần.
+**P:** Chúng tôi sẽ không dùng từ "hình phạt", vì đó không phải là cách đánh giá công bằng về các năng lượng vũ trụ. Cá nhân đó cần phải trải nghiệm lý do tại sao các quy tắc được đặt ra. Và điều này được tạo điều kiện bằng cách đặt người vi phạm quy tắc xuống dưới các năng lượng đó, để họ có thể nếm trải cảm giác thiếu hụt chính những năng lượng ấy. Và rồi thông qua quá trình tiến hóa dần dần trở lại cấp độ mà các năng lượng được trả về, người đó mới có thể trân trọng hoàn toàn việc cho đi và nhận lại những năng lượng này.
 
-**Dolores: Liệu họ có phát triển mạnh mẽ nhờ vào các cảm xúc không?**
+**D: Tôi hiểu rồi. Bạn gọi đó là sự "sa ngã". Nói cách khác, anh ấy đã rơi xuống một vị trí thấp hơn.**
 
-**Phil:** Ở đây không có yếu tố cảm xúc. Những sinh vật này được gọi là người máy sinh học, họ không có cảm xúc nhưng lại nhạy bén và phản ứng với năng lượng tinh thần.
+**P:** Chúng tôi sẽ không đưa ra đánh giá chủ quan về điều này, vì trong cách diễn đạt của các bạn, từ "sa ngã" mang hàm ý tiêu cực. Theo góc nhìn của chúng tôi, đó đơn giản chỉ là một bài học kinh nghiệm. Một sự cần thiết rất trung tính giúp bổ sung vào trải nghiệm tổng thể của mỗi cá nhân. Sai lầm xảy ra ở nhiều cấp độ. Và sự thấu hiểu, thứ chữa lành những vết thương từ sai lầm đó, được giành lấy thông qua cái mà người ta gọi là "sự sa ngã".
 
-**Dolores: Ý tôi là, liệu họ có hấp thụ và phát triển nhờ vào những cảm xúc do người khác phóng thích ra không?**
+**D: Điều này thật khó hiểu, ngay cả khi một người đã đạt đến những cấp độ đó rồi mà vẫn có thể mắc sai lầm và thụt lùi. Vậy là đã mất nhiều, rất nhiều, có lẽ hàng ngàn kiếp sống để được phép đạt đến điểm này một lần nữa sao?**
 
-**Phil:** Họ sẽ bị tác động bởi những cảm xúc đó; tuy nhiên, đó không phải là nguồn năng lượng nuôi sống họ.
+**P:** Chúng tôi sẽ không đưa ra con số chính xác về số kiếp luân hồi đó. Vài trăm kiếp là đủ. Những kiếp sống mà con đã được thấy và đã thảo luận chỉ là một phần nhỏ trong bề dày trải nghiệm mà nguồn năng lượng này đã học hỏi được.
 
-**Dolores: Những sinh vật này được tạo ra như thế nào?**
+Với sự dằn vặt sâu sắc trong tâm hồn, anh ấy đã đưa ra quyết định đến hành tinh này trong hình hài trần thế. Anh ấy biết trải nghiệm này sẽ rất lạ lẫm, khó khăn và cô độc. Đó là lý do tại sao anh ấy từng khao khát được rời bỏ kiếp sống này. Sự thích nghi là vô cùng khó khăn đối với những nguồn năng lượng bậc cao như vậy, bởi về cơ bản, họ rất trong sáng và thuần khiết. Họ đã quen với mặt ánh sáng và không thể thấu hiểu hay đo lường được mặt tối của thế giới các bạn. Phải cần lòng dũng cảm to lớn để họ rời bỏ ánh sáng và thực hiện hành trình đến thế giới tăm tối này vì một sứ mệnh, và họ có tình yêu cũng như sự tôn trọng từ chúng tôi.
 
-**Phil:** Đây là một quy trình được giao cho khu vực trung tâm của hành tinh — nơi ngự trị của những nguồn năng lượng mang đặc tính quản trị và điều hành. Để dễ hình dung, bà có thể liên tưởng đến mô hình quận hoặc bang trong hệ thống chính trị của các bạn. Quy trình này là một sự hòa trộn giữa các nguồn năng lượng, bao gồm cả đặc tính vật lý lẫn tinh thần, để từ đó cấu trúc vật chất này được ban cho khả năng phản hồi lại với tinh thần. Đây không phải là việc tạo ra một bản sắc hay cá tính tinh thần riêng biệt; mà đơn thuần là một cơ chế phản hồi tinh thần, cho phép tạo vật vật lý này phản ứng lại trước các kích thích từ tư duy.
+**D: Vậy là anh ấy được truyền đạt thông tin này bây giờ để anh ấy học cách sử dụng năng lượng một cách đúng đắn bất cứ khi nào anh ấy nhận được nó?**
 
-**Dolores: Họ được nhân bản vô tính, được sản xuất theo dây chuyền, hay do một cá nhân nào đó tạo ra?**
+**P:** Lý do là vì giờ đã đến lúc năng lượng được trả lại, nên cần phải có sự nhận thức tỉnh táo về mục đích của việc này. Nếu nguồn năng lượng này chỉ đơn giản xuất hiện mà không rõ lý do, nó sẽ như thể chẳng có mục đích thực sự nào cả. Nó sẽ trông giống như tự nhiên xuất hiện từ hư không. Vì vậy, con người phải được hướng dẫn một cách có ý thức về lý do tại sao năng lượng đó được ban cho, và phải luôn ý thức được những trách nhiệm đi kèm với vị thế của nguồn năng lượng này.
 
-**Phil:** Bản chất bao gồm cả hai. Gọi là sinh học vì nguồn năng lượng tinh thần của họ được ban tặng từ các lực lượng sự sống. Nhưng gọi là sản xuất cũng đúng, vì quy trình này giống như việc lắp ráp hơn là sự tăng trưởng tự nhiên. Họ là những tổ hợp nguyên tố hoặc máy móc kỹ thuật. Tuy nhiên, điều đó không có nghĩa là không có sự sống hay sinh lực bên trong các thực thể này. Những người máy sinh học này nhạy bén với năng lượng tinh thần của các bạn, nhưng họ lại tuân lệnh hoặc phục tùng những đấng đang trực tiếp điều hành chiến dịch cụ thể mà họ tham gia. Họ là những người phụ tá (đầy tớ).
+**D: Như vậy thì anh ấy mới có thể sử dụng nó một cách khôn ngoan.**
 
-**Dolores: Có các cuộc thử nghiệm di truyền nào giữa con người và những người máy sinh học này đang diễn ra không?**
+**P:** Đúng là như vậy. Điều này đã diễn ra trong tình yêu thương vĩ đại và sự hòa hợp của vũ trụ. Một người ở bình diện vật lý như anh ấy thường không có được cơ hội này. Tuy nhiên, trong quá trình tiến hóa của hành tinh này, việc những người xứng đáng nhận được điều này và sử dụng nó theo cách đó là hoàn toàn phù hợp—vì các mục tiêu và nhu cầu của vũ trụ, nhìn chung, đều được thúc đẩy thông qua cách sử dụng này.
 
-**Phil:** Không hề có chuyện đó. Bởi vì giữa các người máy sinh học không có khả năng sinh sản. Bản chất của họ không phải là những thực thể tự duy trì nòi giống. Họ đơn giản là những tạo vật mà thông qua một quá trình liên kết năng lượng, được ban cho một sinh lực để phản ứng và đồng cảm với nguồn sinh lực mà họ tiếp xúc cùng. Tuy nhiên, họ hoàn toàn không có chức năng duy trì nòi giống.
+**D: Anh ấy có phải sử dụng nguồn năng lượng này theo bất kỳ cách cụ thể nào không?**
 
-**Dolores: Những người máy sinh học này giao tiếp với các cư dân trên Trái Đất như thế nào?**
+**P:** Anh ấy sẽ trở nên rất thành thạo và quen thuộc với nguồn năng lượng này, đồng thời biết cách sử dụng phù hợp và thời điểm cần sử dụng. Nó sẽ mang lại cho anh ấy cảm giác về giá trị thực sự, điều mà anh ấy đã cảm thấy rất thiếu hụt trong kiếp sống này.
 
-**Phil:** Chúng tôi muốn làm rõ điểm này: họ không giao tiếp với người Trái Đất các bạn, mà họ chỉ giao tiếp với những vị cấp trên của mình.
+**D: Vậy khi thời điểm đến, anh ấy sẽ được giúp đỡ để biết phải làm gì với nó chứ?**
 
-**Dolores: Cấp trên của họ là ai?**
+**P:** Chính xác. Ngay cả lúc này, trong khi chúng ta đang trò chuyện, anh ấy cũng đang được giúp đỡ, vì thông qua những phiên làm việc này, nhận thức đang dần quay trở lại.
 
-**Phil:** Là những đấng chịu trách nhiệm cho chiến dịch cụ thể đang có sự tương tác diễn ra. Tuy nhiên, các tầng bậc nhận thức còn vượt xa và cao hơn thế nữa. Chuyện này cũng tương tự như việc các bậc chủ tể của vũ trụ cử những thuộc cấp này đi thực hiện bất kỳ nhiệm vụ nào được yêu cầu, rồi sau đó họ sẽ quay về báo cáo lại. Nó rất giống với cấu trúc trong quân đội của các bạn.
+**D: Tôi đã thường nghĩ rằng bất cứ khi nào chúng ta gặp nhau một cách tình cờ như vậy, thì đều là vì một mục đích xác định.**
 
-**Dolores: Vậy là các người máy sinh học không hề giao tiếp với con người trên Trái Đất?**
+**P:** Đúng vậy. Mỗi mục đích được phục vụ đều dành cho từng người các bạn. Trong vũ trụ không tồn tại cái gọi là "tình cờ". Tất cả những gì xảy ra đều có vần điệu và lý do của nó. Đó không phải là sự trùng hợp. Chúng tôi nói với con bây giờ, con trai của chúng tôi, con đã đi trọn một vòng trong nỗ lực này và giờ đây đã đến đúng điểm nơi mà con đã bắt đầu trong thời đại tăm tối của cá nhân mình. Con đã xứng đáng nhận được sự khôi phục hoàn toàn những gì vốn thuộc về con, và là điều con hằng mong mỏi. Bây giờ con có tùy chọn quay trở lại phía này để sử dụng nguồn năng lượng này theo những cách con thấy phù hợp nhất, hoặc ở lại và sử dụng các năng lượng này trên bình diện của con theo cách mà con cảm thấy thoải mái nhất. Đây hoàn toàn là lựa chọn của con tại thời điểm này. Chúng tôi muốn nói với con rằng: hãy thiền định, suy ngẫm về điều này và quay lại với chúng tôi theo cách con đã học trước đây. Con vừa được trao một phương pháp để có thể quay về với bản thể cao nhất đó và giao tiếp với các nguồn năng lượng của vũ trụ ở cấp độ ý thức. Hãy đưa ra câu trả lời của con vào lúc đó, để nó được thực hiện ở cấp độ ý thức. Vì câu trả lời này giờ đây phải được cân nhắc từ cấp độ ý thức. Chúng tôi nói với Philip rằng nếu con chọn ở lại hành tinh này, thêm nhiều thông tin sẽ được cung cấp sau đó vào thời điểm thích hợp, và các hướng dẫn tiếp theo sẽ được gửi đến.
 
-**Phil:** Không theo nghĩa đưa ra các chỉ dẫn hay định hướng. Nghĩa là, con người không thể điều khiển hay ra lệnh cho các hoạt động của họ. Các người máy sinh học có phản ứng trước cảm xúc của con người, nhưng không đến mức tương tác sâu vào phần trí tuệ của các bạn.
+Đừng cố gắng dự đoán đó sẽ là gì. Hãy cứ để mọi việc xảy ra theo đúng lộ trình của nó. Con đường đang đi, hiện tại, là phù hợp và con sẽ nhận được thêm sự chỉ dẫn vào một thời điểm sau này. Khi thức dậy, con phải suy ngẫm về điều này và đưa ra quyết định trong trạng thái tỉnh táo xem nên ở lại hay rời đi. Chỉ cần tiếp tục tuân theo sự phản hồi cảm nhận được từ bên trong, vì đó mới là người thầy chân chính.
 
-**Dolores: Họ có thấu hiểu cảm xúc của con người không?**
+Hãy lựa chọn một cách khôn ngoan, con trai của chúng tôi, và hãy nhớ rằng sẽ không có bất kỳ sự phán xét nào xảy ra. Dù con chọn cách nào, đó cũng sẽ là cách mà sứ mệnh của con tiến triển. Và với con, Dolores, chúng tôi nói rằng con được khuyến khích sử dụng những thông tin đã được trao. Không có hạn chế nào đối với những thông tin này cả. Nếu có, thì chúng đã không được trao đi.
 
-**Phil:** Hoàn toàn chính xác. Họ có khả năng thấu cảm.
+Tại thời điểm này, Phil thuật lại rằng luồng sáng trắng đang lùi xa và anh lại nhận thức được mình đang cầm chiếc hộp chứa viên đá sáng trong tay. Anh nhìn thấy gương mặt của vị phi công và những sinh vật nhỏ bé màu xám, cảm nhận được một làn sóng yêu thương, hạnh phúc và mãn nguyện tỏa ra từ họ. Có vẻ như họ biết rằng cuối cùng anh đã được phép tiếp cận một vài bí mật trong quá khứ của mình.
 
-**Dolores: Những sinh vật này có phải chịu đựng các loại bệnh tật hay tổn thương nào làm giới hạn tuổi thọ của họ không?**
+Sau khi thông tin được tiết lộ và anh được bảo hãy đưa ra lựa chọn có ý thức, anh đặt viên đá vào lại và ngăn kéo tự động trượt vào trong hộp. Vị phi công ngoài hành tinh nhận lấy nó từ tay anh và truyền đạt rằng nó sẽ được giấu lại vào đúng ngăn đó trên con tàu, nơi mà Phil đã đặt nó vào từ nhiều thiên niên kỷ trước. Nơi nó đã chờ đợi cho đến khi anh nhớ lại và tiếp cận được nó, và tại đây nó sẽ tiếp tục nằm đó cho đến khi cần thiết một lần nữa. Phil nhận ra rằng những thông tin mình nhận được chỉ là một phần nhỏ so với những gì chứa đựng trong chiếc hộp đó. Anh cũng biết rằng phần còn lại có lẽ sẽ không bao giờ được trao cho anh khi anh còn đang trong kiếp sống này. Khi anh đạt đến giai đoạn tiếp theo (trong bất kỳ kiếp sống tương lai nào), việc giải phóng thêm thông tin về nguồn gốc và định mệnh của anh sẽ được kích hoạt.
 
-**Phil:** Không có loại bệnh tật nào tương tự như các bạn để có thể so sánh. Tuy nhiên, trong một vài bối cảnh cụ thể, họ vẫn có thể bị suy yếu, hao tổn. Dù vậy, không có tổn thương nào mà bản thân các bạn có thể hy vọng can thiệp hay chữa trị được cho họ.
+Sau đó, Phil được đưa trở lại trạng thái tỉnh táo hoàn toàn, và từ vẻ mặt đăm chiêu của anh, tôi biết anh sẽ còn nhiều điều phải suy ngẫm trong những ngày sắp tới.
 
-**Dolores: Điều này có nghĩa là họ có cuộc sống trường sinh bất tử không?**
+BAN ĐẦU, tôi đã do dự khi đưa thông tin này vào cuốn sách vì sợ rằng nó có thể bị hiểu sai, và độc giả có thể nghĩ rằng Phil đang ám chỉ mình ngang hàng với Chúa. Tuy nhiên, mọi chuyện đã được làm rõ rằng cấp độ "người đứng đầu hệ thống" vẫn còn thấp hơn rất nhiều so với trạng thái tối cao đó. Anh ấy thừa nhận và thuộc quyền của một quyền năng cao hơn.
 
-**Phil:** Không, vì phần cơ thể vật lý của họ sẽ được phân rã tiêu biến sau khi thời hạn sử dụng của chúng kết thúc.
+Tôi tin rằng thông tin này đang cố gắng cho chúng ta thấy rằng con người không phải là hình thái duy nhất mà tinh thần có thể mang. Đó là tất cả những gì chúng ta có thể nhận thức được bằng tư duy con người, nhưng nó quá hạn hẹp. Phiên làm việc này chứng minh rằng bạn có thể tiến hóa (hoặc thoái hóa) đến một trạng thái năng lượng thuần túy; thứ mà nếu không có những giới hạn vật lý, có thể đạt được những sức mạnh không thể tin nổi. Nhưng vì linh hồn chưa đạt đến trạng thái hoàn hảo cuối cùng, nó vẫn có khả năng mắc sai lầm, ngay cả ở hình thái đó. Và ngay cả ở giai đoạn đó, các quy luật của vũ trụ vẫn áp dụng. Nếu điều này có nghĩa là một sự trở về hoàn toàn, quay ngược lại từ đầu và bắt đầu lại, thì cũng chẳng sao cả, vì linh hồn và các bài học là vĩnh cửu, và không có thứ gì gọi là thời gian.
 
-**Dolores: Có chủng tộc nào khác cùng ở trên tàu vũ trụ với những người máy sinh học này không?**
+Chỉ có sự tăng trưởng, học hỏi, trải nghiệm và cuộc tìm kiếm tri thức vĩnh hằng. Do đó, con người phải nhận ra rằng mình lớn lao hơn những gì mình nhận thức một cách ý thức, rằng mình lớn lao hơn khả năng nhận thức của chính mình. Con người là bất tử, và là một linh hồn bất tử, chân trời và trải nghiệm của họ là bao la, hoàn toàn không có giới hạn. Họ chơi trò chơi cuộc sống trong bất kỳ hình hài hay chiều không gian nào mà họ tìm thấy.
 
-**Phil:** Chắc chắn là có. Có rất nhiều thực thể thuộc các dạng hình thái khác nhau. Tuy nhiên, điều đó không có nghĩa là lúc nào họ cũng phải xuất hiện cùng nhau.
+Cho đến cuối cùng, qua hàng thiên niên kỷ, con người đạt đến sự hoàn hảo đã tìm kiếm và cuối cùng trở về với nguồn cội của mình. Nguồn gốc tối cao của tất cả, Đấng Sáng Tạo, nơi mà mọi thứ bắt nguồn. Hãy tháo bỏ những tấm bịt mắt trần thế và để cái nhìn sâu sắc của chúng ta bay cao. Khi đó, chúng ta sẽ khám phá ra những giới hạn tự áp đặt của mình thực sự nhỏ bé và hẹp hòi đến mức nào. Vũ trụ chính là thế giới của chúng ta và không có gì là không thể.
 
-**Dolores: Họ có phải là những sinh vật giống con người chúng tôi hơn không? Ý tôi là cũng cần phải ăn uống, hấp thụ dinh dưỡng, vân vân…**
+SAU KHOẢNG THỜI GIAN ĐÓ, Phil bắt đầu thay đổi theo nhiều cách đáng chú ý. Điều này thường xảy ra với những người tôi làm việc cùng, đặc biệt nếu chúng tôi thực hiện các phiên làm việc trong một khoảng thời gian dài. Tôi không thể giải thích được, vì tôi chắc chắn không đưa ra bất kỳ gợi ý nào khiến họ phải thay đổi cuộc sống của mình. Dường như có điều gì đó xảy ra, có lẽ vì họ đang trở nên cởi mở hơn và nhận thức rõ hơn về chính tiềm thức của mình—giống như một "tiếng nói nhỏ nhẹ, tĩnh lặng" trong mỗi chúng ta. Họ trở nên hòa hợp hơn với cá tính thực sự của bản thân và khám phá ra điều họ thực sự mong muốn trong cuộc sống. Họ bắt đầu đưa ra các quyết định lớn và những cam kết chắc chắn, trong khi trước đây họ thường bối rối, không chắc chắn và sợ hãi. Trong mỗi trường hợp, sự thay đổi đều có vẻ là theo chiều hướng tốt hơn. Tôi chân thành hy vọng như vậy, vì tôi không muốn tham gia vào bất kỳ việc gây ảnh hưởng tiêu cực nào đến bất kỳ ai, dù là vô tình hay không cố ý.
 
-**Phil:** Đúng như vậy.
+Dưới đây là phần cuối cùng, khép lại câu chuyện về Phil và những suy ngẫm sâu sắc của tác giả về sự hiện diện của những "người anh em từ các vì sao":
 
-**Dolores: Những sinh vật phổ biến nhất đi cùng với các người máy sinh học này trông như thế nào?**
+Phil vẫn là con người có bản tính hiền lành như trước, nhưng anh đã trở nên vững vàng hơn nhiều. Anh quyết định không tiếp tục kinh doanh riêng trong gara của cha mẹ nữa mà đi làm cho một công ty điện tử. Chỉ trong vòng một tháng, anh nảy sinh tình cảm với một cô gái trẻ xinh đẹp làm việc cùng văn phòng.
 
-**Phil:** Họ cũng sở hữu ngoại hình mang hình người (humanoid); thế nhưng họ lại thường chọn cách ẩn mình để không bị quan sát thấy. Họ nhìn thấy mọi thứ nhưng bản thân họ lại không để lộ diện. Họ không hiển hiện rõ ràng trước mắt những người được đưa lên tàu vũ trụ.
+Trong một sự thay đổi chưa từng có, anh chuyển đến sống cùng cô ấy và đứa con nhỏ. Tất cả những điều này hoàn toàn trái ngược với tính cách của người Phil mà tôi từng biết. Dù ngạc nhiên, tôi lại thấy đó là một điều tuyệt vời. Nó cho thấy anh đang trưởng thành hơn về mặt cảm xúc. Anh không còn trốn tránh những tình huống dễ bị tổn thương nữa. Anh sẵn sàng nắm bắt cơ hội, chấp nhận đặt mình vào vị trí có thể bị đau lòng. Anh đã cam kết với một con người khác, và như vậy, anh đã cam kết với chính cuộc sống.
 
-**Dolores: Ý các vị là họ thường không chủ động lộ diện trước mặt con người?**
+Giờ đây, anh nói về sự tồn tại của mình một cách khác biệt: "Đã từng có những giai đoạn trong đời tôi muốn rút lui. Tôi có thể dự đoán được chúng, đó là một chu kỳ xác định. Chúng xảy ra hai lần một năm, vào mùa xuân và mùa thu. Trong thời gian đó, tôi cảm thấy như mình bị lôi kéo, một nỗi khao khát được 'về nhà', được trở lại nơi đó. Nó có thể kéo dài từ vài ngày đến vài tuần. Tôi từng rất trầm cảm trong những khoảng thời gian đó, nhưng chưa bao giờ đi đến bước đường cùng như khi ở California. Tôi không bao giờ thử lại điều đó nữa. Nhưng trong một năm qua, tôi dường như đã ổn định được cảm xúc của mình. Những cảm giác buồn bã và trầm cảm dường như đã dịu đi. Tôi dường như đã bình thản hơn với thực tại. Tôi đã chấp nhận tất cả các chu kỳ, những thăng trầm, và giờ tôi nhận ra chúng chỉ là như vậy."
 
-**Phil:** Đúng vậy.
+Tôi hỏi liệu anh có nghĩ những gì chúng tôi khám phá ra trong các phiên làm việc đã giúp ích cho anh không.
 
-**Dolores: Nếu họ có hấp thụ dinh dưỡng, thì đó là loại gì vậy?**
+"Tôi nghĩ là có," anh trả lời. "Nó khiến tôi nhìn thấy bản thân mình một cách đầy đủ và sâu sắc hơn. Tôi thấy rằng mình có nhiều giá trị hơn tôi từng nhận ra. Và tôi cảm thấy hạnh phúc về điều đó, ngay cả khi tôi không nhớ lại được mọi thứ. Chỉ cần biết rằng mình đã trải qua những điều đó cũng đủ mang lại cho tôi sự hài lòng và mãn nguyện."
 
-**Phil:** Cơ thể họ được cung cấp các nguyên tố và khoáng chất cần thiết cho các chức năng sinh học dưới dạng chất lỏng.
+"Bạn có nghĩ các phiên làm việc này giúp giải thích những cảm giác bất an đó đến từ đâu không?" tôi hỏi.
 
-**Dolores: Nghĩa là thức ăn của họ không phải ở dạng chất rắn như chúng tôi vẫn biết?**
+"Có, tôi nghĩ đúng là vậy. Nó giải thích tại sao tôi lại cảm thấy lạc lõng và xa lạ. Những lý tưởng cao đẹp mà tôi giữ cho mình, tôi cũng áp dụng cho người khác. Và thật nản lòng khi thấy mọi người đầy định kiến, ích kỷ, trộm cắp, giết chóc... tất cả những thứ đang diễn ra trên thế giới. Nó từng làm tôi rất khó chịu. Và tôi đã dùng đó làm cái cớ để nói rằng: 'Tôi không muốn ở đây'. Vì đây không phải là kiểu thế giới mà tôi muốn thuộc về. Tôi muốn một thứ gì đó trật tự hơn, sạch sẽ hơn, ổn định hơn và hòa hợp hơn."
 
-**Phil:** Không hẳn vậy, ý chúng tôi không phải là hoàn toàn không có thức ăn dạng rắn. Tuy nhiên, loại dinh dưỡng đó hoàn toàn không giống với những gì các bạn vẫn dùng để duy trì sự sống.
+"Thứ thực sự làm tôi đau lòng là khi tôi nhận ra mình muốn được giống như mọi người khác," Phil tiếp tục. "Vì vậy, tôi bắt đầu làm những việc mà tôi vốn ghét ở người khác chỉ để trông có vẻ 'bình thường'. Tôi luôn cảm thấy phải làm thế để hòa nhập. Và điều đó chỉ làm tăng thêm cảm giác cô lập, bối rối và thất vọng trong tôi."
 
-**Dolores: Có phải hiện đang có một số lượng lớn cư dân Trái Đất đang trải qua một hình thức tiếp xúc hoặc giao tiếp nào đó với các sinh vật này không?**
+"Đúng vậy," tôi đồng cảm, "bởi vì bạn đang cố gắng chống lại bản tính cơ bản của mình. Tôi hiểu điều đó dẫn đến sự thất vọng như thế nào. Tôi nghĩ có rất nhiều người ngoài kia, đặc biệt là các bạn trẻ, có lẽ đang trải qua những cảm giác tương tự. Thật khó để gọi tên chính xác nó là gì khi cảm giác đó quá mơ hồ."
 
-**Phil:** Đúng vậy, có rất nhiều người đã tình nguyện tham gia vào việc này.
+"Vâng, tôi đồng ý. Nó không phải là thứ gì đó nhảy bổ ra trước mặt bạn. Nó chỉ nằm ở đó, bạn nhận thức được nó, rất khó định nghĩa nhưng lại rất hiện hữu. Tôi nghĩ mình từng sợ chính mình, sợ vì tôi không hiểu bản thân. Tôi sợ để bất cứ ai đến gần vì tôi không biết mình muốn gì. Nhưng bây giờ, tôi bắt đầu hiểu ra và nhận thấy mình có thể tìm thấy những điều về bản thân mà tôi có thể yêu quý. Tôi không cần phải sợ hãi hay nghĩ rằng mình khác biệt hoặc lập dị, vì tôi thấy mình cũng chẳng khác gì bất cứ ai. Vấn đề của tôi là tôi đã kỳ vọng quá nhiều vào cuộc sống. Tôi kỳ vọng nó phải ở đây giống như ở 'bên kia'. Và tôi luôn thất vọng khi thấy cuộc sống không đáp ứng được những kỳ vọng đó."
 
-**Dolores: Tại sao những sinh vật này lại đưa con người lên những con tàu vũ trụ đó? Mục đích thực sự đằng sau việc làm đó là gì?**
+"Nhưng tất nhiên, bạn không nhận ra điều đó vào thời điểm bạn đang trải qua những cơn trầm cảm đó," tôi nói.
 
-**Phil:** Chúng tôi muốn bà hiểu rằng sự hiện diện của các bạn trên hành tinh này không phải là một sự ngẫu nhiên như vài người vẫn nghĩ. Nó cũng không diễn ra theo cách mà những người khác tin tưởng dựa trên cuốn Kinh Thánh của các bạn — nghĩa là Thượng Đế đã tạo ra con người theo hình ảnh của Ngài dưới góc nhìn có phần duy ý chí và giáo điều. Chúng tôi muốn các bạn hiểu rằng sự sống của con người trên hành tinh này vốn được ban tặng bởi chính những đấng hiện đang quay trở lại để kiểm tra "thành quả lao động" của họ, nói theo cách của các bạn là như vậy.
+"Không," anh trả lời nghiêm túc. "Bây giờ tôi nhận ra mình đã kỳ vọng quá nhiều. Khi biết điều đó, những nỗi thất vọng trở nên dễ chấp nhận hơn vì chúng không còn mang tính cá nhân nữa. Tôi khám phá ra rằng ai cũng cảm thấy thất vọng. Tôi không phải là người duy nhất. Đó chỉ là một phần của sự tồn tại này, một phần của việc làm người. Bây giờ khi tôi buồn, nó chỉ kéo dài trong một thời gian rất ngắn và không hề tệ chút nào vì tôi biết nó đến từ đâu. Tôi biết bây giờ rằng mọi thứ sẽ ổn thôi."
 
-**Dolores: Tôi đang thắc mắc tại sao các chuyến viếng thăm này vẫn tiếp tục diễn ra?**
+Còn ai có thể yêu cầu điều gì hơn thế nữa? Tôi không thể nói rằng mình xứng đáng nhận được công lao cho những gì đã xảy ra với Phil, vì chính tôi cũng không nhận ra những thay đổi này đang diễn ra. Tôi thậm chí không biết về những vấn đề anh ấy đã đối mặt suốt cả cuộc đời cho đến khi anh ấy tin tưởng chia sẻ với tôi. Dường như việc khám phá ra di sản ngoài hành tinh của mình đã có ảnh hưởng rất tích cực đến anh ấy. Tôi tin rằng với tri thức nhận được từ tiềm thức, anh ấy đã hòa giải được với chính mình và có thể vận hành bình thường như bất kỳ ai trong thế giới hỗn loạn của chúng ta. Nếu công việc của chúng tôi giúp đạt được điều này, tôi vô cùng biết ơn cơ hội đó.
 
-**Phil:** Một hành tinh cư trú mới sẽ được dành tặng cho những ai lựa chọn bắt đầu ở một nơi khác, thay vì tham gia vào đại nạn tột cùng (giai đoạn thanh lọc cuối cùng) của hành tinh Trái Đất này. Do đó, việc tìm hiểu trạng thái sinh học của những "vật chủ" (cơ thể người) có nguyện vọng di cư là điều vô cùng cần thiết, nhằm đảm bảo không mang theo mầm bệnh hay sự ô nhiễm đặc trưng của hành tinh này sang hành tinh khác. Những ai chọn ra đi sẽ được sàng lọc và kiểm tra vô cùng kỹ lưỡng, để không một khiếm khuyết nào về mặt di truyền hay sinh học bị trộn lẫn vào quần thể dân cư mới. Mục tiêu là chỉ những cá thể phù hợp nhất mới được vận chuyển, để chủng tộc tiến hóa sau này sẽ sạch bóng các khuyết tật nhất có thể. Thực tế có rất nhiều khiếm khuyết di truyền trong nguồn gen hiện tại của loài người mà các bạn chỉ cần nhìn xung quanh là có thể nhận ra, chẳng hạn như các dị tật về cả thể xác lẫn tinh thần. Đó là điều không được phép xuất hiện ở thế giới mới. Thực thể này — Phil — đã được lựa chọn để tham gia vào dự án này. Bản thân anh ấy, trong một tiền kiếp ở một hành tinh khác, từng đóng vai trò là nhà thí nghiệm chứ không phải là đối tượng bị thí nghiệm. Giờ đây, anh ấy tự nguyện đặt mình vào vị trí này để có thể thấu hiểu trải nghiệm đó từ một góc nhìn khác.
+MỘT BUỔI TỐI nọ, tôi đang thờ ơ xem một bộ phim khoa học viễn tưởng với chủ đề quen thuộc là "người ngoài hành tinh chiếm lấy thế giới". Đột ngột, như có một giọng nói vang lên rõ ràng trong đầu tôi:
 
-**Dolores: Nói cách học của chúng tôi thì đây là kiểu "đổi vai cho công bằng" đúng không?**
+"Tại sao họ lại khắc họa chúng tôi theo cách này? Điều đó chỉ gieo rắc thêm nỗi sợ hãi vào một thế giới vốn đã đầy sợ hãi. Chúng tôi không như vậy, chúng tôi đã cho bạn thấy rồi. Hãy nói với thế giới chúng tôi thực sự là ai: những người anh em, những người giám hộ và bảo vệ các bạn từ những vì sao. Chúng tôi không cần chiếm lấy hành tinh này bằng bạo lực. Nó đã là của chúng tôi, luôn luôn như vậy. Chúng tôi đã ở đây ngay từ đầu—chăm sóc và nuôi dưỡng. Bây giờ chúng tôi đang cố gắng ngăn cản các bạn phá hủy hành tinh này. Bởi vì hành tinh này được ban cho ý chí tự do trên hết thảy, các bạn phải được phép tự đưa ra quyết định của mình. Nhưng chúng tôi không thể ngồi yên nhìn gia đình mình tự hủy diệt chính mình và ngôi nhà của mình. Việc truyền vào dòng máu mới là câu trả lời duy nhất. Nếu những ảnh hưởng của Trái đất không quá mạnh, chúng tôi sẽ không thất bại. Chúng tôi sẽ hoàn thành mục tiêu của mình, không phải là chiếm lấy hành tinh, mà là cứu lấy nó."
 
-**Phil:** Hoàn toàn chính xác.
+Phải, những người ngoài hành tinh đang ở đây, họ đang sống giữa chúng ta. Họ ở đây theo ba cách: dưới dạng những linh hồn được sinh ra trong cơ thể con người, dưới dạng những sinh vật ngoài không gian đã tạo ra các cơ thể phù hợp để sống giữa chúng ta mà không bị phát hiện, và dưới dạng những người khách đang sống trong các căn cứ bí mật để quan sát. Họ đến tất cả là để cứu chúng ta khỏi chính mình.
 
-**Dolores: Người ta vẫn nói rằng sẽ có những đĩa bay/tàu vũ trụ túc trực sẵn để đưa những người sống sót rời khỏi hành tinh nếu chúng ta sử dụng bom nguyên tử. Các vị có thể cho chúng tôi biết thêm điều gì về chuyện này không?**
+Sẽ vô ích nếu con người tổ chức những cuộc săn lùng phù thủy để chỉ mặt đặt tên: "Bạn là một trong số đó," trừ khi họ sẵn sàng nhìn vào gương và tự nhủ: "Bạn cũng là một trong số đó."
 
-**Phil:** Chúng tôi có thể nói rằng nếu kịch bản mà bà vừa mô tả trở thành sự thật, thì sẽ có những người được trao cho quyền lựa chọn chuyển đến một hành tinh khác. Lựa chọn này cũng sẽ được mở ra vào thời điểm diễn ra cuộc dịch chuyển Trái Đất (Earth shift) sắp tới. Hiện tại, hành tinh mới này đang ở trong trạng thái hoàn thiện dần, có phần chưa thật sự hoàn hảo. Tuy nhiên, nó là một nơi hoàn toàn có khả năng hỗ trợ và duy trì sự sống một cách dễ dàng cho những ai lựa chọn tới đó. Sẽ có những người chọn ở lại để thu vén, chăm sóc cho những gì còn sót lại, hoặc cố gắng tái khởi động và tái thiết lại những gì trên hành tinh này. Quyền lựa chọn sẽ được trao cho mỗi người và hoàn toàn dựa trên sự tự nguyện của từng cá nhân. Giống như hành tinh của các bạn từng được gieo mầm, nuôi dưỡng và canh chừng suốt hàng triệu năm qua, một hành tinh khác giờ đây cũng đã nhận được hiến chương sự sống và sẵn sàng cho việc định cư. Hình thái cơ thể của các bạn hoàn toàn tương thích và đang được chuẩn bị để trở thành chủng tộc mới. Lịch sử đơn thuần là đang lặp lại chính nó trong tiến trình bất tận của vũ trụ. Khi hành tinh của các bạn đang bước vào những chuyển động cuối cùng và chuẩn bị cho những biến động dữ dội đầy tổn thương, thì một hành tinh khác — mới mẻ, trong lành và chưa bị vấy bẩn — đang được chuẩn bị sẵn sàng cho những ai thực hiện cuộc hành trình. Nó giống như Trái Đất thuở ban sơ: nguyên sơ và thuần khiết. Trong những biến động sắp tới, nhiều người sẽ không thể sống sót và những người khác sẽ có nguyện vọng tái định cư. Hy vọng rằng những sai lầm tương tự sẽ không lặp lại ở thế giới đó.
+Bởi vì họ là tổ tiên của chúng ta, là người thân của chúng ta. Máu của họ chảy trong huyết quản của mọi sinh vật đang sống trên Trái đất này. Những người mới đến gần đây mang theo những lập trình và ký ức của các kiếp sống cũ để giúp họ đối phó với cuộc sống trong thế giới hỗn loạn của chúng ta. Họ là dòng máu mới không tin rằng sợ hãi, chiến tranh và hủy diệt là câu trả lời cuối cùng. Họ được lập trình với tình yêu, hòa bình và sự thấu hiểu. Họ cũng nhạy cảm hơn với cảm xúc của người khác. Tuy nhiên, họ hiếm khi biết được di sản thực sự của mình. Tỷ lệ tự tử gia tăng ở thanh thiếu niên là bằng chứng cho thấy nhiều người trong số những người mới đến hiền lành này không thể thích nghi, bất kể ý định của họ cao đẹp đến đâu khi tình nguyện đảm nhận công việc này. Cách sống trên hành tinh này thật sự quá đau đớn.
 
-**Dolores: Nếu một người chọn đi đến hành tinh khác, họ sẽ được vận chuyển cùng với cơ thể vật lý hiện tại của họ, hay họ sẽ bị thay đổi?**
+Vì không có cách nào để phân biệt "người của các vì sao" và vì rất ít người trong chúng ta biết về hành trình của linh hồn mình, nên chẳng có nghĩa lý gì khi phải băn khoăn về điều đó. Chúng ta chỉ cần cố gắng kết hợp các niềm tin và mục đích của "người của các vì sao" vào cuộc sống của mình và giúp họ cứu lấy hành tinh này.
 
-**Phil:** Đúng vậy. Đó sẽ là một cuộc đại dịch chuyển vật lý, ba chiều trên quy mô lớn.
-
-**Dolores: Tàu vũ trụ sẽ được sử dụng làm phương tiện vận chuyển chứ?**
-
-**Phil:** Đúng như vậy.
-
-**Dolores: Hành tinh mà các vị đang nói đến có nằm trong hệ Mặt Trời của chúng ta không?**
-
-**Phil:** Không nằm trong hệ Mặt Trời, nhưng nằm trong dải Ngân Hà này.
-
-**Dolores: Nó có giống với Trái Đất không các vị?**
-
-**Phil:** Ở một vài khía cạnh thì có, nhưng ở rất nhiều khía cạnh khác thì không. Sẽ cần một khoảng thời gian thích nghi để cơ thể con người của các bạn — vốn đã quen với tần số năng lượng của hành tinh này — tái cân bằng và hòa hợp với nguồn năng lượng mới đó. Giai đoạn đầu sẽ có cảm giác mất phương hướng và một chút u buồn, hoài niệm. Tuy nhiên, nguồn năng lượng nuôi dưỡng trên hành tinh đó cuối cùng sẽ chữa lành những bất ổn còn sót lại do năng lượng Trái Đất để lại. Hành tinh đó sẽ thích hợp và có lợi cho các hình thái sự sống của con người hơn nhiều so với hành tinh này.
-
-**Dolores: Hiện tại hành tinh đó có cư dân sinh sống chưa?**
-
-**Phil:** Vào thời điểm này thì chưa có những người thuộc chủng tộc của các bạn. Tuy nhiên, đang có những thực thể mang trọng trách quản lý hoặc xây dựng vẫn đang miệt mài làm việc để chuẩn bị mọi thứ sẵn sàng cho những ai trong số các bạn chọn đến định cư. Nó chưa có cư dân sinh sống (inhabited) nhưng đã có người đồn trú (populated) rồi. Nó chưa được lấp đầy trên quy mô lớn, nhưng điều đó có thể diễn ra vào bất cứ lúc nào.
-
-**Dolores: Các vị có nói là có một vài điểm khác biệt. Hành tinh đó khác biệt như thế nào vậy?**
-
-**Phil:** Có những nguồn năng lượng hiện diện trên hành tinh đó mà hoàn toàn vắng bóng trên hành tinh này. Điều này có liên quan đến các dòng sông năng lượng luân chuyển khắp vũ trụ. Hành tinh đó nằm ở một dòng sông năng lượng hoàn toàn khác.
-
-**Dolores: Hành tinh đó có tên gọi không các vị?**
-
-**Phil:** Tên gọi của hành tinh đó hiện chưa có thuật ngữ tương đương trong ngôn ngữ của các bạn để dịch nghĩa. Tuy nhiên, dưới góc nhìn tâm linh, nó tồn tại dưới dạng một tần số rung động. Chính các bạn — những người lựa chọn đến định cư tại hành tinh này — sẽ là những người chịu trách nhiệm đặt tên cho nó, dựa trên những trải nghiệm có được trước cuộc đại di cư cũng như những trải nghiệm thực tế của cư dân trên hành tinh lúc bấy giờ. Chúng tôi sẽ không tự phụ đến mức đặt tên trước cho nơi đó, khi mà ngay cả những chủ nhân thực sự tương lai của hành tinh vẫn chưa đưa ra quyết định.
-
-**Dolores: Vậy có sự khác biệt nào về địa hình vật lý giữa hành tinh đó và Trái Đất của chúng ta không?**
-
-**Phil:** Có chứ. Những khu vực thích hợp nhất cho việc định cư vào thời điểm này sẽ có nét tương đồng với vùng đồng bằng Trung Tây nước Mỹ của các bạn. Bản thân hành tinh này vẫn đang trong giai đoạn chuyển mình, chưa hoàn toàn định hình ổn định và có phần còn "non trẻ". Tuy nhiên, nó lại là nơi lý tưởng nhất để hỗ trợ và nuôi dưỡng sự sống cho các hình thái sinh học như con người các bạn. Và đúng vậy, động vật cũng có thể được vận chuyển theo. Hành tinh đó hoàn toàn thích hợp cho sự sống của muông thú.
-
-**Dolores: Nếu chọn chuyển đến hành tinh đó, chúng tôi có còn ký ức về việc mình đã rời bỏ Trái Đất không?**
-
-**Phil:** Chắc chắn rồi. Sẽ không có bất kỳ sự gián đoạn hay mất mát nào về mặt nhận thức cả. Tuy nhiên, chỉ những ai có thể đóng góp một cách tích cực và hiệu quả nhất cho thế giới mới thì mới được phép di cư. Những cá nhân mang theo mầm mống tội phạm sẽ bị từ chối. Chỉ những linh hồn có phẩm tính cao đẹp nhất mới được phép chuyển dịch qua đó.
-
-**Dolores: Nghĩa là sẽ có những tiêu chuẩn rào cản nhất định.**
-
-**Phil:** Điều đó hoàn toàn chính xác.
-
-**Dolores: Vậy còn những người ở lại và không chọn đến hành tinh mới, liệu họ sẽ phải chịu cảnh dọn dẹp đống đổ nát và tái thiết lại Trái Đất theo khuôn mẫu cũ? Hay họ sẽ có khát vọng kiến tạo nên một điều gì đó hoàn toàn khác biệt?**
-
-**Phil:** Sẽ có những người chọn ở lại hành tinh này để "dọn dẹp bãi chiến trường", nói theo cách của các bạn, và bắt đầu một trang mới. Họ sẽ nhận được sự hỗ trợ về nhiều mặt từ các thực thể ngoài Trái Đất. Đồng thời, các thực thể ánh sáng cũng sẽ ở lại để trợ giúp những người bám trụ, nhằm giúp họ xây dựng một sự kết hợp hoàn hảo hơn giữa tâm trí, thân thể và tinh thần ngay trong chính môi trường sống lúc bấy giờ. Có rất nhiều bài học giúp tôi luyện và nâng cao sức mạnh tâm linh mà một linh hồn có thể học hỏi từ việc lựa chọn ở lại nơi đây. Trong khi đó, những người chọn ra đi sẽ khai sinh ra một nền văn minh hoàn toàn mới trên một hành tinh khác. Họ sẽ là những người anh em họ hàng với những người ở lại phía sau.
-
-**Dolores: Liệu có tiêu chuẩn sàng lọc nào đối với những người ở lại không các vị?**
-
-**Phil:** Bản thân mỗi cá nhân sẽ tự đưa ra quyết định đi hay ở. Tiêu chuẩn duy nhất chỉ là có đủ sức khỏe thể chất để sinh tồn hay không mà thôi. Sẽ không có bất kỳ cuộc cưỡng chế di dân nào cả. Quyền lựa chọn hoàn toàn thuộc về mỗi người. Giai đoạn đó sẽ mang tính chất của một kỳ thử thách cam go, và chắc chắn không dành cho những ai yếu tim hay dễ chùn bước.
-
-**Dolores: Hành tinh mới này sẽ luôn sẵn sàng đón nhận chúng tôi ngay cả khi không có biến cố lớn nào xảy ra với Trái Đất chứ?**
-
-**Phil:** Đúng như vậy.
-
-**Dolores: Trên hành tinh mới đó, con người sẽ sống trong một môi trường như thế nào?**
-
-**Phil:** Các bạn sẽ được cung cấp những công nghệ cho phép xây dựng các đô thị và xã hội tương tự như những gì các bạn đang có ở đây. Tuy nhiên, các bạn cũng sẽ được tiếp cận thêm các công nghệ và hệ tư tưởng tiến bộ khác để kiến tạo nên một cấu trúc xã hội hoàn hảo hơn — một xã hội hoàn toàn sạch bóng những định kiến và rào cản đang bủa vây các hệ thống xã hội hiện tại của các bạn.
-
-Sâu trong lòng tôi vẫn có một sự quyến luyến, không nỡ từ bỏ hoàn toàn ngôi nhà này — thế giới Trái Đất của chúng ta — ngay cả khi biết rằng có một hành tinh hoàn hảo như thế đang tồn tại ngoài kia.
-
-**Dolores: Liệu sau này chúng tôi có thể tự chế tạo ra một con tàu để đi lại giữa hai hành tinh này không?**
-
-**Phil:** Nền công nghệ của các bạn chưa cần phải cố gắng làm điều này, bởi các bạn chưa đạt đến trình độ cho phép. Khả năng vận chuyển qua lại vốn dĩ đã được thiết lập sẵn rồi, chỉ có điều nó không được vận hành bằng công nghệ của các bạn mà thôi.
-
-**Dolores: Những người chọn đến thế giới mới có được phép quay trở lại Trái Đất và tự do di chuyển giữa hai hành tinh không?**
-
-**Phil:** Sẽ có những người đóng vai trò như những sứ giả kết nối (shuttles). Họ sẽ mang những tinh hoa học hỏi được từ hành tinh mới để tích hợp ngược trở lại cho hành tinh già cỗi này, tạo nên một sự sẻ chia và trao đổi tri thức song phương.
-
-**Dolores: Liệu có thể giao tiếp thần giao cách cảm với thế giới mới đó không?**
-
-**Phil:** Chắc chắn sẽ có sự thông tin liên lạc. Tuy nhiên, việc có giao tiếp được bằng thần giao cách cảm hay không hoàn toàn phụ thuộc vào năng lực của từng cá nhân liên quan. Những ai chủ động khai mở khả năng đó của bản thân sẽ được hướng dẫn các bài học để mài giũa và sử dụng nó đúng cách. Cuối cùng, toàn bộ quần thể dân cư đều sẽ đạt đến trình độ thần giao cách cảm, bởi đây là phương thức giao tiếp phổ quát mang tính vũ trụ.
-
-**Dolores: Các vị có thể chia sẻ một chút về những thực thể sẽ hỗ trợ loài người trong cuộc đại dịch chuyển này không?**
-
-**Phil:** Như đã nói ở trên, họ chính là những Người Trợ Giúp. Đó là những thực thể có tầng tâm linh cao cấp, những người thậm chí ngay vào lúc này đây đang hỗ trợ điều hướng dòng năng lượng của hành tinh các bạn, với hy vọng ngăn chặn thảm họa tự hủy diệt. Họ chính là những người đang thực hiện việc lấy mẫu xét nghiệm và các "vụ bắt cóc" như cách các bạn vẫn gọi. Bản thân họ trong quá khứ cũng từng trải qua thảm cảnh hành tinh của mình bị hủy diệt theo cách tương tự, và sau đó đã phải di cư sang một hành tinh khác. Vì vậy, họ là những người phù hợp nhất cho nhiệm vụ hỗ trợ này, bởi họ có thể rút ra những kinh nghiệm thực tế từ chính biến cố lịch sử của xương máu trên quê hương mình. Họ tự nguyện nhận nhiệm vụ này vì họ thấu hiểu sâu sắc những gì cần thiết để dịch chuyển cả một xã hội trên quy mô lớn từ hành tinh này sang hành tinh khác. Có rất nhiều chủng tộc trợ giúp khác nhau tham gia vào đại cuộc này; họ không đến từ cùng một hành tinh, nhưng họ đều có chung một khát nguyện là hỗ trợ các bạn. Giúp các bạn nâng tầm tâm thức và nhận thức rõ ràng hơn — không chỉ về chính mình, mà còn về vạn vật xung quanh. Để các bạn có thể nhận biết, kết nối và hòa mình vào tình yêu thương của cái mà các bạn gọi là Vũ Trụ — chính là nguồn năng lượng Thượng Đế hay tâm thức Kitô (Christ spirit) đã tạo nên cội nguồn vũ trụ này, một nguồn năng lượng vốn đang bị chối bỏ một cách phũ phàng mỗi ngày trên hành tinh của các bạn.
-
-**Dolores: Chòm sao Tua Rua (Pleiades) có đóng vai trò hay ý nghĩa đặc biệt nào trong tiến trình tái định cư mà chúng ta đang thảo luận không?**
-
-**Phil:** Ý nghĩa duy nhất là những người đang tham gia hỗ trợ các bạn mang đặc tính của cư dân Pleiades. Rất nhiều người trong số họ đến từ vùng không gian này, hoặc là cư dân thuộc các hệ hành tinh của chòm sao Pleiades. Tuy nhiên, điều đó không có nghĩa là ngôi nhà mới của các bạn nằm trong hệ sao đó.
-
-**Dolores: Đó chính là câu hỏi tiếp theo mà tôi định đưa ra đấy. Người ta nói rằng trong trạng thái ngủ, một số người trong chúng tôi đang được đưa lên các tàu vũ trụ để trao đổi thông tin về những biến cố sắp tới. Điều này có đúng không các vị?**
-
-**Phil:** Hoàn toàn chính xác. Bởi vì đối với bất kỳ nền văn minh nào khi bước vào một giai đoạn chuyển giao mang tính bước ngoặt vĩ đại như thế này, luôn cần có những buổi tập huấn và các chuyến bay diễn tập thử nghiệm. Để đến khi cuộc dịch chuyển thực sự diễn ra, con người sẽ không có cảm giác bị ngợp hay mất phương hướng hoàn toàn, mà trái lại, họ sẽ thấy tràn đầy cảm giác tự tin như thể mình đã thực hành hoặc làm việc này rất nhiều lần trước đó rồi. Đây đơn thuần là bước chuẩn bị cho những ai lựa chọn tái định cư — nhằm tạo ra sự thoải mái và an tâm tối đa cho các bạn trong cuộc chuyển giao này. Để khái niệm này không còn xa lạ mà trở nên vô cùng quen thuộc. Việc này không diễn ra trên phương diện vật lý thô đặc, nhưng hoàn toàn là sự thật dưới góc độ tâm linh. Có thể gọi đây là một cuộc chạy đà diễn tập. Chúng tôi muốn các bạn lúc này hãy hình dung về một khái niệm gọi là "nơi trú ẩn" (refuge). Một vùng đất an toàn để đón nhận những cá nhân có nguy cơ bị tổn thương tâm lý nặng nề nhất trước làn sóng chuyển dịch hiện đang diễn ra trên hành tinh của các bạn.
-
-**Dolores: Làn sóng chuyển dịch này đã diễn ra từ lâu chưa các vị?**
-
-**Phil:** Nếu tính theo năm tháng thời gian của các bạn thì không hẳn là lâu. Tuy nhiên, dưới góc độ tâm linh, đại cuộc này đã được lên kế hoạch và chuẩn bị từ hàng triệu năm qua rồi.
-
-**Dolores: Tôi có cảm giác như thời tiết và các mùa trong năm của chúng ta đang thay đổi. Chuyện đó có liên quan gì đến làn sóng dịch chuyển này không?**
-
-**Phil:** Đó là biểu hiện bề ngoài của sự dịch chuyển, chứ không phải là nguyên nhân gây ra nó. Nó đơn thuần là tấm gương phản chiếu thực tế rằng sự thay đổi này quả thực đang diễn ra. Giống như rất nhiều biến động khác hiện đang xuất hiện trên nhiều tầng bậc khác nhau, và chúng sẽ hiển hiện rất rõ ràng trước mắt những ai chịu hướng sự chú ý của mình vào tiến trình thay đổi này.
-
-**Dolores: Vậy là tôi đã đúng khi nhận định rằng các mùa đang thay đổi?**
-
-**Phil:** Hoàn toàn chính xác.
-
-**Dolores: Chuyện này là do sự dịch chuyển của trục Trái Đất gây ra phải không các vị?**
-
-**Phil:** Đúng vậy.
-
-**Dolores: Các trận động đất ở bang California cũng là một phần của tiến trình này chứ?**
-
-**Phil:** Đúng thế. Các mảng kiến tạo trên hành tinh của các bạn đang có sự dịch chuyển vị trí; chúng đang chuyển từ trạng thái tương đối ổn định sang trạng thái bất định và dễ chuyển động hơn. Người ta đã quan sát thấy tần suất dịch chuyển của các mảng kiến tạo đang gia tăng. Nguyên do là bởi từ trường bao quanh hành tinh của các bạn đang biến thiên liên tục. Hiện tượng này khiến cho thành phần sắt trong lớp vỏ Trái Đất phải tự điều chỉnh để tái định hình theo tọa độ từ trường mới. Các mảng kiến tạo chỉ đang dịch chuyển theo các đường sức từ mới này mà thôi.
-
-**Dolores: Nghĩa là hiện tượng này có liên quan mật thiết đến thành phần sắt trong lòng đất?**
-
-**Phil:** Bản thân lớp vỏ Trái Đất có sự phản ứng khá nhạy bén với các đặc tính của từ trường bao quanh hành tinh. Các mảng kiến tạo giống như những thanh nam châm phản ứng lại trước các trường điện từ này và đang cố gắng tự xoay trục để hòa hợp với chúng. Hiện tượng này cũng tương tự như việc những mạt sắt tự động di chuyển và xếp thành hàng theo một thỏi nam châm được đặt dưới tờ giấy vậy. Dưới góc nhìn của chúng tôi, lý thuyết mảng kiến tạo hiện tại của các bạn đang hiểu rằng những biến động địa chất diễn ra là do sự tự quay của Trái Đất. Nhận định này chưa hoàn toàn chính xác, bởi thực chất lớp vỏ Trái Đất đang tìm cách tự căn chỉnh theo các trường điện từ này. Chính sự biến thiên của từ trường mới là nguyên nhân cốt lõi gây ra sự dịch chuyển của các mảng kiến tạo, chứ không phải do sự định vị của các cực địa lý.
-
-**Dolores: Suốt nhiều năm qua, đã có rất nhiều trường hợp gia súc bị rạch xẻ tàn nhẫn được cho là do hoạt động của UFO hoặc người ngoài hành tinh. Nếu điều này là có thật, tại sao họ lại làm vậy? Vì số lượng vụ việc xảy ra quá nhiều, cảm giác nó giống như một hoạt động chăn nuôi thu hoạch quy mô lớn hơn là một cuộc nghiên cứu đơn thuần.**
-
-**Phil:** Chúng tôi phải nói rằng trong rất nhiều trường hợp, đó đơn giản là hành vi của những cá nhân loài người — do sử dụng sai lệch năng lượng của chính mình, họ nảy sinh nhu cầu muốn tạo ra sự kích động và các vụ việc đó chẳng qua chỉ là những trò dàn dựng nông nổi. Tuy nhiên, điều đó không có nghĩa là tất cả các vụ rạch xẻ gia súc đều mang bản chất như vậy. Vẫn có một tỉ lệ nhất định trong các trường hợp đó có sự can thiệp của người ngoài hành tinh.
-
-Trong những ca có thật này, việc rạch xẻ mang tính chất thử nghiệm để giúp họ thấu hiểu sâu hơn về cấu trúc sinh học, hệ miễn dịch và sinh lý học của các loài động vật này. Hiện tại, họ đang tiến hành thử nghiệm mức độ thích nghi của một số loài vật cụ thể để xem chúng có đủ điều kiện để di cư, vận chuyển và nhân giống trên hành tinh mới đang được chuẩn bị hay không. Họ cần một số cơ quan nội tạng để phục vụ cho các thí nghiệm di truyền và chế tạo các chế phẩm sinh học. Dù vậy, những trường hợp này chỉ chiếm số ít.
-
-*(Lưu ý của Dolores: Từ "biologic" được dùng ở đây mang một sắc thái hơi khác so với "biological". Nó ám chỉ các sản phẩm có nguồn gốc sinh học).*
-
-**Dolores: Nghĩa là các vị không chỉ chuẩn bị cho con người, mà còn chuẩn bị cả các nguồn thức ăn cần thiết cho họ nữa? Ý các vị có phải như vậy không?**
-
-**Phil:** Không hẳn gọi là chuẩn bị. Mà chính xác hơn là để thấu hiểu kỹ lưỡng xem những loài nào sẽ là lựa chọn phù hợp nhất. Nói cách khác, là để tiến hành một vài đột biến di truyền đối với các nguồn giống hiện có trên hành tinh của các bạn, nâng cấp chúng lên một tầng bậc cao hơn để chúng tương thích tốt hơn với môi trường của hành tinh mới kia.
-
-**Dolores: Nhưng chắc chắn là trên hành tinh mới đó, con người sẽ không ăn thịt nữa chứ, phải không các vị?**
-
-**Phil:** Sẽ vẫn có những người mà cơ thể họ được nuôi dưỡng tốt nhất bằng thịt.
-
-**Dolores: *(Cười)* Vậy là chúng ta sẽ không hoàn toàn từ bỏ các thói quen cũ của mình rồi. Tôi rất muốn biết liệu các thực thể ngoài Trái Đất có đang thực hiện bất kỳ tác động di truyền nào lên cơ thể con người chúng tôi không? Có kỹ thuật tăng tốc tiến hóa di truyền nào đang được áp dụng hay không?**
-
-**Phil:** Chúng tôi nhận thấy ở đây bà đang hỏi dưới góc độ của loài người. Nghĩa là, áp dụng trực tiếp lên cơ thể vật lý bằng xương bằng thịt của các bạn. Chúng tôi có thể khẳng định rằng hiện đang có những nỗ lực nhằm tạo ra một cơ thể người hoàn hảo hơn; trước hết là về khả năng đáp ứng miễn dịch và sức đề kháng đối với bệnh tật. Mục tiêu là để cuối cùng sẽ có những thế hệ — hoặc có thể gọi là một nguồn gen người — sở hữu khả năng kháng lại hầu hết các loại bệnh tật đang hiện hữu trên hành tinh của các bạn hiện nay. Bản chất của quá trình kỹ thuật di truyền này là tạo ra một cơ thể vật lý hoàn mỹ hơn, để từ đó, một khi linh hồn đã được nâng cao về mặt nhận thức, có thể biểu đạt và chuyển hóa một cách trọn vẹn nhất vào trong những cơ thể hoàn hảo này. Một linh hồn tiến hóa hơn đòi hỏi phải có một cấu trúc cơ thể tương xứng hơn.
-
-**Dolores: Vậy thì theo cách này, họ thực chất đang giúp đỡ loài người nhiều hơn là gây hại, phải không các vị?**
-
-**Phil:** Đúng như vậy. Hoàn toàn không có bất kỳ ý niệm gây hại nào trong tất cả những việc này. Để hoàn thiện chủng tộc của các bạn — cụ thể là phần cơ thể vật lý — việc nghiên cứu và lấy mẫu thử là điều bắt buộc phải làm. Những nỗ lực đang được đổ dồn vào đây là để chế tạo ra một "vật chủ" (cơ thể người) hoàn hảo. Nhờ đó, những căn bệnh gây suy kiệt của tuổi già, chứng chậm phát triển trí tuệ và mọi dạng bệnh tật khác sẽ bị xóa sổ. Việc nghiên cứu giải phẫu cơ thể người trong môi trường phòng thí nghiệm riêng tư này là cần thiết, nhằm giúp thấu hiểu trọn vẹn các cơ chế vận hành vốn là nguyên nhân gây ra những biểu hiện suy yếu đó. Mục tiêu tối thượng là kiến tạo nên một cơ thể người hoàn mỹ. Để rồi những ai chọn đến định cư tại hành tinh mới kia sẽ bắt đầu sinh sôi, duy trì nòi giống bằng những cơ thể có nguồn gen vượt trội này.
-
-**Dolores: Nhưng mục đích của việc sở hữu một cơ thể vượt trội để làm gì vậy các vị? Tôi cứ nghĩ mục tiêu cốt lõi của chúng ta là tiến hóa về mặt tâm linh chứ?**
-
-**Phil:** Nhận định đó hoàn toàn đúng. Nhưng liệu bà có muốn trú ngụ trong một vật chủ kém phát triển và thiếu hụt, thay vì một cơ thể ưu việt và hoàn hảo hơn không?
-
-**Dolores: Chuyện đó thực sự quan trọng đến thế sao, khi mà đằng nào linh hồn cũng chỉ tạm búp ở thế giới này một thời gian ngắn?**
-
-**Phil:** Chắc chắn là có chứ. Bởi vì khả năng hoàn thành những sứ mệnh mà linh hồn của bà đã tự vạch ra chịu ảnh hưởng trực tiếp từ năng lượng và năng lực của chính cơ thể vật lý mà bà đang mang.
-
-**Dolores: Tôi cũng đang làm việc với những người khác từng có trải nghiệm tiếp xúc UFO tương tự. Liệu việc tiếp cận nguồn thông tin của họ có gặp nhiều khó khăn như trường hợp này không?**
-
-**Phil:** Nguồn thông tin này vốn dĩ rất khó chạm tới hoặc truy cập, nguyên do là bởi bản chất dễ dao động của tâm lý các cá nhân liên quan. Những thông tin thực sự đã bị chôn vùi bên dưới một lớp bọc đầy xáo trộn của những tổn thương tâm lý — thứ được hình thành từ cú sốc bẻ gãy hoàn toàn thế giới quan thực tại của tâm trí tỉnh táo.
-
-**Dolores: Việc chôn vùi thông tin này là do chính tiềm thức của người đó tự thực hiện, hay do các sinh vật kia đã làm điều gì đó khiến ký ức bị lu mờ và lùi sâu vào bóng tối?**
-
-**Phil:** Đó là một cơ chế bảo vệ tự động, giúp thông tin không bị bóp méo hay thao túng bởi tiềm thức. Có lẽ ở đây chúng tôi nên làm rõ rằng: tiềm thức của con người có xu hướng tự ý thay đổi cách diễn dịch sự việc để biến nó thành một câu chuyện dễ chấp nhận, dễ nuốt trôi hơn. Nếu để chuyện đó xảy ra, chúng tôi sẽ lại phải mất công sắp xếp lại thông tin để nó có thể được biểu đạt một cách chính xác nhất.
-
-**Dolores: Nghĩa là các vị xem việc tiềm thức diễn dịch trải nghiệm theo một hướng khác là một tín hiệu cần kích hoạt cơ chế bảo vệ?**
-
-**Phil:** Đúng vậy. Tiềm thức sẽ tìm cách diễn giải sự việc theo một logic thông thường của con người. Chúng tôi khẳng định việc chôn giấu thông tin là bắt buộc, để trải nghiệm gốc giữ được sự nguyên vẹn, không bị xáo trộn hay pha tạp bởi những suy luận hợp thức hóa hoặc tư duy logic của tâm trí tỉnh táo. Do đó, một cách tất yếu, ký ức bắt buộc phải được chôn giấu ở một tầng bậc hoàn toàn nằm ngoài tầm với của ý thức thông thường.
-
-**Dolores: Tôi đang thắc mắc liệu các sinh vật đó có sử dụng một hình thức thôi miên nào — tương tự như cách tôi đang làm — để phong ấn những thông tin này lại không?**
-
-**Phil:** Nếu dùng thuật ngữ của các bạn thì có thể liên tưởng theo cách đó. Tuy nhiên, quy trình thực tế phức tạp hơn nhiều, bởi vì nó can thiệp và tính toán đến cả nhiều chức năng thuộc về tâm linh — những khía cạnh mà nhận thức của con người hiện tại vẫn chưa khám phá ra. Đó là những vùng đất tâm thức chưa có bản đồ định vị, và phần lớn vẫn hoàn toàn là ẩn số đối với nhân loại.
-
-**Dolores: Vậy là mọi chuyện phức tạp hơn những gì chúng tôi hình dung rất nhiều. Đây có phải là lý do vì sao việc khơi gợi lại ký ức lại khó khăn đến thế không?**
-
-**Phil:** Hoàn toàn chính xác.
-
-**Dolores: Có vẻ như bắt buộc phải dùng đến liệu pháp thôi miên thì mới đưa được những ký ức này ra ánh sáng. Có lý do đặc biệt nào cho việc này không các vị?**
-
-**Phil:** Đơn giản là vì nguồn thông tin này đã bị chôn sâu bên dưới lớp nhận thức tỉnh táo của con người. Do đó, bắt buộc phải tiếp cận nó bằng một phương thức có thể ngăn chặn hoàn toàn trạng thái tỉnh táo tự ý cắt xén, biên tập hay sắp xếp lại thông tin. Và thôi miên chính là một hình thức giao tiếp trực tiếp với cái mà các bạn vẫn thường gọi là "tiềm thức".
-
-**Dolores: Vậy thì bằng cách sử dụng phương pháp thôi miên này, thông tin khi được đưa ra ngoài có đảm bảo độ chính xác tuyệt đối không?**
-
-**Phil:** Độ chính xác đó nằm ở mức tốt nhất mà hệ thống nhận thức của cá nhân liên quan có thể diễn dịch được. Bởi vì những gì được kể lại cũng chỉ là sự thuật lại của những gì họ đã trực tiếp cảm nhận mà thôi.
-
-**Dolores: Nhưng các vị có nghĩ là tôi có thể phần nào yên tâm rằng thông tin đưa ra theo cách này là chính xác không?**
-
-**Phil:** Nguồn thông tin đưa ra có thể sẽ bị nhuốm màu bởi những tổn thương cảm xúc từ một trải nghiệm mang bản chất chấn động như thế.
-
-**Dolores: Nhưng người đó sẽ không thể cố tình bịa đặt hay làm giả nó chứ?**
-
-**Phil:** Điều đó lại phải phụ thuộc vào phẩm chất đạo đức của chính cá nhân liên quan. Bởi vì nếu tiêu chuẩn sống của họ là giữ cho thông tin được nguyên vẹn, không bị pha tạp hay thay đổi để truyền đạt lại một cách chính xác nhất có thể, thì họ sẽ tuân theo đúng tiêu chuẩn đó khi được thôi miên. Tuy nhiên, xin nhắc lại, vẫn có những người không giữ được tiêu chuẩn cao như vậy.
-
-**Dolores: Nghĩa là nếu ai đó vốn dĩ đã có thói quen hay cường điệu hóa hoặc thêu dệt câu chuyện, thì khi ở trong trạng thái thôi miên họ cũng sẽ làm như vậy?**
-
-**Phil:** Hoàn toàn chính xác.
-
-**Dolores: Họ sẽ bịa đặt ra toàn bộ câu chuyện từ con số không, hay họ chỉ thay đổi một vài chi tiết thôi? Tôi luôn tò mò không biết làm cách nào để mình có thể phân biệt được.**
-
-**Phil:** Có lẽ không có một phương pháp thực tế nào để phân định rạch ròi đâu là một câu chuyện "bịa đặt hoàn toàn" và đâu là một trải nghiệm có thật. Hồ sơ tâm lý và tính cách của mỗi người sẽ quy định tiêu chuẩn đạo đức mà họ tuân theo. Do đó, bà bắt buộc phải thấu hiểu toàn diện về đặc điểm tâm lý của cá nhân đó để xác định xem thông tin họ đưa ra bị "nhuốm màu" ở mức độ nào. Nhu cầu thích thêm thắt, tô vẽ câu chuyện có xu hướng xuất hiện phổ biến hơn ở những cá nhân có tư duy và nhận thức ít được mài giũa. Dù nói thế không có nghĩa là tất cả những người thuộc nhóm này đều sẽ thêu dệt. Đơn giản chỉ là… *(tạm dừng để tìm từ)* xu hướng thích tô vẽ sẽ dễ xảy ra hơn ở những người có nhận thức chưa thật sự tinh tế.
-
-**Dolores: Tôi chỉ đang băn khoăn liệu có khả năng toàn bộ câu chuyện họ kể cho tôi nghe đều là sản phẩm của sự tưởng tượng hay không?**
-
-**Phil:** Điều đó có thể xảy ra, dù không phổ biến.
-
-**Dolores: Vậy nghĩa là phần lớn các câu chuyện đều sẽ dựa trên một số sự thật nào đó, chứ không hẳn chỉ là thêu dệt hoàn toàn.**
-
-**Phil:** Đúng vậy. Nên nhìn nhận chuyện đó dưới góc độ là họ đang "nhìn nhận sai lệch" do ảo giác hoặc cú sốc tâm lý, chứ không phải là họ cố tình nói dối.
-
-**Dolores: Vậy về cơ bản, khi họ kể cho tôi nghe một câu chuyện, tôi có thể giả định rằng nó được xây dựng trên một nền tảng thực tế nào đó.**
-
-**Phil:** Dựa trên một sự thật có thật ngoài đời. Tuy nhiên, xin nhắc lại, chính lăng kính nhận thức của người đó về sự thật ấy mới là thứ quyết định câu chuyện được dịch nghĩa và kể lại như thế nào.
-
-**Dolores: Đó chính là những điều tôi luôn trăn trở — làm sao để mình có thể chắc chắn khi làm việc với loại thông tin này. Nhưng các vị có nhắc đến việc những ký ức này được chôn sâu vào tiềm thức và tâm thức là để bảo vệ người đó. Tôi hoàn toàn đồng ý. Có một số người sau khi trải qua những trải nghiệm tiếp xúc với thực thể ngoài hành tinh này thì bắt đầu gặp ác mộng. Có lý do đặc biệt nào cho việc đó không các vị?**
-
-Không gian bỗng rơi vào một khoảng lặng kéo dài, rồi đột nhiên Phil mở bừng mắt, cắt ngang trạng thái xuất thần một cách hoàn toàn nằm ngoài dự tính. Anh chỉ nói một câu đơn giản: "Tôi xin lỗi. Tôi tỉnh rồi. Tôi thức dậy rồi đây."
-
-Rõ ràng là tôi đã vô tình chạm vào vùng cấm mà không hề hay biết. Các thực thể có vẻ không xem những câu hỏi trước của tôi là mối đe dọa, cho đến khi tôi vô tình bước qua ranh giới để chạm vào một chủ đề mà họ nghĩ rằng nó có thể liên đới trực tiếp đến những trải nghiệm cá nhân của chính Phil. Ngay cả khi bản thân tôi chưa nhìn thấy mối liên hệ nào, họ rõ ràng đã nghĩ rằng tôi đang dẫn dắt câu chuyện theo hướng đó. Có vẻ như họ không thích mạch câu hỏi này tiếp diễn nên đã rời đi và chủ động cắt đứt trạng thái thôi miên. Họ đã cảnh báo tôi từ trước, vì vậy để bảo vệ Phil khỏi những tổn thương tâm lý sâu hơn, họ đã can thiệp.
-
-Chuyện này từ trước đến nay chỉ xảy ra một vài lần vô cùng hiếm hoi. Khi tình huống này diễn ra, Phil hoàn toàn không thể tự mình tiếp tục mạch truyện được nữa. Anh ấy không có bất kỳ câu trả lời nào bằng tâm trí tỉnh táo của mình. Qua đó, chúng tôi biết chắc chắn một điều rằng: nguồn thông tin này không phải tự anh nghĩ ra, mà là được truyền tải xuyên qua anh.
+Phải, những người ngoài hành tinh đang ở đây. Tạ ơn Chúa vì điều đó, bởi vì nếu không có họ, chúng ta đã lạc lối rồi!
